@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-satellite-dish-mjs.cd83ce01.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[59495],{70259:function(e,t,p){p.r(t),p.d(t,{__iconNode:function(){return s},default:function(){return a}});var n=p(97040);const s=[["path",{d:"M4 10a7.31 7.31 0 0 0 10 10Z",key:"1fzpp3"}],["path",{d:"m9 15 3-3",key:"88sc13"}],["path",{d:"M17 13a6 6 0 0 0-6-6",key:"15cc6u"}],["path",{d:"M21 13A10 10 0 0 0 11 3",key:"11nf8s"}]],a=(0,n.A)("satellite-dish",s)}}]);

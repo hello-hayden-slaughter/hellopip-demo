@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-zodiac-aries-mjs.f3d8d9f6.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[55538],{62426:function(e,t,n){n.r(t),n.d(t,{__iconNode:function(){return u},default:function(){return a}});var p=n(97040);const u=[["path",{d:"M12 7.5a4.5 4.5 0 1 1 5 4.5",key:"k987hv"}],["path",{d:"M7 12a4.5 4.5 0 1 1 5-4.5V21",key:"mjup0w"}]],a=(0,p.A)("zodiac-aries",u)}}]);

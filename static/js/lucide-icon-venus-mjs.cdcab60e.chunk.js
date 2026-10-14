@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-venus-mjs.cdcab60e.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[54324],{4366:function(e,t,n){n.r(t),n.d(t,{__iconNode:function(){return p},default:function(){return u}});var c=n(97040);const p=[["path",{d:"M12 15v7",key:"t2xh3l"}],["path",{d:"M9 19h6",key:"456am0"}],["circle",{cx:"12",cy:"9",r:"6",key:"1nw4tq"}]],u=(0,c.A)("venus",p)}}]);

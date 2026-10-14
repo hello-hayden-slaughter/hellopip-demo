@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-face-slightly-frowning-mjs.bf694feb.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[89734],{28378:function(e,t,n){n.r(t),n.d(t,{__iconNode:function(){return p},default:function(){return a}});var c=n(97040);const p=[["path",{d:"M15 10V9",key:"4dkmfx"}],["path",{d:"M9 10V9",key:"1lazqi"}],["path",{d:"M9 16a5 5 0 016 0",key:"34mdxb"}],["circle",{cx:"12",cy:"12",r:"10",key:"1mglay"}]],a=(0,c.A)("face-slightly-frowning",p)}}]);

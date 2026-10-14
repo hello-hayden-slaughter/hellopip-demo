@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-mars-stroke-mjs.d8df46d8.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[3335],{78593:function(e,t,c){c.r(t),c.d(t,{__iconNode:function(){return n},default:function(){return k}});var p=c(97040);const n=[["path",{d:"m14 6 4 4",key:"1q72g9"}],["path",{d:"M17 3h4v4",key:"19p9u1"}],["path",{d:"m21 3-7.75 7.75",key:"1cjbfd"}],["circle",{cx:"9",cy:"15",r:"6",key:"bx5svt"}]],k=(0,p.A)("mars-stroke",n)}}]);

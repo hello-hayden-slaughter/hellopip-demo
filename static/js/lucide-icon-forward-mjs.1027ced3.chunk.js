@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-forward-mjs.1027ced3.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[93236],{57882:function(e,n,t){t.r(n),t.d(n,{__iconNode:function(){return u},default:function(){return o}});var p=t(97040);const u=[["path",{d:"m15 17 5-5-5-5",key:"nf172w"}],["path",{d:"M4 18v-2a4 4 0 0 1 4-4h12",key:"jmiej9"}]],o=(0,p.A)("forward",u)}}]);

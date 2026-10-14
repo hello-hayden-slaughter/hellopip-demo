@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-smartphone-charging-mjs.1253deae.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[97996],{63138:function(t,e,n){n.r(e),n.d(e,{__iconNode:function(){return h},default:function(){return p}});var r=n(97040);const h=[["rect",{width:"14",height:"20",x:"5",y:"2",rx:"2",ry:"2",key:"1yt0o3"}],["path",{d:"M12.667 8 10 12h4l-2.667 4",key:"h9lk2d"}]],p=(0,r.A)("smartphone-charging",h)}}]);

@@ -1,0 +1,297 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Pip app</title>
+  <!-- The apps Pip makes from a table in the web demo: a chart or a dashboard
+       (src/demo/apps.ts). Served the way a page Pip wrote is on the Mac, in a
+       sealed frame (src/demo/serve.ts). It is handed what to draw in its
+       address (#d={spec, snapshot}): the spec names the tiles and the chart by
+       column id, the snapshot is the table as it was when the app was made.
+       Inside the app view it then asks for the table as it is now, through the
+       app bridge (window.pip.table.read's message), and draws that, and draws
+       again whenever the table changes. Every figure is worked out from rows.
+
+       Colours are the design system's: data in --chart-sage, the finding in
+       --chart-coral, a third series in --chart-amber, ink and grounds from the
+       light and dark themes. Tiles say the numbers in words, so colour is never
+       the only key; a hidden table gives the chart's figures to a screen reader.
+       No fonts load: it never asks for anything. -->
+  <style>
+    :root {
+      --bg: #FAFAF8; --card: #FFFFFF; --ink: #1A1A1A; --ink-2: #545454; --muted: #626262;
+      --rule: #EDEAE5; --sage: #748D72; --coral: #E85A3A; --amber: #b07c18;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --bg: #1C1B1A; --card: #2E2D29; --ink: #E8E5E0; --ink-2: #B4B4B4; --muted: #A1A1A1;
+        --rule: #3C3935; --sage: #7A9278; --coral: #E85A3A; --amber: #e0ae55;
+      }
+    }
+    * { box-sizing: border-box; }
+    html, body { margin: 0; background: var(--bg); color: var(--ink); }
+    body { font: 14px/1.5 "Nunito", ui-rounded, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; padding: 32px 16px 48px; }
+    main { max-width: 880px; margin: 0 auto; }
+    h1 { font-size: 26px; line-height: 1.2; margin: 0 0 4px; font-weight: 700; }
+    .sub { color: var(--muted); margin: 0 0 24px; }
+    .tiles { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 12px; margin-bottom: 24px; }
+    .tile { background: var(--card); border: 1px solid var(--rule); border-radius: 12px; padding: 16px; min-width: 0; }
+    .tile .k { color: var(--muted); font-size: 13px; margin: 0; }
+    .tile .v { font-size: 26px; line-height: 1.2; font-weight: 700; margin: 6px 0 2px; font-variant-numeric: tabular-nums; overflow-wrap: anywhere; }
+    .tile .n { color: var(--ink-2); font-size: 13px; margin: 0; }
+    .card { background: var(--card); border: 1px solid var(--rule); border-radius: 12px; padding: 16px 16px 8px; }
+    .card h2 { font-size: 15px; margin: 0 0 8px; font-weight: 700; }
+    .legend { display: flex; flex-wrap: wrap; gap: 16px; color: var(--ink-2); font-size: 13px; margin: 0 0 8px; padding: 0; list-style: none; }
+    .legend i { display: inline-block; width: 10px; height: 10px; border-radius: 3px; margin-right: 6px; vertical-align: -1px; }
+    svg { display: block; width: 100%; height: auto; overflow: visible; }
+    .axis { fill: var(--muted); font-size: 11px; }
+    .val { fill: var(--ink-2); font-size: 11px; font-variant-numeric: tabular-nums; }
+    .grid { stroke: var(--rule); stroke-width: 1; }
+    .tip {
+      position: fixed; pointer-events: none; background: var(--card); color: var(--ink); border: 1px solid var(--rule);
+      border-radius: 8px; padding: 8px 10px; font-size: 12px; box-shadow: 0 4px 16px rgba(0,0,0,.12); opacity: 0; transition: opacity .12s;
+      font-variant-numeric: tabular-nums;
+    }
+    .tip b { display: block; margin-bottom: 2px; }
+    .empty { color: var(--muted); text-align: center; padding: 64px 0; }
+    .sr { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); }
+  </style>
+</head>
+<body>
+  <main id="app"><p class="empty">Nothing to show yet.</p></main>
+  <div class="tip" id="tip" role="tooltip"></div>
+  <script>
+    (function () {
+      var spec = null, table = null;
+
+      // ── What to draw: the address, then the table as it is now ────────────
+      function fromAddress() {
+        // The app view may add its own ?v=… after the figures: read up to that.
+        var raw = (location.hash || "").replace(/^#d=/, "").split("?v=")[0];
+        try {
+          var d = JSON.parse(decodeURIComponent(raw));
+          if (d && d.spec && d.spec.v === 1) { spec = d.spec; table = d.snapshot || null; }
+        } catch (e) { /* nothing to draw */ }
+      }
+
+      var esc = function (s) { return String(s == null ? "" : s).replace(/[&<>"]/g, function (c) { return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]; }); };
+      var num = function (v) { var n = typeof v === "number" ? v : parseFloat(String(v == null ? "" : v).replace(/[£,\s]/g, "")); return isFinite(n) ? n : 0; };
+      function fmt(n, f) {
+        if (f === "gbp") return "£" + Math.round(n).toLocaleString("en-GB");
+        if (f === "gbp2") return "£" + n.toLocaleString("en-GB", { minimumFractionDigits: 2, maximumFractionDigits: 2 });
+        if (f === "pct") return Math.round(n) + "%";
+        if (f === "days") { var d = Math.round(n * 10) / 10; return d + (d === 1 ? " day" : " days"); }
+        return (Math.round(n * 10) / 10).toLocaleString("en-GB");
+      }
+
+      // A month's row label in full in a tile ("Sep" → "September").
+      var MONTHS = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
+      function monthWord(label) {
+        var m = /^([A-Z][a-z]{2})( \d{4})?$/.exec(String(label));
+        if (!m) return label;
+        for (var i = 0; i < 12; i++) if (MONTHS[i].slice(0, 3) === m[1]) return MONTHS[i] + (m[2] || "");
+        return label;
+      }
+
+      function rowsOf() { return (table && table.rows || []).map(function (r) { return r && r.data ? r.data : (r || {}); }); }
+      function colOf(id) { return (table && table.columns || []).filter(function (c) { return c.id === id; })[0] || null; }
+      // A cell as it reads: a select's label, or the text.
+      function shown(r, id) {
+        var v = r[id], c = colOf(id);
+        if (c && c.options) { for (var i = 0; i < c.options.length; i++) if (c.options[i].id === v) return c.options[i].label; }
+        return v == null ? "" : String(v);
+      }
+      function keep(where) {
+        return function (r) {
+          if (!where) return true;
+          var s = shown(r, where.col);
+          if (where.is != null && s !== where.is) return false;
+          if (where.not != null && s === where.not) return false;
+          return true;
+        };
+      }
+      function sumOf(rows, cols) { return rows.reduce(function (a, r) { return a + cols.reduce(function (b, c) { return b + num(r[c]); }, 0); }, 0); }
+
+      // Rows grouped by a column, in the order they first appear.
+      function groups(rows, by, cols, agg) {
+        var order = [], acc = {};
+        rows.forEach(function (r) {
+          var k = shown(r, by) || "(none)";
+          if (!acc[k]) { acc[k] = { label: k, sums: cols.map(function () { return 0; }), n: 0 }; order.push(k); }
+          acc[k].n += 1;
+          cols.forEach(function (c, i) { acc[k].sums[i] += c === null ? 1 : num(r[c]); });
+        });
+        return order.map(function (k) {
+          var g = acc[k];
+          return { label: g.label, values: g.sums.map(function (s) { return agg === "avg" ? s / g.n : agg === "count" ? g.n : s; }) };
+        });
+      }
+
+      function tile(t, rows) {
+        var r = rows.filter(keep(t.where)), value = "", sub = t.sub || "";
+        if (t.k === "sum") value = fmt(sumOf(r, t.cols), t.fmt);
+        else if (t.k === "avg") value = r.length ? fmt(sumOf(r, [t.col]) / r.length, t.fmt) : "None yet";
+        else if (t.k === "count") value = String(r.length);
+        else if (t.k === "share") {
+          var all = sumOf(r, t.of), part = sumOf(r, [t.col]);
+          var pct = all ? Math.round((part / all) * 100) : 0;
+          value = all ? pct + "%" : "None yet";
+          if (t.compare && all) sub = (pct >= t.compare.pct ? "up" : "down") + " from " + t.compare.pct + "% " + t.compare.word;
+        } else if (t.k === "top") {
+          var gs = groups(r, t.by, t.cols, t.agg).map(function (g) { return { label: g.label, v: g.values.reduce(function (a, b) { return a + b; }, 0) }; });
+          if (!gs.length) value = "None yet";
+          else {
+            var best = gs.reduce(function (a, g) { return (t.pick === "min" ? g.v < a.v : g.v > a.v) ? g : a; }, gs[0]);
+            value = monthWord(best.label);
+            sub = sub.replace("{v}", fmt(best.v, t.fmt));
+          }
+        }
+        sub = sub.replace("{n}", String(r.length)).replace("{v}", "");
+        return '<div class="tile"><p class="k">' + esc(t.label) + '</p><p class="v">' + esc(value) + '</p>' + (sub ? '<p class="n">' + esc(sub) + "</p>" : "") + "</div>";
+      }
+
+      function bars(c, rows) {
+        var r = rows.filter(keep(c.where));
+        var cols = c.series.map(function (s) { return s.col; });
+        var list = c.group
+          ? groups(r, c.label, cols, c.agg)
+          : r.map(function (row) { return { label: shown(row, c.label), values: cols.map(function (col) { return col === null ? 1 : num(row[col]); }) }; });
+        if (c.sort === "desc") list.sort(function (a, b) { return sum(b.values) - sum(a.values); });
+        return list;
+      }
+      function sum(a) { return a.reduce(function (x, y) { return x + y; }, 0); }
+
+      function roundTop(x, yTop, w, h, r) {
+        r = Math.min(r, h, w / 2);
+        return "M" + x + "," + (yTop + h) + "V" + (yTop + r) + "Q" + x + "," + yTop + " " + (x + r) + "," + yTop + "H" + (x + w - r) + "Q" + (x + w) + "," + yTop + " " + (x + w) + "," + (yTop + r) + "V" + (yTop + h) + "Z";
+      }
+      function roundEnd(x, y, w, h, r) {
+        r = Math.min(r, w, h / 2);
+        return "M" + x + "," + y + "H" + (x + w - r) + "Q" + (x + w) + "," + y + " " + (x + w) + "," + (y + r) + "V" + (y + h - r) + "Q" + (x + w) + "," + (y + h) + " " + (x + w - r) + "," + (y + h) + "H" + x + "Z";
+      }
+
+      function chartSvg(c, list) {
+        var max = Math.max.apply(null, list.map(function (b) { return sum(b.values); }).concat([0])) || 1;
+        var tones = c.series.map(function (s) { return "var(--" + s.tone + ")"; });
+        var short = list.every(function (b) { return b.label.length <= 8; });
+        var s = "";
+        if (list.length > 6 && short) {
+          // Upright bars: a month by month run.
+          var W = 840, H = 300, L = 56, R = 8, T = 8, B = 28;
+          var step = niceStep(max), top = Math.ceil(max / step) * step || step;
+          var y = function (v) { return T + (H - T - B) * (1 - v / top); };
+          var slot = (W - L - R) / list.length, bw = Math.min(44, slot * 0.6);
+          s += '<svg viewBox="0 0 ' + W + " " + H + '" role="img" aria-label="' + esc(c.title) + '">';
+          for (var g = 0; g <= top + 1e-9; g += step) {
+            s += '<line class="grid" x1="' + L + '" x2="' + (W - R) + '" y1="' + y(g) + '" y2="' + y(g) + '"/>';
+            s += '<text class="axis" x="' + (L - 8) + '" y="' + (y(g) + 4) + '" text-anchor="end">' + esc(fmt(g, c.fmt === "gbp2" ? "gbp" : c.fmt)) + "</text>";
+          }
+          list.forEach(function (b, i) {
+            var x = L + slot * i + (slot - bw) / 2, base = 0;
+            s += '<g class="bar" data-i="' + i + '"><rect x="' + (L + slot * i) + '" y="' + T + '" width="' + slot + '" height="' + (H - T - B) + '" fill="transparent"/>';
+            b.values.forEach(function (v, k) {
+              var y0 = y(base), y1 = y(base + v), last = k === b.values.length - 1;
+              var h = Math.max(0, y0 - y1 - (last ? 0 : 2));
+              s += last ? '<path d="' + roundTop(x, y1, bw, h, 4) + '" fill="' + tones[k] + '"/>' : '<rect x="' + x + '" y="' + (y1 + 2) + '" width="' + bw + '" height="' + h + '" fill="' + tones[k] + '"/>';
+              base += v;
+            });
+            s += '<text class="axis" x="' + (x + bw / 2) + '" y="' + (H - 8) + '" text-anchor="middle">' + esc(b.label) + "</text></g>";
+          });
+          return s + "</svg>";
+        }
+        // Bars across: a few named things.
+        var W2 = 840, L2 = 170, R2 = 90, rowH = 28, gap = 10, T2 = 4;
+        var H2 = T2 + list.length * (rowH + gap);
+        var area = W2 - L2 - R2;
+        s += '<svg viewBox="0 0 ' + W2 + " " + H2 + '" role="img" aria-label="' + esc(c.title) + '">';
+        list.forEach(function (b, i) {
+          var y = T2 + i * (rowH + gap), x = L2;
+          var lbl = b.label.length > 24 ? b.label.slice(0, 23) + "…" : b.label;
+          s += '<g class="bar" data-i="' + i + '"><rect x="0" y="' + y + '" width="' + W2 + '" height="' + rowH + '" fill="transparent"/>';
+          s += '<text class="axis" x="' + (L2 - 10) + '" y="' + (y + rowH / 2 + 4) + '" text-anchor="end">' + esc(lbl) + "</text>";
+          b.values.forEach(function (v, k) {
+            var w = Math.max(0, (v / max) * area), last = k === b.values.length - 1;
+            if (w > 0) s += last ? '<path d="' + roundEnd(x, y, Math.max(2, w - 0), rowH, 4) + '" fill="' + tones[k] + '"/>' : '<rect x="' + x + '" y="' + y + '" width="' + Math.max(0, w - 2) + '" height="' + rowH + '" fill="' + tones[k] + '"/>';
+            x += w;
+          });
+          s += '<text class="val" x="' + (x + 8) + '" y="' + (y + rowH / 2 + 4) + '">' + esc(fmt(sum(b.values), c.fmt)) + "</text></g>";
+        });
+        return s + "</svg>";
+      }
+      function niceStep(max) {
+        var raw = max / 5, p = Math.pow(10, Math.floor(Math.log(raw || 1) / Math.LN10)), n = raw / p;
+        return (n <= 1 ? 1 : n <= 2 ? 2 : n <= 5 ? 5 : 10) * p;
+      }
+
+      function draw() {
+        if (!spec) return;
+        var app = document.getElementById("app");
+        var rows = rowsOf();
+        var name = (table && table.title) || spec.table.title;
+        document.title = spec.title;
+        var html = "<h1>" + esc(spec.title) + "</h1>";
+        html += '<p class="sub">' + esc(spec.sub ? spec.sub + " " : "") + "Made from your " + esc(name) + " table.</p>";
+        if (!rows.length) {
+          app.innerHTML = html + '<p class="empty">Your ' + esc(name) + " table has no rows yet.</p>";
+          return;
+        }
+        if (spec.tiles && spec.tiles.length) html += '<div class="tiles">' + spec.tiles.map(function (t) { return tile(t, rows); }).join("") + "</div>";
+        var list = [];
+        if (spec.chart) {
+          var c = spec.chart;
+          list = bars(c, rows);
+          html += '<section class="card"><h2>' + esc(c.title) + "</h2>";
+          if (c.series.length > 1) html += '<ul class="legend">' + c.series.map(function (s) { return '<li><i style="background:var(--' + s.tone + ')"></i>' + esc(s.name) + "</li>"; }).join("") + "</ul>";
+          html += '<div id="chart">' + chartSvg(c, list) + "</div>";
+          html += '<table class="sr"><caption>' + esc(c.title) + "</caption><tr><th></th>" + c.series.map(function (s) { return "<th>" + esc(s.name) + "</th>"; }).join("") + "</tr>";
+          list.forEach(function (b) { html += "<tr><td>" + esc(b.label) + "</td>" + b.values.map(function (v) { return "<td>" + esc(fmt(v, c.fmt)) + "</td>"; }).join("") + "</tr>"; });
+          html += "</table></section>";
+        }
+        app.innerHTML = html;
+
+        // One tooltip per bar: its label, each part and the whole.
+        var tip = document.getElementById("tip");
+        Array.prototype.forEach.call(document.querySelectorAll(".bar"), function (g) {
+          var b = list[+g.getAttribute("data-i")];
+          if (!b) return;
+          g.addEventListener("mousemove", function (e) {
+            var parts = spec.chart.series.length > 1 ? spec.chart.series.map(function (s, k) { return esc(s.name) + " " + esc(fmt(b.values[k], spec.chart.fmt)); }).join("<br>") + "<br>Together " + esc(fmt(sum(b.values), spec.chart.fmt)) : esc(fmt(sum(b.values), spec.chart.fmt));
+            tip.innerHTML = "<b>" + esc(b.label) + "</b>" + parts;
+            tip.style.left = Math.min(e.clientX + 12, window.innerWidth - 190) + "px";
+            tip.style.top = e.clientY + 12 + "px";
+            tip.style.opacity = "1";
+          });
+          g.addEventListener("mouseleave", function () { tip.style.opacity = "0"; });
+        });
+      }
+
+      // ── The app bridge: read the table as it is now, and again on a change ─
+      var reqId = 0, pending = {};
+      function read() {
+        if (window.parent === window) return;
+        var id = ++reqId, msg = { __pip: "request", id: id, method: "read", args: {} };
+        pending[id] = msg;
+        window.parent.postMessage(msg, "*");
+      }
+      window.addEventListener("message", function (e) {
+        if (e.source !== window.parent) return;
+        var m = e.data;
+        if (!m || typeof m !== "object") return;
+        if (m.__pip === "hello") { Object.keys(pending).forEach(function (k) { window.parent.postMessage(pending[k], "*"); }); return; }
+        if (m.__pip === "change") { read(); return; }
+        if (m.__pip !== "response" || !pending[m.id]) return;
+        delete pending[m.id];
+        var r = m.result;
+        if (r && Array.isArray(r.rows) && Array.isArray(r.columns)) { table = { title: r.title, columns: r.columns, rows: r.rows }; draw(); }
+      });
+
+      fromAddress();
+      draw();
+      read();
+      // A new address with only its fragment changed is not a new page: draw again.
+      window.addEventListener("hashchange", function () { fromAddress(); draw(); read(); });
+    })();
+  </script>
+</body>
+</html>

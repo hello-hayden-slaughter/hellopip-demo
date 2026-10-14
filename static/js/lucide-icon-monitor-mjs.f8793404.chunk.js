@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-monitor-mjs.f8793404.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[20449],{19667:function(e,n,t){t.r(n),t.d(n,{__iconNode:function(){return k},default:function(){return o}});var i=t(97040);const k=[["rect",{width:"20",height:"14",x:"2",y:"3",rx:"2",key:"48i651"}],["line",{x1:"8",x2:"16",y1:"21",y2:"21",key:"1svkeh"}],["line",{x1:"12",x2:"12",y1:"17",y2:"21",key:"vw1qmm"}]],o=(0,i.A)("monitor",k)}}]);

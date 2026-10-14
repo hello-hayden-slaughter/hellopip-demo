@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-spline-mjs.1f55cc35.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[4656],{45068:function(e,c,k){k.r(c),k.d(c,{__iconNode:function(){return p},default:function(){return t}});var n=k(97040);const p=[["circle",{cx:"19",cy:"5",r:"2",key:"mhkx31"}],["circle",{cx:"5",cy:"19",r:"2",key:"v8kfzx"}],["path",{d:"M5 17A12 12 0 0 1 17 5",key:"1okkup"}]],t=(0,n.A)("spline",p)}}]);

@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-pentagon-mjs.b41fe67b.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[1195],{83999:function(e,n,t){t.r(n),t.d(n,{__iconNode:function(){return p},default:function(){return u}});var a=t(97040);const p=[["path",{d:"M10.83 2.38a2 2 0 0 1 2.34 0l8 5.74a2 2 0 0 1 .73 2.25l-3.04 9.26a2 2 0 0 1-1.9 1.37H7.04a2 2 0 0 1-1.9-1.37L2.1 10.37a2 2 0 0 1 .73-2.25z",key:"2hea0t"}]],u=(0,a.A)("pentagon",p)}}]);

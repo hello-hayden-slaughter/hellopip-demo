@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-timer-reset-mjs.5f8d9b05.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[43566],{92883:function(e,t,n){n.r(t),n.d(t,{__iconNode:function(){return a},default:function(){return u}});var p=n(97040);const a=[["path",{d:"M10 2h4",key:"n1abiw"}],["path",{d:"M12 14v-4",key:"1evpnu"}],["path",{d:"M4 13a8 8 0 0 1 8-7 8 8 0 1 1-5.3 14L4 17.6",key:"1ts96g"}],["path",{d:"M9 17H4v5",key:"8t5av"}]],u=(0,p.A)("timer-reset",a)}}]);

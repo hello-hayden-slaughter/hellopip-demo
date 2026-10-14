@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-square-play-mjs.dc48da5b.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[94655],{83473:function(e,t,n){n.r(t),n.d(t,{__iconNode:function(){return u},default:function(){return a}});var p=n(97040);const u=[["rect",{x:"3",y:"3",width:"18",height:"18",rx:"2",key:"h1oib"}],["path",{d:"M9 9.003a1 1 0 0 1 1.517-.859l4.997 2.997a1 1 0 0 1 0 1.718l-4.997 2.997A1 1 0 0 1 9 14.996z",key:"kmsa83"}]],a=(0,p.A)("square-play",u)}}]);

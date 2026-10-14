@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-regex-mjs.9cbd572d.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[54386],{67356:function(e,t,p){p.r(t),p.d(t,{__iconNode:function(){return n},default:function(){return k}});var a=p(97040);const n=[["path",{d:"M17 3v10",key:"15fgeh"}],["path",{d:"m12.67 5.5 8.66 5",key:"1gpheq"}],["path",{d:"m12.67 10.5 8.66-5",key:"1dkfa6"}],["path",{d:"M9 17a2 2 0 0 0-2-2H5a2 2 0 0 0-2 2v2a2 2 0 0 0 2 2h2a2 2 0 0 0 2-2v-2z",key:"swwfx4"}]],k=(0,a.A)("regex",n)}}]);

@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-concierge-bell-mjs.f3deb2ce.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[38098],{94610:function(e,p,t){t.r(p),t.d(p,{__iconNode:function(){return n},default:function(){return c}});var a=t(97040);const n=[["path",{d:"M3 20a1 1 0 0 1-1-1v-1a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v1a1 1 0 0 1-1 1Z",key:"1pvr1r"}],["path",{d:"M20 16a8 8 0 1 0-16 0",key:"1pa543"}],["path",{d:"M12 4v4",key:"1bq03y"}],["path",{d:"M10 4h4",key:"1xpv9s"}]],c=(0,a.A)("concierge-bell",n)}}]);

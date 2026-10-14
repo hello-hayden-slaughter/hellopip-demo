@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-torus-mjs.1f5270a2.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[97316],{79546:function(e,u,c){c.r(u),c.d(u,{__iconNode:function(){return r},default:function(){return t}});var n=c(97040);const r=[["ellipse",{cx:"12",cy:"11",rx:"3",ry:"2",key:"1b2qxu"}],["ellipse",{cx:"12",cy:"12.5",rx:"10",ry:"8.5",key:"h8emeu"}]],t=(0,n.A)("torus",r)}}]);

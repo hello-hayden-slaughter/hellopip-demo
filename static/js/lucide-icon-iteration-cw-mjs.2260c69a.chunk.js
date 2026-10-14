@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-iteration-cw-mjs.2260c69a.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[52239],{60071:function(t,e,n){n.r(e),n.d(e,{__iconNode:function(){return i},default:function(){return u}});var p=n(97040);const i=[["path",{d:"M4 10a8 8 0 1 1 8 8H4",key:"svv66n"}],["path",{d:"m8 22-4-4 4-4",key:"6g7gki"}]],u=(0,p.A)("iteration-cw",i)}}]);

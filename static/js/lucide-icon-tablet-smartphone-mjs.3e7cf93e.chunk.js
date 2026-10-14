@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-tablet-smartphone-mjs.3e7cf93e.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[1379],{15901:function(t,e,n){n.r(e),n.d(e,{__iconNode:function(){return h},default:function(){return r}});var p=n(97040);const h=[["rect",{width:"10",height:"14",x:"3",y:"8",rx:"2",key:"1vrsiq"}],["path",{d:"M5 4a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v16a2 2 0 0 1-2 2h-2.4",key:"1j4zmg"}],["path",{d:"M8 18h.01",key:"lrp35t"}]],r=(0,p.A)("tablet-smartphone",h)}}]);

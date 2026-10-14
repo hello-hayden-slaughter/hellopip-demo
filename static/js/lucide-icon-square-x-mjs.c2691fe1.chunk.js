@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-square-x-mjs.c2691fe1.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[69933],{66537:function(e,t,n){n.r(t),n.d(t,{__iconNode:function(){return u},default:function(){return p}});var r=n(97040);const u=[["rect",{width:"18",height:"18",x:"3",y:"3",rx:"2",ry:"2",key:"1m3agn"}],["path",{d:"m15 9-6 6",key:"1uzhvr"}],["path",{d:"m9 9 6 6",key:"z0biqf"}]],p=(0,r.A)("square-x",u)}}]);

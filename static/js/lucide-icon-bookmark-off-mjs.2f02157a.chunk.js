@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-bookmark-off-mjs.2f02157a.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[29427],{89291:function(e,t,n){n.r(t),n.d(t,{__iconNode:function(){return a},default:function(){return p}});var o=n(97040);const a=[["path",{d:"M19 19v1a1 1 0 0 1-1.496.868l-4.512-2.578a2 2 0 0 0-1.984 0l-4.512 2.578A1 1 0 0 1 5 20V5",key:"nigmce"}],["path",{d:"m2 2 20 20",key:"1ooewy"}],["path",{d:"M8.656 3H17a2 2 0 0 1 2 2v8.344",key:"hlvsa"}]],p=(0,o.A)("bookmark-off",a)}}]);

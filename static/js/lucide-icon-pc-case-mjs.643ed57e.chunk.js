@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-pc-case-mjs.643ed57e.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[8727],{55069:function(e,t,h){h.r(t),h.d(t,{__iconNode:function(){return n},default:function(){return u}});var p=h(97040);const n=[["rect",{width:"14",height:"20",x:"5",y:"2",rx:"2",key:"1uq1d7"}],["path",{d:"M15 14h.01",key:"1kp3bh"}],["path",{d:"M9 6h6",key:"dgm16u"}],["path",{d:"M9 10h6",key:"9gxzsh"}]],u=(0,p.A)("pc-case",n)}}]);

@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-paperclip-mjs.739fb4b6.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[6723],{70897:function(e,p,n){n.r(p),n.d(p,{__iconNode:function(){return u},default:function(){return c}});var t=n(97040);const u=[["path",{d:"m16 6-8.414 8.586a2 2 0 0 0 2.829 2.829l8.414-8.586a4 4 0 1 0-5.657-5.657l-8.379 8.551a6 6 0 1 0 8.485 8.485l8.379-8.551",key:"1miecu"}]],c=(0,t.A)("paperclip",u)}}]);

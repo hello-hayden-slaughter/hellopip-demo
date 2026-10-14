@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-circle-dot-mjs.aec8a9ca.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[81233],{73001:function(c,e,n){n.r(e),n.d(e,{__iconNode:function(){return t},default:function(){return i}});var r=n(97040);const t=[["circle",{cx:"12",cy:"12",r:"1",key:"41hilf"}],["circle",{cx:"12",cy:"12",r:"10",key:"1mglay"}]],i=(0,r.A)("circle-dot",t)}}]);

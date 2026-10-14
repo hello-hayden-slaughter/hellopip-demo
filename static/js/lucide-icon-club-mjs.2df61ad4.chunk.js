@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-club-mjs.2df61ad4.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[30611],{41555:function(e,t,n){n.r(t),n.d(t,{__iconNode:function(){return p},default:function(){return a}});var u=n(97040);const p=[["path",{d:"M17.28 9.05a5.5 5.5 0 1 0-10.56 0A5.5 5.5 0 1 0 12 17.66a5.5 5.5 0 1 0 5.28-8.6Z",key:"27yuqz"}],["path",{d:"M12 17.66L12 22",key:"ogfahf"}]],a=(0,u.A)("club",p)}}]);

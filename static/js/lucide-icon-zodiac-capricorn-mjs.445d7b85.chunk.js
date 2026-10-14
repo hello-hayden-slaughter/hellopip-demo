@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-zodiac-capricorn-mjs.445d7b85.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[99277],{30029:function(c,e,n){n.r(e),n.d(e,{__iconNode:function(){return p},default:function(){return a}});var t=n(97040);const p=[["path",{d:"M11 21a3 3 0 0 0 3-3V6.5a1 1 0 0 0-7 0",key:"1kkncs"}],["path",{d:"M7 19V6a3 3 0 0 0-3-3h0",key:"1jg5y1"}],["circle",{cx:"17",cy:"17",r:"3",key:"18b49y"}]],a=(0,t.A)("zodiac-capricorn",p)}}]);

@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-copyleft-mjs.d4ae845e.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[40143],{39895:function(e,c,t){t.r(c),t.d(c,{__iconNode:function(){return p},default:function(){return u}});var n=t(97040);const p=[["circle",{cx:"12",cy:"12",r:"10",key:"1mglay"}],["path",{d:"M9.17 14.83a4 4 0 1 0 0-5.66",key:"1sveal"}]],u=(0,n.A)("copyleft",p)}}]);

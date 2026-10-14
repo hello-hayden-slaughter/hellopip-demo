@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-arrow-up-right-mjs.9f58d24b.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[41609],{2981:function(t,e,n){n.r(e),n.d(e,{__iconNode:function(){return u},default:function(){return i}});var p=n(97040);const u=[["path",{d:"M7 7h10v10",key:"1tivn9"}],["path",{d:"M7 17 17 7",key:"1vkiza"}]],i=(0,p.A)("arrow-up-right",u)}}]);

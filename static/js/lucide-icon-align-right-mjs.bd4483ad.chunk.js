@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-align-right-mjs.bd4483ad.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[94277],{65075:function(e,p,t){t.r(p),t.d(p,{default:function(){return u.default}});var u=t(86590)}}]);

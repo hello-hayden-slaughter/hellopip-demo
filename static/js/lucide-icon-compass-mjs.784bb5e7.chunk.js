@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-compass-mjs.784bb5e7.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[16455],{73297:function(e,c,t){t.r(c),t.d(c,{__iconNode:function(){return p},default:function(){return s}});var n=t(97040);const p=[["circle",{cx:"12",cy:"12",r:"10",key:"1mglay"}],["path",{d:"m16.24 7.76-1.804 5.411a2 2 0 0 1-1.265 1.265L7.76 16.24l1.804-5.411a2 2 0 0 1 1.265-1.265z",key:"9ktpf1"}]],s=(0,n.A)("compass",p)}}]);

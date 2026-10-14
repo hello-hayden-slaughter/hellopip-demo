@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-circle-pound-sterling-mjs.3e9121f3.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[67953],{53687:function(e,c,n){n.r(c),n.d(c,{__iconNode:function(){return p},default:function(){return r}});var t=n(97040);const p=[["circle",{cx:"12",cy:"12",r:"10",key:"1mglay"}],["path",{d:"M10 16V9.5a1 1 0 0 1 5 0",key:"1i1are"}],["path",{d:"M8 12h4",key:"qz6y1c"}],["path",{d:"M8 16h7",key:"sbedsn"}]],r=(0,t.A)("circle-pound-sterling",p)}}]);

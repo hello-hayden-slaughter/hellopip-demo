@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-list-collapse-mjs.6800368d.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[47747],{45578:function(e,p,t){t.r(p),t.d(p,{__iconNode:function(){return h},default:function(){return k}});var n=t(97040);const h=[["path",{d:"M10 5h11",key:"1hkqpe"}],["path",{d:"M10 12h11",key:"6m4ad9"}],["path",{d:"M10 19h11",key:"14g2nv"}],["path",{d:"m3 10 3-3-3-3",key:"i7pm08"}],["path",{d:"m3 20 3-3-3-3",key:"20gx1n"}]],k=(0,n.A)("list-collapse",h)}}]);

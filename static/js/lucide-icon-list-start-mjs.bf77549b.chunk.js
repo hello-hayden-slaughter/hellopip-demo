@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-list-start-mjs.bf77549b.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[74364],{70268:function(p,t,e){e.r(t),e.d(t,{__iconNode:function(){return k},default:function(){return n}});var h=e(97040);const k=[["path",{d:"M3 5h6",key:"1ltk0q"}],["path",{d:"M3 12h13",key:"ppymz1"}],["path",{d:"M3 19h13",key:"bpdczq"}],["path",{d:"m16 8-3-3 3-3",key:"1pjpp6"}],["path",{d:"M21 19V7a2 2 0 0 0-2-2h-6",key:"4zzq67"}]],n=(0,h.A)("list-start",k)}}]);

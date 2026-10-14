@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-clock-plus-mjs.4f455a0f.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[46448],{19876:function(t,e,p){p.r(e),p.d(e,{__iconNode:function(){return n},default:function(){return u}});var k=p(97040);const n=[["path",{d:"M12 6v6l3.644 1.822",key:"1jmett"}],["path",{d:"M16 19h6",key:"xwg31i"}],["path",{d:"M19 16v6",key:"tddt3s"}],["path",{d:"M21.92 13.267a10 10 0 1 0-8.653 8.653",key:"1u0osk"}]],u=(0,k.A)("clock-plus",n)}}]);

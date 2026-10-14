@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-rectangle-ellipsis-mjs.995827cf.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[45462],{67230:function(e,t,p){p.r(t),p.d(t,{__iconNode:function(){return d},default:function(){return h}});var n=p(97040);const d=[["rect",{width:"20",height:"12",x:"2",y:"6",rx:"2",key:"9lu3g6"}],["path",{d:"M12 12h.01",key:"1mp3jc"}],["path",{d:"M17 12h.01",key:"1m0b6t"}],["path",{d:"M7 12h.01",key:"eqddd0"}]],h=(0,n.A)("rectangle-ellipsis",d)}}]);

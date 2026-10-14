@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-headphones-mjs.26a07cdb.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[41022],{23202:function(e,a,n){n.r(a),n.d(a,{__iconNode:function(){return p},default:function(){return h}});var t=n(97040);const p=[["path",{d:"M3 14h3a2 2 0 0 1 2 2v3a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-7a9 9 0 0 1 18 0v7a2 2 0 0 1-2 2h-1a2 2 0 0 1-2-2v-3a2 2 0 0 1 2-2h3",key:"1xhozi"}]],h=(0,t.A)("headphones",p)}}]);

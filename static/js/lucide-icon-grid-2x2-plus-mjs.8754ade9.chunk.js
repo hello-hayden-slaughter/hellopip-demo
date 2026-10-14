@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-grid-2x2-plus-mjs.8754ade9.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[19007],{63853:function(e,p,t){t.r(p),t.d(p,{__iconNode:function(){return n},default:function(){return i}});var a=t(97040);const n=[["path",{d:"M12 3v17a1 1 0 0 1-1 1H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2v6a1 1 0 0 1-1 1H3",key:"11za1p"}],["path",{d:"M16 19h6",key:"xwg31i"}],["path",{d:"M19 22v-6",key:"qhmiwi"}]],i=(0,a.A)("grid-2x2-plus",n)}}]);

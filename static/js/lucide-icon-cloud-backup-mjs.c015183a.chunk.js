@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-cloud-backup-mjs.c015183a.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[15213],{68909:function(e,p,t){t.r(p),t.d(p,{__iconNode:function(){return n},default:function(){return c}});var u=t(97040);const n=[["path",{d:"M21 15.251A4.5 4.5 0 0 0 17.5 8h-1.79A7 7 0 1 0 3 13.607",key:"xpoh9y"}],["path",{d:"M7 11v4h4",key:"q9yh32"}],["path",{d:"M8 19a5 5 0 0 0 9-3 4.5 4.5 0 0 0-4.5-4.5 4.82 4.82 0 0 0-3.41 1.41L7 15",key:"1xm8iu"}]],c=(0,u.A)("cloud-backup",n)}}]);

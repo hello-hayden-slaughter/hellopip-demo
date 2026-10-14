@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-skip-back-mjs.21a29fc5.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[57684],{4162:function(p,t,e){e.r(t),e.d(t,{__iconNode:function(){return k},default:function(){return u}});var n=e(97040);const k=[["path",{d:"M17.971 4.285A2 2 0 0 1 21 6v12a2 2 0 0 1-3.029 1.715l-9.997-5.998a2 2 0 0 1-.003-3.432z",key:"15892j"}],["path",{d:"M3 20V4",key:"1ptbpl"}]],u=(0,n.A)("skip-back",k)}}]);

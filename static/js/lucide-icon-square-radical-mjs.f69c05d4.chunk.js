@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-square-radical-mjs.f69c05d4.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[16699],{28679:function(e,t,n){n.r(t),n.d(t,{__iconNode:function(){return i},default:function(){return r}});var h=n(97040);const i=[["path",{d:"M7 12h2l2 5 2-10h4",key:"1fxv6h"}],["rect",{x:"3",y:"3",width:"18",height:"18",rx:"2",key:"h1oib"}]],r=(0,h.A)("square-radical",i)}}]);

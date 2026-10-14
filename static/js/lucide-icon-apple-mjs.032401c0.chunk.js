@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-apple-mjs.032401c0.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[2903],{30086:function(e,p,t){t.r(p),t.d(p,{__iconNode:function(){return a},default:function(){return u}});var n=t(97040);const a=[["path",{d:"M12 6.528V3a1 1 0 0 1 1-1h0",key:"11qiee"}],["path",{d:"M18.237 21A15 15 0 0 0 22 11a6 6 0 0 0-10-4.472A6 6 0 0 0 2 11a15.1 15.1 0 0 0 3.763 10 3 3 0 0 0 3.648.648 5.5 5.5 0 0 1 5.178 0A3 3 0 0 0 18.237 21",key:"110c12"}]],u=(0,n.A)("apple",a)}}]);

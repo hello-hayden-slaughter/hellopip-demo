@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-bot-mjs.10d9721d.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[65236],{75346:function(e,t,h){h.r(t),h.d(t,{__iconNode:function(){return n},default:function(){return r}});var p=h(97040);const n=[["path",{d:"M12 8V4H8",key:"hb8ula"}],["rect",{width:"16",height:"12",x:"4",y:"8",rx:"2",key:"enze0r"}],["path",{d:"M2 14h2",key:"vft8re"}],["path",{d:"M20 14h2",key:"4cs60a"}],["path",{d:"M15 13v2",key:"1xurst"}],["path",{d:"M9 13v2",key:"rq6x2g"}]],r=(0,p.A)("bot",n)}}]);

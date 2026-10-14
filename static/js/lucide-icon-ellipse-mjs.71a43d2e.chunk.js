@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-ellipse-mjs.71a43d2e.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[19417],{2111:function(e,n,t){t.r(n),t.d(n,{__iconNode:function(){return s},default:function(){return c}});var p=t(97040);const s=[["ellipse",{cx:"12",cy:"12",rx:"10",ry:"6",key:"swdkt4"}]],c=(0,p.A)("ellipse",s)}}]);

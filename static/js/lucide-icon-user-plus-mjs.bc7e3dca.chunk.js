@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-user-plus-mjs.bc7e3dca.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[39417],{93115:function(e,n,t){t.r(n),t.d(n,{__iconNode:function(){return c},default:function(){return y}});var u=t(97040);const c=[["path",{d:"M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2",key:"1yyitq"}],["circle",{cx:"9",cy:"7",r:"4",key:"nufk8"}],["line",{x1:"19",x2:"19",y1:"8",y2:"14",key:"1bvyxn"}],["line",{x1:"22",x2:"16",y1:"11",y2:"11",key:"1shjgl"}]],y=(0,u.A)("user-plus",c)}}]);

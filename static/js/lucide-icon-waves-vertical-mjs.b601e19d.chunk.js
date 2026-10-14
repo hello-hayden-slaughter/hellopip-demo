@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-waves-vertical-mjs.b601e19d.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[98042],{17114:function(t,e,n){n.r(e),n.d(e,{__iconNode:function(){return u},default:function(){return a}});var p=n(97040);const u=[["path",{d:"M12 2q2 2.5 0 5t0 5 0 5 0 5",key:"13jdbg"}],["path",{d:"M19 2q2 2.5 0 5t0 5 0 5 0 5",key:"1ozhzu"}],["path",{d:"M5 2q2 2.5 0 5t0 5 0 5 0 5",key:"1bi6v5"}]],a=(0,p.A)("waves-vertical",u)}}]);

@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-power-off-mjs.e1f4c1e6.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[12128],{64450:function(e,t,p){p.r(t),p.d(t,{__iconNode:function(){return o},default:function(){return k}});var n=p(97040);const o=[["path",{d:"M18.36 6.64A9 9 0 0 1 20.77 15",key:"dxknvb"}],["path",{d:"M6.16 6.16a9 9 0 1 0 12.68 12.68",key:"1x7qb5"}],["path",{d:"M12 2v4",key:"3427ic"}],["path",{d:"m2 2 20 20",key:"1ooewy"}]],k=(0,n.A)("power-off",o)}}]);

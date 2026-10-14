@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-wifi-zero-mjs.15ca8aac.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[60069],{73607:function(e,n,t){t.r(n),t.d(n,{__iconNode:function(){return p},default:function(){return u}});var i=t(97040);const p=[["path",{d:"M12 20h.01",key:"zekei9"}]],u=(0,i.A)("wifi-zero",p)}}]);

@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-flask-round-mjs.fd75d4cb.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[78385],{11407:function(e,n,t){t.r(n),t.d(n,{__iconNode:function(){return s},default:function(){return u}});var p=t(97040);const s=[["path",{d:"M10 2v6.292a7 7 0 1 0 4 0V2",key:"1s42pc"}],["path",{d:"M5 15h14",key:"m0yey3"}],["path",{d:"M8.5 2h7",key:"csnxdl"}]],u=(0,p.A)("flask-round",s)}}]);

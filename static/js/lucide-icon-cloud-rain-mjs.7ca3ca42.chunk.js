@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-cloud-rain-mjs.7ca3ca42.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[89101],{96053:function(e,t,n){n.r(t),n.d(t,{__iconNode:function(){return a},default:function(){return c}});var p=n(97040);const a=[["path",{d:"M4 14.899A7 7 0 1 1 15.71 8h1.79a4.5 4.5 0 0 1 2.5 8.242",key:"1pljnt"}],["path",{d:"M16 14v6",key:"1j4efv"}],["path",{d:"M8 14v6",key:"17c4r9"}],["path",{d:"M12 16v6",key:"c8a4gj"}]],c=(0,p.A)("cloud-rain",a)}}]);

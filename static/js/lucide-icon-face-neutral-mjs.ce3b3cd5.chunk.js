@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-face-neutral-mjs.ce3b3cd5.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[26094],{22018:function(e,t,c){c.r(t),c.d(t,{__iconNode:function(){return k},default:function(){return p}});var n=c(97040);const k=[["path",{d:"M15 10V9",key:"4dkmfx"}],["path",{d:"M8 16h8",key:"10ke2u"}],["path",{d:"M9 10V9",key:"1lazqi"}],["circle",{cx:"12",cy:"12",r:"10",key:"1mglay"}]],p=(0,n.A)("face-neutral",k)}}]);

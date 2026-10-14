@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-history-mjs.c3708cb0.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[60783],{81485:function(e,p,t){t.r(p),t.d(p,{default:function(){return u.default}});var u=t(72081)}}]);

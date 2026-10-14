@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-closed-caption-mjs.78d8f071.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[23322],{36946:function(e,t,n){n.r(t),n.d(t,{__iconNode:function(){return c},default:function(){return k}});var p=n(97040);const c=[["path",{d:"M10 9.17a3 3 0 1 0 0 5.66",key:"h9wayk"}],["path",{d:"M17 9.17a3 3 0 1 0 0 5.66",key:"1v6zke"}],["rect",{x:"2",y:"5",width:"20",height:"14",rx:"2",key:"qneu4z"}]],k=(0,p.A)("closed-caption",c)}}]);

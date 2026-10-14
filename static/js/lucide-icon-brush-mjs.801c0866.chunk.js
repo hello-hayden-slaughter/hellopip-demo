@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-brush-mjs.801c0866.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[59511],{70273:function(e,t,p){p.r(t),p.d(t,{__iconNode:function(){return u},default:function(){return a}});var n=p(97040);const u=[["path",{d:"m11 10 3 3",key:"fzmg1i"}],["path",{d:"M6.5 21A3.5 3.5 0 1 0 3 17.5a2.62 2.62 0 0 1-.708 1.792A1 1 0 0 0 3 21z",key:"p4q2r7"}],["path",{d:"M9.969 17.031 21.378 5.624a1 1 0 0 0-3.002-3.002L6.967 14.031",key:"wy6l02"}]],a=(0,n.A)("brush",u)}}]);

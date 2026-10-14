@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-rotate-ccw-mjs.ee902714.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[18440],{33968:function(e,t,n){n.r(t),n.d(t,{__iconNode:function(){return c},default:function(){return u}});var p=n(97040);const c=[["path",{d:"M3 12a9 9 0 1 0 9-9 9.75 9.75 0 0 0-6.74 2.74L3 8",key:"1357e3"}],["path",{d:"M3 3v5h5",key:"1xhq8a"}]],u=(0,p.A)("rotate-ccw",c)}}]);

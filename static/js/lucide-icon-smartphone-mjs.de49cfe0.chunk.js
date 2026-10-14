@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-smartphone-mjs.de49cfe0.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[74086],{63386:function(t,e,n){n.r(e),n.d(e,{__iconNode:function(){return r},default:function(){return u}});var p=n(97040);const r=[["rect",{width:"14",height:"20",x:"5",y:"2",rx:"2",ry:"2",key:"1yt0o3"}],["path",{d:"M12 18h.01",key:"mhygvu"}]],u=(0,p.A)("smartphone",r)}}]);

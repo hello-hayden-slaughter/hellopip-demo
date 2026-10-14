@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-disc-mjs.454a9e85.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[53676],{32516:function(c,e,n){n.r(e),n.d(e,{__iconNode:function(){return t},default:function(){return i}});var r=n(97040);const t=[["circle",{cx:"12",cy:"12",r:"10",key:"1mglay"}],["circle",{cx:"12",cy:"12",r:"2",key:"1c9p78"}]],i=(0,r.A)("disc",t)}}]);

@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-chevrons-down-mjs.f073e75d.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[51518],{66856:function(e,n,t){t.r(n),t.d(n,{__iconNode:function(){return c},default:function(){return o}});var p=t(97040);const c=[["path",{d:"m7 6 5 5 5-5",key:"1lc07p"}],["path",{d:"m7 13 5 5 5-5",key:"1d48rs"}]],o=(0,p.A)("chevrons-down",c)}}]);

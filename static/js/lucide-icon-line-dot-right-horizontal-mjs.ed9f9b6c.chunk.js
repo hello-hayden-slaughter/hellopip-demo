@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-line-dot-right-horizontal-mjs.ed9f9b6c.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[98193],{81807:function(e,t,n){n.r(t),n.d(t,{__iconNode:function(){return o},default:function(){return i}});var c=n(97040);const o=[["path",{d:"M 3 12 L 15 12",key:"ymhu98"}],["circle",{cx:"18",cy:"12",r:"3",key:"1kchzo"}]],i=(0,c.A)("line-dot-right-horizontal",o)}}]);

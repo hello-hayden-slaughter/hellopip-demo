@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-mountain-snow-mjs.649fc18d.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[9236],{58826:function(n,t,e){e.r(t),e.d(t,{__iconNode:function(){return o},default:function(){return u}});var p=e(97040);const o=[["path",{d:"m8 3 4 8 5-5 5 15H2L8 3z",key:"otkl63"}],["path",{d:"M4.14 15.08c2.62-1.57 5.24-1.43 7.86.42 2.74 1.94 5.49 2 8.23.19",key:"1pvmmp"}]],u=(0,p.A)("mountain-snow",o)}}]);

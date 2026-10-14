@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-square-kanban-mjs.fe8137cf.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[34332],{7062:function(e,t,n){n.r(t),n.d(t,{__iconNode:function(){return p},default:function(){return i}});var a=n(97040);const p=[["rect",{width:"18",height:"18",x:"3",y:"3",rx:"2",key:"afitv7"}],["path",{d:"M8 7v7",key:"1x2jlm"}],["path",{d:"M12 7v4",key:"xawao1"}],["path",{d:"M16 7v9",key:"1hp2iy"}]],i=(0,a.A)("square-kanban",p)}}]);

@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-saudi-riyal-mjs.c98ead64.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[67539],{52261:function(e,t,n){n.r(t),n.d(t,{__iconNode:function(){return a},default:function(){return u}});var p=n(97040);const a=[["path",{d:"m20 19.5-5.5 1.2",key:"1aenhr"}],["path",{d:"M14.5 4v11.22a1 1 0 0 0 1.242.97L20 15.2",key:"2rtezt"}],["path",{d:"m2.978 19.351 5.549-1.363A2 2 0 0 0 10 16V2",key:"1kbm92"}],["path",{d:"M20 10 4 13.5",key:"8nums9"}]],u=(0,p.A)("saudi-riyal",a)}}]);

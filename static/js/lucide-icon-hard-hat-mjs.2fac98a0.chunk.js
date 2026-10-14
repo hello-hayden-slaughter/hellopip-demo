@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-hard-hat-mjs.2fac98a0.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[18516],{28040:function(t,e,a){a.r(e),a.d(e,{__iconNode:function(){return n},default:function(){return p}});var h=a(97040);const n=[["path",{d:"M10 10V5a1 1 0 0 1 1-1h2a1 1 0 0 1 1 1v5",key:"1p9q5i"}],["path",{d:"M14 6a6 6 0 0 1 6 6v3",key:"1hnv84"}],["path",{d:"M4 15v-3a6 6 0 0 1 6-6",key:"9ciidu"}],["rect",{x:"2",y:"15",width:"20",height:"4",rx:"1",key:"g3x8cw"}]],p=(0,h.A)("hard-hat",n)}}]);

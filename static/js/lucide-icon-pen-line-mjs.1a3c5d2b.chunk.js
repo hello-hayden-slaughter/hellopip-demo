@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-pen-line-mjs.1a3c5d2b.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[97135],{7315:function(e,n,t){t.r(n),t.d(n,{__iconNode:function(){return u},default:function(){return a}});var p=t(97040);const u=[["path",{d:"M13 21h8",key:"1jsn5i"}],["path",{d:"M21.174 6.812a1 1 0 0 0-3.986-3.987L3.842 16.174a2 2 0 0 0-.5.83l-1.321 4.352a.5.5 0 0 0 .623.622l4.353-1.32a2 2 0 0 0 .83-.497z",key:"1a8usu"}]],a=(0,p.A)("pen-line",u)}}]);

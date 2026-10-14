@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-chart-column-big-mjs.0c8560d6.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[64457],{24001:function(e,t,n){n.r(t),n.d(t,{__iconNode:function(){return i},default:function(){return r}});var c=n(97040);const i=[["path",{d:"M3 3v16a2 2 0 0 0 2 2h16",key:"c24i48"}],["rect",{x:"15",y:"5",width:"4",height:"12",rx:"1",key:"q8uenq"}],["rect",{x:"7",y:"8",width:"4",height:"9",rx:"1",key:"sr5ea"}]],r=(0,c.A)("chart-column-big",i)}}]);

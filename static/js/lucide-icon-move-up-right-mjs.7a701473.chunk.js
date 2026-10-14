@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-move-up-right-mjs.7a701473.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[3077],{21651:function(e,t,n){n.r(t),n.d(t,{__iconNode:function(){return u},default:function(){return o}});var p=n(97040);const u=[["path",{d:"M13 5H19V11",key:"1n1gyv"}],["path",{d:"M19 5L5 19",key:"72u4yj"}]],o=(0,p.A)("move-up-right",u)}}]);

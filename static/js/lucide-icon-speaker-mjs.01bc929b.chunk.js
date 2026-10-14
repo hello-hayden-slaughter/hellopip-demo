@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-speaker-mjs.01bc929b.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[22632],{89186:function(e,t,c){c.r(t),c.d(t,{__iconNode:function(){return n},default:function(){return p}});var i=c(97040);const n=[["rect",{width:"16",height:"20",x:"4",y:"2",rx:"2",key:"1nb95v"}],["path",{d:"M12 6h.01",key:"1vi96p"}],["circle",{cx:"12",cy:"14",r:"4",key:"1jruaj"}],["path",{d:"M12 14h.01",key:"1etili"}]],p=(0,i.A)("speaker",n)}}]);

@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-wine-mjs.fd213312.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[39024],{47636:function(e,t,n){n.r(t),n.d(t,{__iconNode:function(){return a},default:function(){return c}});var p=n(97040);const a=[["path",{d:"M8 22h8",key:"rmew8v"}],["path",{d:"M7 10h10",key:"1101jm"}],["path",{d:"M12 15v7",key:"t2xh3l"}],["path",{d:"M12 15a5 5 0 0 0 5-5c0-2-.5-4-2-8H9c-1.5 4-2 6-2 8a5 5 0 0 0 5 5Z",key:"10ffi3"}]],c=(0,p.A)("wine",a)}}]);

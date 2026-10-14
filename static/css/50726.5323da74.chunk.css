@@ -1,0 +1,1 @@
+#root,.app-container{min-height:500px;min-height:var(--pip-demo-min-height,500px);min-width:448px;min-width:var(--pip-demo-min-width,448px)}:root>body:has(#root){overflow:clip}

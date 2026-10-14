@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-step-back-mjs.08f59889.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[7853],{13399:function(e,t,n){n.r(t),n.d(t,{__iconNode:function(){return u},default:function(){return c}});var p=n(97040);const u=[["path",{d:"M13.971 4.285A2 2 0 0 1 17 6v12a2 2 0 0 1-3.029 1.715l-9.997-5.998a2 2 0 0 1-.003-3.432z",key:"19qhus"}],["path",{d:"M21 20V4",key:"cb8qj8"}]],c=(0,p.A)("step-back",u)}}]);

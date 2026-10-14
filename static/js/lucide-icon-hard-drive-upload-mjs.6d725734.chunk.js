@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-hard-drive-upload-mjs.6d725734.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[50373],{93516:function(e,t,h){h.r(t),h.d(t,{__iconNode:function(){return p},default:function(){return d}});var n=h(97040);const p=[["path",{d:"m16 6-4-4-4 4",key:"13yo43"}],["path",{d:"M12 2v8",key:"1q4o3n"}],["rect",{width:"20",height:"8",x:"2",y:"14",rx:"2",key:"w68u3i"}],["path",{d:"M6 18h.01",key:"uhywen"}],["path",{d:"M10 18h.01",key:"h775k"}]],d=(0,n.A)("hard-drive-upload",p)}}]);

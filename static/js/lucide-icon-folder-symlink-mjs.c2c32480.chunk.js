@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-folder-symlink-mjs.c2c32480.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[99589],{6705:function(t,e,a){a.r(e),a.d(e,{__iconNode:function(){return p},default:function(){return k}});var n=a(97040);const p=[["path",{d:"M2 9.35V5a2 2 0 0 1 2-2h3.9a2 2 0 0 1 1.69.9l.81 1.2a2 2 0 0 0 1.67.9H20a2 2 0 0 1 2 2v10a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2v-3a2 2 0 0 1 2-2h7",key:"y8kt7d"}],["path",{d:"m8 16 3-3-3-3",key:"rlqrt1"}]],k=(0,n.A)("folder-symlink",p)}}]);

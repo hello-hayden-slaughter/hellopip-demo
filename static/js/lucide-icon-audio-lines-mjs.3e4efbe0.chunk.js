@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-audio-lines-mjs.3e4efbe0.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[24987],{40869:function(e,t,d){d.r(t),d.d(t,{__iconNode:function(){return n},default:function(){return a}});var p=d(97040);const n=[["path",{d:"M2 10v3",key:"1fnikh"}],["path",{d:"M6 6v11",key:"11sgs0"}],["path",{d:"M10 3v18",key:"yhl04a"}],["path",{d:"M14 8v7",key:"3a1oy3"}],["path",{d:"M18 5v13",key:"123xd1"}],["path",{d:"M22 10v3",key:"154ddg"}]],a=(0,p.A)("audio-lines",n)}}]);

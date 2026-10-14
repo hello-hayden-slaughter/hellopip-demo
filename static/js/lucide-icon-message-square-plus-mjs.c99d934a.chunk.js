@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-message-square-plus-mjs.c99d934a.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[81415],{19097:function(e,p,t){t.r(p),t.d(p,{__iconNode:function(){return n},default:function(){return s}});var a=t(97040);const n=[["path",{d:"M22 17a2 2 0 0 1-2 2H6.828a2 2 0 0 0-1.414.586l-2.202 2.202A.71.71 0 0 1 2 21.286V5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2z",key:"18887p"}],["path",{d:"M12 8v6",key:"1ib9pf"}],["path",{d:"M9 11h6",key:"1fldmi"}]],s=(0,a.A)("message-square-plus",n)}}]);

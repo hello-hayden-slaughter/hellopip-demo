@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-separator-horizontal-mjs.779bab0f.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[84869],{38021:function(e,t,n){n.r(t),n.d(t,{__iconNode:function(){return o},default:function(){return a}});var p=n(97040);const o=[["path",{d:"m16 16-4 4-4-4",key:"3dv8je"}],["path",{d:"M3 12h18",key:"1i2n21"}],["path",{d:"m8 8 4-4 4 4",key:"2bscm2"}]],a=(0,p.A)("separator-horizontal",o)}}]);

@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-bluetooth-off-mjs.688da9aa.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[50645],{29007:function(e,t,o){o.r(t),o.d(t,{__iconNode:function(){return p},default:function(){return u}});var n=o(97040);const p=[["path",{d:"m17 17-5 5V12l-5 5",key:"v5aci6"}],["path",{d:"m2 2 20 20",key:"1ooewy"}],["path",{d:"M14.5 9.5 17 7l-5-5v4.5",key:"1kddfz"}]],u=(0,n.A)("bluetooth-off",p)}}]);

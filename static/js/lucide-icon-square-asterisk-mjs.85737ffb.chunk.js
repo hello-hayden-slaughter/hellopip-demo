@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-square-asterisk-mjs.85737ffb.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[91037],{19239:function(e,t,p){p.r(t),p.d(t,{__iconNode:function(){return k},default:function(){return a}});var n=p(97040);const k=[["rect",{width:"18",height:"18",x:"3",y:"3",rx:"2",key:"afitv7"}],["path",{d:"M12 8v8",key:"napkw2"}],["path",{d:"m8.5 14 7-4",key:"12hpby"}],["path",{d:"m8.5 10 7 4",key:"wwy2dy"}]],a=(0,n.A)("square-asterisk",k)}}]);

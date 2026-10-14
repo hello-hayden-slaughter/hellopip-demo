@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-plug-2-mjs.d7800799.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[90494],{98202:function(p,t,e){e.r(t),e.d(t,{__iconNode:function(){return u},default:function(){return d}});var n=e(97040);const u=[["path",{d:"M9 2v6",key:"17ngun"}],["path",{d:"M15 2v6",key:"s7yy2p"}],["path",{d:"M12 17v5",key:"bb1du9"}],["path",{d:"M5 8h14",key:"pcz4l3"}],["path",{d:"M6 11V8h12v3a6 6 0 1 1-12 0Z",key:"wtfw2c"}]],d=(0,n.A)("plug-2",u)}}]);

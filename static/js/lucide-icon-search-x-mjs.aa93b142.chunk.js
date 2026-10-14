@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-search-x-mjs.aa93b142.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[50784],{63872:function(e,c,t){t.r(c),t.d(c,{__iconNode:function(){return p},default:function(){return u}});var n=t(97040);const p=[["path",{d:"m13.5 8.5-5 5",key:"1cs55j"}],["path",{d:"m8.5 8.5 5 5",key:"a8mexj"}],["circle",{cx:"11",cy:"11",r:"8",key:"4ej97u"}],["path",{d:"m21 21-4.3-4.3",key:"1qie3q"}]],u=(0,n.A)("search-x",p)}}]);

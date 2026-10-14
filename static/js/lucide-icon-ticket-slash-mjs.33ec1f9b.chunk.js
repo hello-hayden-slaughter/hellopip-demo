@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-ticket-slash-mjs.33ec1f9b.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[14891],{7479:function(t,a,e){e.r(a),e.d(a,{__iconNode:function(){return p},default:function(){return s}});var n=e(97040);const p=[["path",{d:"M2 9a3 3 0 0 1 0 6v2a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2v-2a3 3 0 0 1 0-6V7a2 2 0 0 0-2-2H4a2 2 0 0 0-2 2Z",key:"qn84l0"}],["path",{d:"m9.5 14.5 5-5",key:"qviqfa"}]],s=(0,n.A)("ticket-slash",p)}}]);

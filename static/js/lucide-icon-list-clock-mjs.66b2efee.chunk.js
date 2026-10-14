@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-list-clock-mjs.66b2efee.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[55126],{45574:function(e,t,c){c.r(t),c.d(t,{__iconNode:function(){return k},default:function(){return n}});var p=c(97040);const k=[["path",{d:"M16 13v2.2l1.6 1",key:"1bc147"}],["path",{d:"M3 12h3.458",key:"brzde3"}],["path",{d:"M3 19h3.832",key:"1d2y74"}],["path",{d:"M3 5h18",key:"1u36vt"}],["circle",{cx:"16",cy:"15",r:"6",key:"1cvf88"}]],n=(0,p.A)("list-clock",k)}}]);

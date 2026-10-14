@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-mars-mjs.77df8dfc.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[46136],{31144:function(e,c,t){t.r(c),t.d(c,{__iconNode:function(){return p},default:function(){return u}});var n=t(97040);const p=[["path",{d:"M16 3h5v5",key:"1806ms"}],["path",{d:"m21 3-6.75 6.75",key:"pv0uzu"}],["circle",{cx:"10",cy:"14",r:"6",key:"1qwbdc"}]],u=(0,n.A)("mars",p)}}]);

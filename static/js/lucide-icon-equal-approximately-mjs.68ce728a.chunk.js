@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-equal-approximately-mjs.68ce728a.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[80495],{84669:function(e,t,p){p.r(t),p.d(t,{__iconNode:function(){return a},default:function(){return u}});var n=p(97040);const a=[["path",{d:"M5 15a6.5 6.5 0 0 1 7 0 6.5 6.5 0 0 0 7 0",key:"yrdkhy"}],["path",{d:"M5 9a6.5 6.5 0 0 1 7 0 6.5 6.5 0 0 0 7 0",key:"gzkvyz"}]],u=(0,n.A)("equal-approximately",a)}}]);

@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-mouse-off-mjs.899a394d.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[17522],{4800:function(e,t,n){n.r(t),n.d(t,{__iconNode:function(){return u},default:function(){return k}});var p=n(97040);const u=[["path",{d:"M12 6v.343",key:"1gyhex"}],["path",{d:"M18.218 18.218A7 7 0 0 1 5 15V9a7 7 0 0 1 .782-3.218",key:"ukzz01"}],["path",{d:"M19 13.343V9A7 7 0 0 0 8.56 2.902",key:"104jy9"}],["path",{d:"M22 22 2 2",key:"1r8tn9"}]],k=(0,p.A)("mouse-off",u)}}]);

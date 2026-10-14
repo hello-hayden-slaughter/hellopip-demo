@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-circle-euro-mjs.82ff2154.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[40497],{24467:function(e,c,t){t.r(c),t.d(c,{__iconNode:function(){return r},default:function(){return p}});var n=t(97040);const r=[["path",{d:"M15 9.4a4 4 0 1 0 0 5.2",key:"1makmb"}],["path",{d:"M7 12h5",key:"gblrwe"}],["circle",{cx:"12",cy:"12",r:"10",key:"1mglay"}]],p=(0,n.A)("circle-euro",r)}}]);

@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-fast-forward-mjs.8137883c.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[38577],{28781:function(e,t,a){a.r(t),a.d(t,{__iconNode:function(){return p},default:function(){return u}});var n=a(97040);const p=[["path",{d:"M12 6a2 2 0 0 1 3.414-1.414l6 6a2 2 0 0 1 0 2.828l-6 6A2 2 0 0 1 12 18z",key:"b19h5q"}],["path",{d:"M2 6a2 2 0 0 1 3.414-1.414l6 6a2 2 0 0 1 0 2.828l-6 6A2 2 0 0 1 2 18z",key:"h7h5ge"}]],u=(0,n.A)("fast-forward",p)}}]);

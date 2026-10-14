@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-refrigerator-mjs.f7679572.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[97153],{76933:function(e,t,n){n.r(t),n.d(t,{__iconNode:function(){return a},default:function(){return r}});var p=n(97040);const a=[["path",{d:"M5 6a4 4 0 0 1 4-4h6a4 4 0 0 1 4 4v14a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V6Z",key:"fpq118"}],["path",{d:"M5 10h14",key:"elsbfy"}],["path",{d:"M15 7v6",key:"1nx30x"}]],r=(0,p.A)("refrigerator",a)}}]);

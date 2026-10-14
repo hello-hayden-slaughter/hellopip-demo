@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-merge-mjs.af0ba7b5.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[5163],{80761:function(e,t,n){n.r(t),n.d(t,{__iconNode:function(){return u},default:function(){return k}});var p=n(97040);const u=[["path",{d:"m8 6 4-4 4 4",key:"ybng9g"}],["path",{d:"M12 2v10.3a4 4 0 0 1-1.172 2.872L4 22",key:"1hyw0i"}],["path",{d:"m20 22-5-5",key:"1m27yz"}]],k=(0,p.A)("merge",u)}}]);

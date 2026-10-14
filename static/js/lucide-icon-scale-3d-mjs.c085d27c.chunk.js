@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-scale-3d-mjs.c085d27c.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[32877],{58557:function(e,c,t){t.r(c),t.d(c,{__iconNode:function(){return p},default:function(){return r}});var n=t(97040);const p=[["path",{d:"M5 7v11a1 1 0 0 0 1 1h11",key:"13dt1j"}],["path",{d:"M5.293 18.707 11 13",key:"ezgbsx"}],["circle",{cx:"19",cy:"19",r:"2",key:"17f5cg"}],["circle",{cx:"5",cy:"5",r:"2",key:"1gwv83"}]],r=(0,n.A)("scale-3d",p)}}]);

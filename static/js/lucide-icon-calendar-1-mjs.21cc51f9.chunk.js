@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-calendar-1-mjs.21cc51f9.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[33991],{80191:function(e,t,p){p.r(t),p.d(t,{__iconNode:function(){return h},default:function(){return d}});var n=p(97040);const h=[["path",{d:"M11 13h1v4",key:"10p4bv"}],["path",{d:"M16 2v3",key:"otl347"}],["path",{d:"M3 9h18",key:"1pudct"}],["path",{d:"M8 2v3",key:"1ioesn"}],["rect",{x:"3",y:"3",width:"18",height:"18",rx:"2",key:"h1oib"}]],d=(0,n.A)("calendar-1",h)}}]);
