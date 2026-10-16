@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-monitor-dot-mjs.97c71c71.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[1467],{24500:function(e,t,n){n.r(t),n.d(t,{__iconNode:function(){return o},default:function(){return p}});var c=n(88697);const o=[["path",{d:"M12 17v4",key:"1riwvh"}],["path",{d:"M22 12.307V15a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h8.693",key:"1dx6ho"}],["path",{d:"M8 21h8",key:"1ev6f3"}],["circle",{cx:"19",cy:"6",r:"3",key:"108a5v"}]],p=(0,c.A)("monitor-dot",o)}}]);

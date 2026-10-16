@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-gallery-horizontal-mjs.fe9fac11.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[8044],{38887:function(t,e,n){n.r(e),n.d(e,{__iconNode:function(){return r},default:function(){return u}});var p=n(88697);const r=[["path",{d:"M2 3v18",key:"pzttux"}],["rect",{width:"12",height:"18",x:"6",y:"3",rx:"2",key:"btr8bg"}],["path",{d:"M22 3v18",key:"6jf3v"}]],u=(0,p.A)("gallery-horizontal",r)}}]);

@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-fishing-hook-mjs.8103420e.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[4433],{1606:function(e,t,n){n.r(t),n.d(t,{__iconNode:function(){return p},default:function(){return s}});var c=n(95133);const p=[["path",{d:"m17.586 11.414-5.93 5.93a1 1 0 0 1-8-8l3.137-3.137a.707.707 0 0 1 1.207.5V10",key:"157y8s"}],["path",{d:"M20.414 8.586 22 7",key:"5g2s34"}],["circle",{cx:"19",cy:"10",r:"2",key:"7363ft"}]],s=(0,c.A)("fishing-hook",p)}}]);

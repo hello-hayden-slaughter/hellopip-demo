@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-panel-top-dashed-mjs.1bd0255d.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[9653],{67453:function(e,t,h){h.r(t),h.d(t,{__iconNode:function(){return d},default:function(){return n}});var p=h(95133);const d=[["rect",{width:"18",height:"18",x:"3",y:"3",rx:"2",key:"afitv7"}],["path",{d:"M14 9h1",key:"l0svgy"}],["path",{d:"M19 9h2",key:"te2zfg"}],["path",{d:"M3 9h2",key:"1h4ldw"}],["path",{d:"M9 9h1",key:"15jzuz"}]],n=(0,p.A)("panel-top-dashed",d)}}]);

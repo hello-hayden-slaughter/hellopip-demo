@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-square-split-vertical-mjs.0a348a03.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[94274],{90709:function(e,t,a){a.r(t),a.d(t,{__iconNode:function(){return n},default:function(){return u}});var p=a(95133);const n=[["path",{d:"M2 12h20",key:"9i4pu4"}],["path",{d:"M21 16v3a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-3",key:"14rx03"}],["path",{d:"M3 8V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2v3",key:"1haecz"}]],u=(0,p.A)("square-split-vertical",n)}}]);

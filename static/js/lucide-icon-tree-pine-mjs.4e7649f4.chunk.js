@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-tree-pine-mjs.4e7649f4.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[7240],{90007:function(e,t,n){n.r(t),n.d(t,{__iconNode:function(){return a},default:function(){return u}});var p=n(95133);const a=[["path",{d:"m17 14 3 3.3a1 1 0 0 1-.7 1.7H4.7a1 1 0 0 1-.7-1.7L7 14h-.3a1 1 0 0 1-.7-1.7L9 9h-.2A1 1 0 0 1 8 7.3L12 3l4 4.3a1 1 0 0 1-.8 1.7H15l3 3.3a1 1 0 0 1-.7 1.7H17Z",key:"cpyugq"}],["path",{d:"M12 22v-3",key:"kmzjlo"}]],u=(0,p.A)("tree-pine",a)}}]);

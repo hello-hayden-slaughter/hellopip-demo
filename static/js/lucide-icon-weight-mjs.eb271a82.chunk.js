@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-weight-mjs.eb271a82.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[64791],{23568:function(e,n,t){t.r(n),t.d(n,{__iconNode:function(){return r},default:function(){return p}});var c=t(88697);const r=[["circle",{cx:"12",cy:"5",r:"3",key:"rqqgnr"}],["path",{d:"M6.5 8a2 2 0 0 0-1.905 1.46L2.1 18.5A2 2 0 0 0 4 21h16a2 2 0 0 0 1.925-2.54L19.4 9.5A2 2 0 0 0 17.48 8Z",key:"56o5sh"}]],p=(0,c.A)("weight",r)}}]);

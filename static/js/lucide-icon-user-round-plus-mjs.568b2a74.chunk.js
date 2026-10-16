@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-user-round-plus-mjs.568b2a74.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[5388],{83367:function(e,t,p){p.r(t),p.d(t,{__iconNode:function(){return c},default:function(){return n}});var u=p(88697);const c=[["path",{d:"M2 21a8 8 0 0 1 13.292-6",key:"bjp14o"}],["circle",{cx:"10",cy:"8",r:"5",key:"o932ke"}],["path",{d:"M19 16v6",key:"tddt3s"}],["path",{d:"M22 19h-6",key:"vcuq98"}]],n=(0,u.A)("user-round-plus",c)}}]);

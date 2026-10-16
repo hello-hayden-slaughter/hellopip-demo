@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-proportions-mjs.5267cf54.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[75870],{33897:function(e,t,n){n.r(t),n.d(t,{__iconNode:function(){return r},default:function(){return k}});var p=n(88697);const r=[["rect",{width:"20",height:"16",x:"2",y:"4",rx:"2",key:"18n3k1"}],["path",{d:"M12 9v11",key:"1fnkrn"}],["path",{d:"M2 9h13a2 2 0 0 1 2 2v9",key:"11z3ex"}]],k=(0,p.A)("proportions",r)}}]);

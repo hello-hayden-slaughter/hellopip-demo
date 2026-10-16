@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-square-sigma-mjs.1974d754.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[40380],{60299:function(e,t,i){i.r(t),i.d(t,{__iconNode:function(){return u},default:function(){return p}});var n=i(88697);const u=[["rect",{width:"18",height:"18",x:"3",y:"3",rx:"2",key:"afitv7"}],["path",{d:"M16 8.9V7H8l4 5-4 5h8v-1.9",key:"9nih0i"}]],p=(0,n.A)("square-sigma",u)}}]);

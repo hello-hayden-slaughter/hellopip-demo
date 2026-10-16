@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-pause-mjs.ee5884a5.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[71829],{21842:function(e,t,n){n.r(t),n.d(t,{__iconNode:function(){return i},default:function(){return r}});var u=n(88697);const i=[["rect",{x:"14",y:"3",width:"5",height:"18",rx:"1",key:"kaeet6"}],["rect",{x:"5",y:"3",width:"5",height:"18",rx:"1",key:"1wsw3u"}]],r=(0,u.A)("pause",i)}}]);

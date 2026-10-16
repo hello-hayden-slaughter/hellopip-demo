@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-folder-search-mjs.a54bf4f3.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[24142],{30793:function(e,c,n){n.r(c),n.d(c,{__iconNode:function(){return a},default:function(){return r}});var t=n(95133);const a=[["path",{d:"M10.7 20H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h3.9a2 2 0 0 1 1.69.9l.81 1.2a2 2 0 0 0 1.67.9H20a2 2 0 0 1 2 2v4.1",key:"1bw5m7"}],["path",{d:"m21 21-1.9-1.9",key:"1g2n9r"}],["circle",{cx:"17",cy:"17",r:"3",key:"18b49y"}]],r=(0,t.A)("folder-search",a)}}]);

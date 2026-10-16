@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-audio-waveform-mjs.d99a8935.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[50565],{5986:function(a,e,t){t.r(e),t.d(e,{__iconNode:function(){return u},default:function(){return o}});var n=t(88697);const u=[["path",{d:"M2 13a2 2 0 0 0 2-2V7a2 2 0 0 1 4 0v13a2 2 0 0 0 4 0V4a2 2 0 0 1 4 0v13a2 2 0 0 0 4 0v-4a2 2 0 0 1 2-2",key:"57tc96"}]],o=(0,n.A)("audio-waveform",u)}}]);

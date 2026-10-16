@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-zodiac-pisces-mjs.faa87696.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[15622],{68030:function(e,t,p){p.r(t),p.d(t,{__iconNode:function(){return u},default:function(){return a}});var n=p(95133);const u=[["path",{d:"M19 21a15 15 0 0 1 0-18",key:"br2vug"}],["path",{d:"M20 12H4",key:"1mtusc"}],["path",{d:"M5 3a15 15 0 0 1 0 18",key:"1w7hae"}]],a=(0,n.A)("zodiac-pisces",u)}}]);

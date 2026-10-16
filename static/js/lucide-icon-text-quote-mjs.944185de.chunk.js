@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-text-quote-mjs.944185de.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[88693],{734:function(t,e,n){n.r(e),n.d(e,{__iconNode:function(){return c},default:function(){return u}});var p=n(88697);const c=[["path",{d:"M17 5H3",key:"1cn7zz"}],["path",{d:"M21 12H8",key:"scolzb"}],["path",{d:"M21 19H8",key:"13qgcb"}],["path",{d:"M3 12v7",key:"1ri8j3"}]],u=(0,p.A)("text-quote",c)}}]);

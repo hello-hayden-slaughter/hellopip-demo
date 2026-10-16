@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-astroid-mjs.4f2793f3.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[46069],{42198:function(t,e,n){n.r(e),n.d(e,{__iconNode:function(){return u},default:function(){return s}});var p=n(95133);const u=[["path",{d:"M12.983 21.186a1 1 0 0 1-1.966 0 10 10 0 0 0-8.203-8.203 1 1 0 0 1 0-1.966 10 10 0 0 0 8.203-8.203 1 1 0 0 1 1.966 0 10 10 0 0 0 8.203 8.203 1 1 0 0 1 0 1.966 10 10 0 0 0-8.203 8.203",key:"1tipus"}]],s=(0,p.A)("astroid",u)}}]);

@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-tv-2-mjs.9f7bcb8e.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[27531,87456],{79567:function(t,e,n){n.r(e),n.d(e,{default:function(){return u.default}});var u=n(51716)},51716:function(t,e,n){n.r(e),n.d(e,{__iconNode:function(){return i},default:function(){return r}});var u=n(88697);const i=[["path",{d:"M7 21h10",key:"1b0cd5"}],["rect",{width:"20",height:"14",x:"2",y:"3",rx:"2",key:"48i651"}]],r=(0,u.A)("tv-minimal",i)}}]);

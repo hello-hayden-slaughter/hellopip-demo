@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-asterisk-mjs.4c218d15.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[45403],{83912:function(e,t,n){n.r(t),n.d(t,{__iconNode:function(){return s},default:function(){return k}});var p=n(95133);const s=[["path",{d:"M12 5v14",key:"s699le"}],["path",{d:"m18.065 8.496-12.125 7",key:"1h26g9"}],["path",{d:"m5.94 8.504 12.125 7",key:"k77sdm"}]],k=(0,p.A)("asterisk",s)}}]);

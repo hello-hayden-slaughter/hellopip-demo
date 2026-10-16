@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-cloud-alert-mjs.1e880ec5.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[88725],{13990:function(e,t,n){n.r(t),n.d(t,{__iconNode:function(){return u},default:function(){return a}});var p=n(95133);const u=[["path",{d:"M12 12v4",key:"tww15h"}],["path",{d:"M12 20h.01",key:"zekei9"}],["path",{d:"M8.128 16.949A7 7 0 1 1 15.71 8h1.79a1 1 0 0 1 0 9h-1.642",key:"1namsd"}]],a=(0,p.A)("cloud-alert",u)}}]);

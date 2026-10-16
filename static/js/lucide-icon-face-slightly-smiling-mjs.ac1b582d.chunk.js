@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-face-slightly-smiling-mjs.ac1b582d.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[48317],{42482:function(e,t,c){c.r(t),c.d(t,{__iconNode:function(){return i},default:function(){return p}});var n=c(88697);const i=[["path",{d:"M15 10V9",key:"4dkmfx"}],["path",{d:"M16.472 15a6 6 0 01-8.943 0",key:"7qomzy"}],["path",{d:"M9 10V9",key:"1lazqi"}],["circle",{cx:"12",cy:"12",r:"10",key:"1mglay"}]],p=(0,n.A)("face-slightly-smiling",i)}}]);

@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-antenna-mjs.b0f28c2a.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[75038],{58049:function(e,t,n){n.r(t),n.d(t,{__iconNode:function(){return a},default:function(){return k}});var p=n(88697);const a=[["path",{d:"M2 12 7 2",key:"117k30"}],["path",{d:"m7 12 5-10",key:"1tvx22"}],["path",{d:"m12 12 5-10",key:"ev1o1a"}],["path",{d:"m17 12 5-10",key:"1e4ti3"}],["path",{d:"M4.5 7h15",key:"vlsxkz"}],["path",{d:"M12 16v6",key:"c8a4gj"}]],k=(0,p.A)("antenna",a)}}]);

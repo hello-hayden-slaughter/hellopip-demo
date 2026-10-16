@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-bluetooth-searching-mjs.67a424c1.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[31954],{46061:function(t,e,n){n.r(e),n.d(e,{__iconNode:function(){return u},default:function(){return k}});var p=n(95133);const u=[["path",{d:"m7 7 10 10-5 5V2l5 5L7 17",key:"1q5490"}],["path",{d:"M20.83 14.83a4 4 0 0 0 0-5.66",key:"k8tn1j"}],["path",{d:"M18 12h.01",key:"yjnet6"}]],k=(0,p.A)("bluetooth-searching",u)}}]);

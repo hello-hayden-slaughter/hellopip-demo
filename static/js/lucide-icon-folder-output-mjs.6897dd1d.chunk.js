@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-folder-output-mjs.6897dd1d.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[64769],{45702:function(e,t,a){a.r(t),a.d(t,{__iconNode:function(){return n},default:function(){return u}});var p=a(95133);const n=[["path",{d:"M2 7.5V5a2 2 0 0 1 2-2h3.9a2 2 0 0 1 1.69.9l.81 1.2a2 2 0 0 0 1.67.9H20a2 2 0 0 1 2 2v10a2 2 0 0 1-2 2H4a2 2 0 0 1-2-1.5",key:"1yk7aj"}],["path",{d:"M2 13h10",key:"pgb2dq"}],["path",{d:"m5 10-3 3 3 3",key:"1r8ie0"}]],u=(0,p.A)("folder-output",n)}}]);

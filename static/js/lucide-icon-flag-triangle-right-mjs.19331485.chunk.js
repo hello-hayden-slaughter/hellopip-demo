@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-flag-triangle-right-mjs.19331485.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[38165],{13718:function(t,e,n){n.r(e),n.d(e,{__iconNode:function(){return p},default:function(){return a}});var u=n(95133);const p=[["path",{d:"M6 22V2.8a.8.8 0 0 1 1.17-.71l11.38 5.69a.8.8 0 0 1 0 1.44L6 15.5",key:"kfjsu0"}]],a=(0,u.A)("flag-triangle-right",p)}}]);

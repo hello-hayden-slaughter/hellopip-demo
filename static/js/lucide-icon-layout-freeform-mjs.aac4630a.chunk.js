@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-layout-freeform-mjs.aac4630a.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[85292],{75071:function(e,t,r){r.r(t),r.d(t,{__iconNode:function(){return i},default:function(){return h}});var n=r(88697);const i=[["rect",{width:"7",height:"7",x:"3",y:"3",rx:"1",key:"1g98yp"}],["rect",{width:"7",height:"7",x:"14",y:"4",rx:"1",key:"n7b4zl"}],["rect",{width:"7",height:"7",x:"4",y:"14",rx:"1",key:"1ngf42"}]],h=(0,n.A)("layout-freeform",i)}}]);

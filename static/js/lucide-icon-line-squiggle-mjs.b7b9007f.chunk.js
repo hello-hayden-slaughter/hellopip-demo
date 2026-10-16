@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-line-squiggle-mjs.b7b9007f.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[11805],{41718:function(e,n,t){t.r(n),t.d(n,{__iconNode:function(){return p},default:function(){return u}});var c=t(88697);const p=[["path",{d:"M7 3.5c5-2 7 2.5 3 4C1.5 10 2 15 5 16c5 2 9-10 14-7s.5 13.5-4 12c-5-2.5.5-11 6-2",key:"1lrphd"}]],u=(0,c.A)("line-squiggle",p)}}]);

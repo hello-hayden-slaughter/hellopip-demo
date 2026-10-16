@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-signal-mjs.c4690f52.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[78339],{94932:function(t,e,p){p.r(e),p.d(e,{__iconNode:function(){return a},default:function(){return k}});var n=p(95133);const a=[["path",{d:"M2 20h.01",key:"4haj6o"}],["path",{d:"M7 20v-4",key:"j294jx"}],["path",{d:"M12 20v-8",key:"i3yub9"}],["path",{d:"M17 20V8",key:"1tkaf5"}],["path",{d:"M22 4v16",key:"sih9yq"}]],k=(0,n.A)("signal",a)}}]);

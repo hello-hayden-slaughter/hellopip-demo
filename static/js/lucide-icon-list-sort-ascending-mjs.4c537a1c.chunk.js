@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-list-sort-ascending-mjs.4c537a1c.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[46471],{66532:function(t,e,n){n.r(e),n.d(e,{__iconNode:function(){return s},default:function(){return a}});var p=n(95133);const s=[["path",{d:"M3 19h18",key:"awlh7x"}],["path",{d:"M15 12H3",key:"6jk70r"}],["path",{d:"M9 5H3",key:"15j2za"}]],a=(0,p.A)("list-sort-ascending",s)}}]);

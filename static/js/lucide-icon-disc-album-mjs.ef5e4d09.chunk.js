@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-disc-album-mjs.ef5e4d09.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[44298],{27913:function(e,t,c){c.r(t),c.d(t,{__iconNode:function(){return i},default:function(){return u}});var n=c(88697);const i=[["rect",{width:"18",height:"18",x:"3",y:"3",rx:"2",key:"afitv7"}],["circle",{cx:"12",cy:"12",r:"5",key:"nd82uf"}],["path",{d:"M12 12h.01",key:"1mp3jc"}]],u=(0,n.A)("disc-album",i)}}]);

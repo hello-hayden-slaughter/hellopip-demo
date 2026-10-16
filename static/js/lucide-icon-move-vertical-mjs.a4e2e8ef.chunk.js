@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-move-vertical-mjs.a4e2e8ef.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[70637],{9978:function(t,e,n){n.r(e),n.d(e,{__iconNode:function(){return u},default:function(){return c}});var p=n(88697);const u=[["path",{d:"M12 2v20",key:"t6zp3m"}],["path",{d:"m8 18 4 4 4-4",key:"bh5tu3"}],["path",{d:"m8 6 4-4 4 4",key:"ybng9g"}]],c=(0,p.A)("move-vertical",u)}}]);

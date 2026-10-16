@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-subtitles-mjs.619832c0.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[35998,38844],{8941:function(t,e,n){n.r(e),n.d(e,{__iconNode:function(){return r},default:function(){return i}});var u=n(95133);const r=[["rect",{width:"18",height:"14",x:"3",y:"5",rx:"2",ry:"2",key:"12ruh7"}],["path",{d:"M7 15h4M15 15h2M7 11h2M13 11h4",key:"1ueiar"}]],i=(0,u.A)("captions",r)},67399:function(t,e,n){n.r(e),n.d(e,{default:function(){return u.default}});var u=n(8941)}}]);

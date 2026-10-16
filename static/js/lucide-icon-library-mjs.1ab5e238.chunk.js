@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-library-mjs.1ab5e238.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[24726],{80029:function(e,t,n){n.r(t),n.d(t,{__iconNode:function(){return k},default:function(){return u}});var p=n(95133);const k=[["path",{d:"m16 6 4 14",key:"ji33uf"}],["path",{d:"M12 6v14",key:"1n7gus"}],["path",{d:"M8 8v12",key:"1gg7y9"}],["path",{d:"M4 4v16",key:"6qkkli"}]],u=(0,p.A)("library",k)}}]);

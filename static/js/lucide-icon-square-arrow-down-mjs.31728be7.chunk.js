@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-square-arrow-down-mjs.31728be7.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[48189],{73326:function(e,t,n){n.r(t),n.d(t,{__iconNode:function(){return r},default:function(){return k}});var p=n(95133);const r=[["rect",{width:"18",height:"18",x:"3",y:"3",rx:"2",key:"afitv7"}],["path",{d:"M12 8v8",key:"napkw2"}],["path",{d:"m8 12 4 4 4-4",key:"k98ssh"}]],k=(0,p.A)("square-arrow-down",r)}}]);

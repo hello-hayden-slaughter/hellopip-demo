@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-ear-mjs.d4bf9628.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[81839],{54388:function(e,n,a){a.r(n),a.d(n,{__iconNode:function(){return p},default:function(){return u}});var t=a(95133);const p=[["path",{d:"M6 8.5a6.5 6.5 0 1 1 13 0c0 6-6 6-6 10a3.5 3.5 0 1 1-7 0",key:"1dfaln"}],["path",{d:"M15 8.5a2.5 2.5 0 0 0-5 0v1a2 2 0 1 1 0 4",key:"1qnva7"}]],u=(0,t.A)("ear",p)}}]);

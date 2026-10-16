@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-chart-gantt-mjs.1749764e.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[43490],{3545:function(t,e,h){h.r(e),h.d(e,{__iconNode:function(){return p},default:function(){return c}});var n=h(88697);const p=[["path",{d:"M10 6h8",key:"zvc2xc"}],["path",{d:"M12 16h6",key:"yi5mkt"}],["path",{d:"M3 3v16a2 2 0 0 0 2 2h16",key:"c24i48"}],["path",{d:"M8 11h7",key:"wz2hg0"}]],c=(0,n.A)("chart-gantt",p)}}]);

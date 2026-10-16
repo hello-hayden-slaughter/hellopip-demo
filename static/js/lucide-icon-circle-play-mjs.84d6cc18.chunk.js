@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-circle-play-mjs.84d6cc18.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[46720],{53115:function(e,c,n){n.r(c),n.d(c,{__iconNode:function(){return p},default:function(){return a}});var t=n(95133);const p=[["path",{d:"M9 9.003a1 1 0 0 1 1.517-.859l4.997 2.997a1 1 0 0 1 0 1.718l-4.997 2.997A1 1 0 0 1 9 14.996z",key:"kmsa83"}],["circle",{cx:"12",cy:"12",r:"10",key:"1mglay"}]],a=(0,t.A)("circle-play",p)}}]);

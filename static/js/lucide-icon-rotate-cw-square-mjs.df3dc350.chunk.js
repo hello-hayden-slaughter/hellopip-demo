@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-rotate-cw-square-mjs.df3dc350.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[44799],{3188:function(e,t,a){a.r(t),a.d(t,{__iconNode:function(){return n},default:function(){return p}});var u=a(95133);const n=[["path",{d:"M12 5H6a2 2 0 0 0-2 2v3",key:"l96uqu"}],["path",{d:"m9 8 3-3-3-3",key:"1gzgc3"}],["path",{d:"M4 14v4a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2h-2",key:"1w2k5h"}]],p=(0,u.A)("rotate-cw-square",n)}}]);

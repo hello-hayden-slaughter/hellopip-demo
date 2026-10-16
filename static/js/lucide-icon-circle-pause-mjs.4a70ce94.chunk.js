@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-circle-pause-mjs.4a70ce94.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[48606],{19965:function(e,c,n){n.r(c),n.d(c,{__iconNode:function(){return t},default:function(){return u}});var i=n(95133);const t=[["circle",{cx:"12",cy:"12",r:"10",key:"1mglay"}],["line",{x1:"10",x2:"10",y1:"15",y2:"9",key:"c1nkhi"}],["line",{x1:"14",x2:"14",y1:"15",y2:"9",key:"h65svq"}]],u=(0,i.A)("circle-pause",t)}}]);

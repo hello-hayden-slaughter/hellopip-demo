@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-reply-all-mjs.3c44cff6.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[21401],{99382:function(e,t,p){p.r(t),p.d(t,{__iconNode:function(){return u},default:function(){return a}});var n=p(88697);const u=[["path",{d:"m12 17-5-5 5-5",key:"1s3y5u"}],["path",{d:"M22 18v-2a4 4 0 0 0-4-4H7",key:"1fcyog"}],["path",{d:"m7 17-5-5 5-5",key:"1ed8i2"}]],a=(0,n.A)("reply-all",u)}}]);

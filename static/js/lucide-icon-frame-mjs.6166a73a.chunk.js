@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-frame-mjs.6166a73a.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[54068],{18031:function(e,n,y){y.r(n),y.d(n,{__iconNode:function(){return p},default:function(){return t}});var i=y(88697);const p=[["line",{x1:"22",x2:"2",y1:"6",y2:"6",key:"15w7dq"}],["line",{x1:"22",x2:"2",y1:"18",y2:"18",key:"1ip48p"}],["line",{x1:"6",x2:"6",y1:"2",y2:"22",key:"a2lnyx"}],["line",{x1:"18",x2:"18",y1:"2",y2:"22",key:"8vb6jd"}]],t=(0,i.A)("frame",p)}}]);

@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-git-pull-request-mjs.b0ba217f.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[35751],{95536:function(e,c,r){r.r(c),r.d(c,{__iconNode:function(){return n},default:function(){return u}});var t=r(95133);const n=[["circle",{cx:"18",cy:"18",r:"3",key:"1xkwt0"}],["circle",{cx:"6",cy:"6",r:"3",key:"1lh9wr"}],["path",{d:"M13 6h3a2 2 0 0 1 2 2v7",key:"1yeb86"}],["line",{x1:"6",x2:"6",y1:"9",y2:"21",key:"rroup"}]],u=(0,t.A)("git-pull-request",n)}}]);

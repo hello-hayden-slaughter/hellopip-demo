@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-monitor-pause-mjs.f1620e53.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[65904],{65259:function(e,t,p){p.r(t),p.d(t,{__iconNode:function(){return u},default:function(){return h}});var n=p(95133);const u=[["path",{d:"M10 13V7",key:"1u13u9"}],["path",{d:"M14 13V7",key:"1vj9om"}],["rect",{width:"20",height:"14",x:"2",y:"3",rx:"2",key:"48i651"}],["path",{d:"M12 17v4",key:"1riwvh"}],["path",{d:"M8 21h8",key:"1ev6f3"}]],h=(0,n.A)("monitor-pause",u)}}]);

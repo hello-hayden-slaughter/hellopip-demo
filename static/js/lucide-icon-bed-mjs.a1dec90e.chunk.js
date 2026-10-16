@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-bed-mjs.a1dec90e.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[15994],{52605:function(e,t,p){p.r(t),p.d(t,{__iconNode:function(){return d},default:function(){return u}});var n=p(88697);const d=[["path",{d:"M2 4v16",key:"vw9hq8"}],["path",{d:"M2 8h18a2 2 0 0 1 2 2v10",key:"1dgv2r"}],["path",{d:"M2 17h20",key:"18nfp3"}],["path",{d:"M6 8v9",key:"1yriud"}]],u=(0,n.A)("bed",d)}}]);

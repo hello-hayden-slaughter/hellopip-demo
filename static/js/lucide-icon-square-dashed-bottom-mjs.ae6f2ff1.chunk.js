@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-square-dashed-bottom-mjs.ae6f2ff1.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[31716],{51759:function(e,t,a){a.r(t),a.d(t,{__iconNode:function(){return o},default:function(){return p}});var n=a(95133);const o=[["path",{d:"M5 21a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2",key:"as5y1o"}],["path",{d:"M9 21h1",key:"15o7lz"}],["path",{d:"M14 21h1",key:"v9vybs"}]],p=(0,n.A)("square-dashed-bottom",o)}}]);

@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-tv-mjs.48e7f586.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[10089],{3166:function(t,e,n){n.r(e),n.d(e,{__iconNode:function(){return i},default:function(){return p}});var u=n(95133);const i=[["path",{d:"m17 2-5 5-5-5",key:"16satq"}],["rect",{width:"20",height:"15",x:"2",y:"7",rx:"2",key:"1e6viu"}]],p=(0,u.A)("tv",i)}}]);

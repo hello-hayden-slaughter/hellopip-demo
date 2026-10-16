@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-undo-dot-mjs.d4dde5d4.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[82611],{35720:function(e,t,n){n.r(t),n.d(t,{__iconNode:function(){return p},default:function(){return u}});var c=n(88697);const p=[["path",{d:"M21 17a9 9 0 0 0-15-6.7L3 13",key:"8mp6z9"}],["path",{d:"M3 7v6h6",key:"1v2h90"}],["circle",{cx:"12",cy:"17",r:"1",key:"1ixnty"}]],u=(0,c.A)("undo-dot",p)}}]);

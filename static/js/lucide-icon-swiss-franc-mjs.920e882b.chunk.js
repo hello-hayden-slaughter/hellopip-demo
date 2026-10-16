@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-swiss-franc-mjs.920e882b.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[79241],{28862:function(e,n,t){t.r(n),t.d(n,{__iconNode:function(){return s},default:function(){return h}});var p=t(95133);const s=[["path",{d:"M10 21V3h8",key:"br2l0g"}],["path",{d:"M6 16h9",key:"2py0wn"}],["path",{d:"M10 9.5h7",key:"13dmhz"}]],h=(0,p.A)("swiss-franc",s)}}]);

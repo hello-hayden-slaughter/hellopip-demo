@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-cross-mjs.865e7b29.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[8287],{82492:function(a,e,n){n.r(e),n.d(e,{__iconNode:function(){return p},default:function(){return s}});var t=n(95133);const p=[["path",{d:"M4 9a2 2 0 0 0-2 2v2a2 2 0 0 0 2 2h4a1 1 0 0 1 1 1v4a2 2 0 0 0 2 2h2a2 2 0 0 0 2-2v-4a1 1 0 0 1 1-1h4a2 2 0 0 0 2-2v-2a2 2 0 0 0-2-2h-4a1 1 0 0 1-1-1V4a2 2 0 0 0-2-2h-2a2 2 0 0 0-2 2v4a1 1 0 0 1-1 1z",key:"1xbrqy"}]],s=(0,t.A)("cross",p)}}]);

@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-pilcrow-left-mjs.143dae1f.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[35459],{57244:function(t,e,p){p.r(e),p.d(e,{__iconNode:function(){return h},default:function(){return k}});var n=p(95133);const h=[["path",{d:"M14 3v11",key:"mlfb7b"}],["path",{d:"M14 9h-3a3 3 0 0 1 0-6h9",key:"1ulc19"}],["path",{d:"M18 3v11",key:"1phi0r"}],["path",{d:"M22 18H2l4-4",key:"yt65j9"}],["path",{d:"m6 22-4-4",key:"6jgyf5"}]],k=(0,n.A)("pilcrow-left",h)}}]);

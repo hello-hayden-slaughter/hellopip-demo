@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-move-up-left-mjs.be365177.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[99680],{52495:function(e,t,n){n.r(t),n.d(t,{__iconNode:function(){return u},default:function(){return o}});var p=n(95133);const u=[["path",{d:"M5 11V5H11",key:"3q78g9"}],["path",{d:"M5 5L19 19",key:"5zm2fv"}]],o=(0,p.A)("move-up-left",u)}}]);

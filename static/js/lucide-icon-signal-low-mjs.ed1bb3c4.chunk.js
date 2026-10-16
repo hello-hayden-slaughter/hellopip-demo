@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-signal-low-mjs.ed1bb3c4.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[23350],{92161:function(e,n,t){t.r(n),t.d(n,{__iconNode:function(){return o},default:function(){return u}});var p=t(95133);const o=[["path",{d:"M2 20h.01",key:"4haj6o"}],["path",{d:"M7 20v-4",key:"j294jx"}]],u=(0,p.A)("signal-low",o)}}]);

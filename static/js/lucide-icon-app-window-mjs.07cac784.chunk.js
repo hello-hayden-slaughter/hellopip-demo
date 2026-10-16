@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-app-window-mjs.07cac784.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[21481],{19090:function(t,e,p){p.r(e),p.d(e,{__iconNode:function(){return d},default:function(){return i}});var n=p(95133);const d=[["rect",{x:"2",y:"4",width:"20",height:"16",rx:"2",key:"izxlao"}],["path",{d:"M10 4v4",key:"pp8u80"}],["path",{d:"M2 8h20",key:"d11cs7"}],["path",{d:"M6 4v4",key:"1svtjw"}]],i=(0,n.A)("app-window",d)}}]);

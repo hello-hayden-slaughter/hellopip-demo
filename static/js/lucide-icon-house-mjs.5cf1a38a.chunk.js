@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-house-mjs.5cf1a38a.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[52403],{95656:function(e,n,t){t.r(n),t.d(n,{__iconNode:function(){return p},default:function(){return s}});var a=t(88697);const p=[["path",{d:"M15 21v-8a1 1 0 0 0-1-1h-4a1 1 0 0 0-1 1v8",key:"5wwlr5"}],["path",{d:"M3 10a2 2 0 0 1 .709-1.528l7-6a2 2 0 0 1 2.582 0l7 6A2 2 0 0 1 21 10v9a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z",key:"r6nss1"}]],s=(0,a.A)("house",p)}}]);

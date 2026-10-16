@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-trending-down-mjs.fedd65b2.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[37351],{53472:function(n,t,e){e.r(t),e.d(t,{__iconNode:function(){return u},default:function(){return d}});var p=e(88697);const u=[["path",{d:"M16 17h6v-6",key:"t6n2it"}],["path",{d:"m22 17-8.5-8.5-5 5L2 7",key:"x473p"}]],d=(0,p.A)("trending-down",u)}}]);

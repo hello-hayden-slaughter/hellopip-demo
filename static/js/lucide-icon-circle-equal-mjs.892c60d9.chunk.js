@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-circle-equal-mjs.892c60d9.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[87536],{72583:function(e,c,t){t.r(c),t.d(c,{__iconNode:function(){return p},default:function(){return u}});var n=t(95133);const p=[["circle",{cx:"12",cy:"12",r:"10",key:"1mglay"}],["path",{d:"M7 10h10",key:"1101jm"}],["path",{d:"M7 14h10",key:"1mhdw3"}]],u=(0,n.A)("circle-equal",p)}}]);

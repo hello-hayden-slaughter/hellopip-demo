@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-list-chevrons-down-up-mjs.9c563328.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[36591],{21988:function(t,e,p){p.r(e),p.d(e,{__iconNode:function(){return h},default:function(){return k}});var n=p(88697);const h=[["path",{d:"M3 5h8",key:"18g2rq"}],["path",{d:"M3 12h8",key:"1xfjp6"}],["path",{d:"M3 19h8",key:"fpbke4"}],["path",{d:"m15 5 3 3 3-3",key:"1t4thf"}],["path",{d:"m15 19 3-3 3 3",key:"y4ckd2"}]],k=(0,n.A)("list-chevrons-down-up",h)}}]);

@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-check-check-mjs.73187d04.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[10720],{39171:function(e,t,c){c.r(t),c.d(t,{__iconNode:function(){return k},default:function(){return p}});var n=c(88697);const k=[["path",{d:"M18 6 7 17l-5-5",key:"116fxf"}],["path",{d:"m22 10-7.5 7.5L13 16",key:"ke71qq"}]],p=(0,n.A)("check-check",k)}}]);

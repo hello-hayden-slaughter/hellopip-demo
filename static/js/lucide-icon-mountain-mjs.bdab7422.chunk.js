@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-mountain-mjs.bdab7422.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[4278],{21769:function(n,t,e){e.r(t),e.d(t,{__iconNode:function(){return o},default:function(){return p}});var u=e(95133);const o=[["path",{d:"m8 3 4 8 5-5 5 15H2L8 3z",key:"otkl63"}]],p=(0,u.A)("mountain",o)}}]);

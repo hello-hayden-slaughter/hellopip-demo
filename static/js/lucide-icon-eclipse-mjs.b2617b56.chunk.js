@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-eclipse-mjs.b2617b56.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[66464],{96927:function(e,c,n){n.r(c),n.d(c,{__iconNode:function(){return p},default:function(){return u}});var t=n(95133);const p=[["circle",{cx:"12",cy:"12",r:"10",key:"1mglay"}],["path",{d:"M12 2a7 7 0 1 0 10 10",key:"1yuj32"}]],u=(0,t.A)("eclipse",p)}}]);

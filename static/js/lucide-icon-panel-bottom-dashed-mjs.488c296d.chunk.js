@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-panel-bottom-dashed-mjs.488c296d.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[73735],{89704:function(t,e,h){h.r(e),h.d(e,{__iconNode:function(){return p},default:function(){return d}});var n=h(88697);const p=[["rect",{width:"18",height:"18",x:"3",y:"3",rx:"2",key:"afitv7"}],["path",{d:"M14 15h1",key:"171nev"}],["path",{d:"M19 15h2",key:"1vnucp"}],["path",{d:"M3 15h2",key:"8bym0q"}],["path",{d:"M9 15h1",key:"1tg3ks"}]],d=(0,n.A)("panel-bottom-dashed",p)}}]);

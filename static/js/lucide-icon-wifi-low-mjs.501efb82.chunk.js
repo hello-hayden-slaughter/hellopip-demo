@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-wifi-low-mjs.501efb82.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[93781],{74602:function(e,t,n){n.r(t),n.d(t,{__iconNode:function(){return i},default:function(){return u}});var p=n(88697);const i=[["path",{d:"M12 20h.01",key:"zekei9"}],["path",{d:"M8.5 16.429a5 5 0 0 1 7 0",key:"1bycff"}]],u=(0,p.A)("wifi-low",i)}}]);

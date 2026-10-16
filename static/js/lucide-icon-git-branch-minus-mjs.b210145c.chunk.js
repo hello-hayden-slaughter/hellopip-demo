@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-git-branch-minus-mjs.b210145c.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[34701],{42178:function(c,e,n){n.r(e),n.d(e,{__iconNode:function(){return i},default:function(){return r}});var t=n(95133);const i=[["path",{d:"M15 6a9 9 0 0 0-9 9V3",key:"1cii5b"}],["path",{d:"M21 18h-6",key:"139f0c"}],["circle",{cx:"18",cy:"6",r:"3",key:"1h7g24"}],["circle",{cx:"6",cy:"18",r:"3",key:"fqmcym"}]],r=(0,t.A)("git-branch-minus",i)}}]);

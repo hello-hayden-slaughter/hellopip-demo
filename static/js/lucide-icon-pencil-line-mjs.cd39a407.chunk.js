@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-pencil-line-mjs.cd39a407.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[80021],{24662:function(e,n,t){t.r(n),t.d(n,{__iconNode:function(){return a},default:function(){return u}});var p=t(95133);const a=[["path",{d:"M13 21h8",key:"1jsn5i"}],["path",{d:"m15 5 4 4",key:"1mk7zo"}],["path",{d:"M21.174 6.812a1 1 0 0 0-3.986-3.987L3.842 16.174a2 2 0 0 0-.5.83l-1.321 4.352a.5.5 0 0 0 .623.622l4.353-1.32a2 2 0 0 0 .83-.497z",key:"1a8usu"}]],u=(0,p.A)("pencil-line",a)}}]);

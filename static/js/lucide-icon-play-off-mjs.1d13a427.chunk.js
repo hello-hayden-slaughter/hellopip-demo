@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-play-off-mjs.1d13a427.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[58853],{61494:function(e,t,p){p.r(t),p.d(t,{__iconNode:function(){return o},default:function(){return k}});var n=p(88697);const o=[["path",{d:"m10.215 4.56 9.79 5.71a2 2 0 0 1 .003 3.458l-.393.23",key:"fdtkwz"}],["path",{d:"m16.042 16.042-8.034 4.686A2 2 0 0 1 5 19V5",key:"1c8hxg"}],["path",{d:"m2 2 20 20",key:"1ooewy"}]],k=(0,n.A)("play-off",o)}}]);

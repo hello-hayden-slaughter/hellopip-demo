@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-copy-minus-mjs.55fb8ea4.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[96559],{91396:function(e,n,t){t.r(n),t.d(n,{__iconNode:function(){return i},default:function(){return u}});var c=t(95133);const i=[["line",{x1:"12",x2:"18",y1:"15",y2:"15",key:"1nscbv"}],["rect",{width:"14",height:"14",x:"8",y:"8",rx:"2",ry:"2",key:"17jyea"}],["path",{d:"M4 16c-1.1 0-2-.9-2-2V4c0-1.1.9-2 2-2h10c1.1 0 2 .9 2 2",key:"zix9uf"}]],u=(0,c.A)("copy-minus",i)}}]);

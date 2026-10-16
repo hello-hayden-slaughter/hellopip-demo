@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-zoom-out-mjs.ba7eb4e1.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[39713],{81074:function(e,n,u){u.r(n),u.d(n,{__iconNode:function(){return t},default:function(){return o}});var c=u(95133);const t=[["circle",{cx:"11",cy:"11",r:"8",key:"4ej97u"}],["line",{x1:"21",x2:"16.65",y1:"21",y2:"16.65",key:"13gj7c"}],["line",{x1:"8",x2:"14",y1:"11",y2:"11",key:"durymu"}]],o=(0,c.A)("zoom-out",t)}}]);

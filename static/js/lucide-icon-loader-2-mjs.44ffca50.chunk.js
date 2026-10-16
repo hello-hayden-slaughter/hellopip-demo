@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-loader-2-mjs.44ffca50.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[43639,45274],{87088:function(e,n,t){t.r(n),t.d(n,{default:function(){return u.default}});var u=t(3750)},3750:function(e,n,t){t.r(n),t.d(n,{__iconNode:function(){return r},default:function(){return c}});var u=t(95133);const r=[["path",{d:"M21 12a9 9 0 1 1-6.219-8.56",key:"13zald"}]],c=(0,u.A)("loader-circle",r)}}]);

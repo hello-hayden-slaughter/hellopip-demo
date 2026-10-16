@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-paint-roller-mjs.3cc312ce.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[49430],{9233:function(e,t,h){h.r(t),h.d(t,{__iconNode:function(){return r},default:function(){return c}});var n=h(88697);const r=[["rect",{width:"16",height:"6",x:"2",y:"2",rx:"2",key:"jcyz7m"}],["path",{d:"M10 16v-2a2 2 0 0 1 2-2h8a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2h-2",key:"1b9h7c"}],["rect",{width:"4",height:"6",x:"8",y:"16",rx:"1",key:"d6e7yl"}]],c=(0,n.A)("paint-roller",r)}}]);

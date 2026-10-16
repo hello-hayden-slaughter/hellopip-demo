@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-mail-plus-mjs.4ca5e58a.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[90213],{67122:function(t,e,p){p.r(e),p.d(e,{__iconNode:function(){return n},default:function(){return d}});var a=p(88697);const n=[["path",{d:"M22 13V6a2 2 0 0 0-2-2H4a2 2 0 0 0-2 2v12c0 1.1.9 2 2 2h8",key:"12jkf8"}],["path",{d:"m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7",key:"1ocrg3"}],["path",{d:"M19 16v6",key:"tddt3s"}],["path",{d:"M16 19h6",key:"xwg31i"}]],d=(0,a.A)("mail-plus",n)}}]);

@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-tv-minimal-mjs.73efcace.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[27531],{51716:function(t,e,n){n.r(e),n.d(e,{__iconNode:function(){return c},default:function(){return p}});var i=n(88697);const c=[["path",{d:"M7 21h10",key:"1b0cd5"}],["rect",{width:"20",height:"14",x:"2",y:"3",rx:"2",key:"48i651"}]],p=(0,i.A)("tv-minimal",c)}}]);

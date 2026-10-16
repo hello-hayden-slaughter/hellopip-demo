@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-pill-bottle-mjs.83960872.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[80133],{79394:function(e,t,n){n.r(t),n.d(t,{__iconNode:function(){return h},default:function(){return a}});var p=n(95133);const h=[["path",{d:"M18 11h-4a1 1 0 0 0-1 1v5a1 1 0 0 0 1 1h4",key:"17ldeb"}],["path",{d:"M6 7v13a2 2 0 0 0 2 2h8a2 2 0 0 0 2-2V7",key:"nc37y6"}],["rect",{width:"16",height:"5",x:"4",y:"2",rx:"1",key:"3jeezo"}]],a=(0,p.A)("pill-bottle",h)}}]);

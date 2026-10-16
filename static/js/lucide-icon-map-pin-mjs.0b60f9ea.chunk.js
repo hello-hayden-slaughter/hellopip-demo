@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-map-pin-mjs.0b60f9ea.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[95303],{29264:function(e,c,n){n.r(c),n.d(c,{__iconNode:function(){return t},default:function(){return r}});var p=n(88697);const t=[["path",{d:"M20 10c0 4.993-5.539 10.193-7.399 11.799a1 1 0 0 1-1.202 0C9.539 20.193 4 14.993 4 10a8 8 0 0 1 16 0",key:"1r0f0z"}],["circle",{cx:"12",cy:"10",r:"3",key:"ilqhr7"}]],r=(0,p.A)("map-pin",t)}}]);

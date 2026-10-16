@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-diff-mjs.b9916881.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[8218],{15313:function(e,t,n){n.r(t),n.d(t,{__iconNode:function(){return u},default:function(){return f}});var p=n(95133);const u=[["path",{d:"M12 3v14",key:"7cf3v8"}],["path",{d:"M5 10h14",key:"elsbfy"}],["path",{d:"M5 21h14",key:"11awu3"}]],f=(0,p.A)("diff",u)}}]);

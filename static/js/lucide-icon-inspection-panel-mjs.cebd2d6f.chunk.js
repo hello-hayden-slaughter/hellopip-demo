@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-inspection-panel-mjs.cebd2d6f.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[34708],{59883:function(e,t,n){n.r(t),n.d(t,{__iconNode:function(){return h},default:function(){return k}});var p=n(88697);const h=[["rect",{width:"18",height:"18",x:"3",y:"3",rx:"2",key:"afitv7"}],["path",{d:"M7 7h.01",key:"7u93v4"}],["path",{d:"M17 7h.01",key:"14a9sn"}],["path",{d:"M7 17h.01",key:"19xn7k"}],["path",{d:"M17 17h.01",key:"1sd3ek"}]],k=(0,p.A)("inspection-panel",h)}}]);

@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-table-cells-split-mjs.d2e10371.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[95928],{46719:function(t,e,p){p.r(e),p.d(e,{__iconNode:function(){return u},default:function(){return c}});var n=p(95133);const u=[["path",{d:"M12 15V9",key:"8c7uyn"}],["path",{d:"M3 15h18",key:"5xshup"}],["path",{d:"M3 9h18",key:"1pudct"}],["rect",{width:"18",height:"18",x:"3",y:"3",rx:"2",key:"afitv7"}]],c=(0,n.A)("table-cells-split",u)}}]);

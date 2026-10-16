@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-table-cells-merge-mjs.e5ded245.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[51344],{26767:function(e,t,p){p.r(t),p.d(t,{__iconNode:function(){return n},default:function(){return c}});var h=p(88697);const n=[["path",{d:"M12 21v-6",key:"lihzve"}],["path",{d:"M12 9V3",key:"da5inc"}],["path",{d:"M3 15h18",key:"5xshup"}],["path",{d:"M3 9h18",key:"1pudct"}],["rect",{width:"18",height:"18",x:"3",y:"3",rx:"2",key:"afitv7"}]],c=(0,h.A)("table-cells-merge",n)}}]);

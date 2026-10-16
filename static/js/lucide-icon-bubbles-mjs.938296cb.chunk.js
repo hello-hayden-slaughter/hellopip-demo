@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-bubbles-mjs.938296cb.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[48858],{9849:function(c,e,r){r.r(e),r.d(e,{__iconNode:function(){return n},default:function(){return u}});var t=r(88697);const n=[["path",{d:"M7.001 15.085A1.5 1.5 0 0 1 9 16.5",key:"y44lvh"}],["circle",{cx:"18.5",cy:"8.5",r:"3.5",key:"1wadoa"}],["circle",{cx:"7.5",cy:"16.5",r:"5.5",key:"6mdt3g"}],["circle",{cx:"7.5",cy:"4.5",r:"2.5",key:"637s54"}]],u=(0,t.A)("bubbles",n)}}]);

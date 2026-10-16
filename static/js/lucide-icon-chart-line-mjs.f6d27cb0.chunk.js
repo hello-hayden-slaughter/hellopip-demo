@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-chart-line-mjs.f6d27cb0.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[95028],{3875:function(e,t,n){n.r(t),n.d(t,{__iconNode:function(){return c},default:function(){return i}});var p=n(95133);const c=[["path",{d:"M3 3v16a2 2 0 0 0 2 2h16",key:"c24i48"}],["path",{d:"m19 9-5 5-4-4-3 3",key:"2osh9i"}]],i=(0,p.A)("chart-line",c)}}]);

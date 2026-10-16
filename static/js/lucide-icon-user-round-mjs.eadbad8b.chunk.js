@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-user-round-mjs.eadbad8b.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[62461],{66162:function(e,n,c){c.r(n),c.d(n,{__iconNode:function(){return t},default:function(){return u}});var r=c(95133);const t=[["circle",{cx:"12",cy:"8",r:"5",key:"1hypcn"}],["path",{d:"M20 21a8 8 0 0 0-16 0",key:"rfgkzh"}]],u=(0,r.A)("user-round",t)}}]);

@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-unlink-2-mjs.0806f656.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[2211],{47704:function(n,e,t){t.r(e),t.d(e,{__iconNode:function(){return p},default:function(){return c}});var u=t(95133);const p=[["path",{d:"M15 7h2a5 5 0 0 1 0 10h-2m-6 0H7A5 5 0 0 1 7 7h2",key:"1re2ne"}]],c=(0,u.A)("unlink-2",p)}}]);

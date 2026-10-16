@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-chevrons-left-mjs.f013a544.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[99177],{86806:function(e,t,n){n.r(t),n.d(t,{__iconNode:function(){return u},default:function(){return c}});var p=n(88697);const u=[["path",{d:"m11 17-5-5 5-5",key:"13zhaf"}],["path",{d:"m18 17-5-5 5-5",key:"h8a8et"}]],c=(0,p.A)("chevrons-left",u)}}]);

@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-code-square-mjs.c93611cb.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[38170],{80889:function(e,p,t){t.r(p),t.d(p,{default:function(){return u.default}});var u=t(72573)}}]);

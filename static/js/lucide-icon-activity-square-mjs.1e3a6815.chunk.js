@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-activity-square-mjs.1e3a6815.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[39078,80578],{36393:function(t,e,n){n.r(e),n.d(e,{default:function(){return u.default}});var u=n(81189)},81189:function(t,e,n){n.r(e),n.d(e,{__iconNode:function(){return i},default:function(){return r}});var u=n(88697);const i=[["rect",{width:"18",height:"18",x:"3",y:"3",rx:"2",key:"afitv7"}],["path",{d:"M17 12h-2l-2 5-2-10-2 5H7",key:"15hlnc"}]],r=(0,u.A)("square-activity",i)}}]);

@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-check-line-mjs.06581a9d.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[61844],{89475:function(e,t,n){n.r(t),n.d(t,{__iconNode:function(){return k},default:function(){return c}});var p=n(88697);const k=[["path",{d:"M20 4L9 15",key:"1qkx8z"}],["path",{d:"M21 19L3 19",key:"100sma"}],["path",{d:"M9 15L4 10",key:"9zxff7"}]],c=(0,p.A)("check-line",k)}}]);

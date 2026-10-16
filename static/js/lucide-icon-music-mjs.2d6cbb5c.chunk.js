@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-music-mjs.2d6cbb5c.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[34878],{46189:function(c,e,n){n.r(e),n.d(e,{__iconNode:function(){return u},default:function(){return r}});var t=n(88697);const u=[["path",{d:"M9 18V5l12-2v13",key:"1jmyc2"}],["circle",{cx:"6",cy:"18",r:"3",key:"fqmcym"}],["circle",{cx:"18",cy:"16",r:"3",key:"1hluhg"}]],r=(0,t.A)("music",u)}}]);

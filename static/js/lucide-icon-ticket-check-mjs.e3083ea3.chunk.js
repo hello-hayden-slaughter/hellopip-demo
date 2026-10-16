@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-ticket-check-mjs.e3083ea3.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[44052],{12527:function(e,t,n){n.r(t),n.d(t,{__iconNode:function(){return c},default:function(){return p}});var a=n(88697);const c=[["path",{d:"M2 9a3 3 0 0 1 0 6v2a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2v-2a3 3 0 0 1 0-6V7a2 2 0 0 0-2-2H4a2 2 0 0 0-2 2Z",key:"qn84l0"}],["path",{d:"m9 12 2 2 4-4",key:"dzmm74"}]],p=(0,a.A)("ticket-check",c)}}]);

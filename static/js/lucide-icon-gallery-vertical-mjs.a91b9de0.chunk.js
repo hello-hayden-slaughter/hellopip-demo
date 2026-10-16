@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-gallery-vertical-mjs.a91b9de0.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[58018],{98133:function(e,t,r){r.r(t),r.d(t,{__iconNode:function(){return p},default:function(){return c}});var n=r(95133);const p=[["path",{d:"M3 2h18",key:"15qxfx"}],["rect",{width:"18",height:"12",x:"3",y:"6",rx:"2",key:"1439r6"}],["path",{d:"M3 22h18",key:"8prr45"}]],c=(0,n.A)("gallery-vertical",p)}}]);

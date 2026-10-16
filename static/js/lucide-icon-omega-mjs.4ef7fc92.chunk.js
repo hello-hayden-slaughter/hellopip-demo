@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-omega-mjs.4ef7fc92.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[84022],{1825:function(e,n,t){t.r(n),t.d(n,{__iconNode:function(){return p},default:function(){return u}});var o=t(95133);const p=[["path",{d:"M3 20h4.5a.5.5 0 0 0 .5-.5v-.282a.52.52 0 0 0-.247-.437 8 8 0 1 1 8.494-.001.52.52 0 0 0-.247.438v.282a.5.5 0 0 0 .5.5H21",key:"1x94xo"}]],u=(0,o.A)("omega",p)}}]);

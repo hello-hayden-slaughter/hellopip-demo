@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-stop-circle-mjs.e40b0f18.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[20426,65310],{54157:function(e,t,c){c.r(t),c.d(t,{__iconNode:function(){return r},default:function(){return u}});var n=c(95133);const r=[["circle",{cx:"12",cy:"12",r:"10",key:"1mglay"}],["rect",{x:"9",y:"9",width:"6",height:"6",rx:"1",key:"1ssd4o"}]],u=(0,n.A)("circle-stop",r)},58025:function(e,t,c){c.r(t),c.d(t,{default:function(){return n.default}});var n=c(54157)}}]);

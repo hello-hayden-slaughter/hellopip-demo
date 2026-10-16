@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-chart-no-axes-column-mjs.51d67ebb.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[9010],{55177:function(n,e,t){t.r(e),t.d(e,{__iconNode:function(){return p},default:function(){return u}});var c=t(95133);const p=[["path",{d:"M5 21v-6",key:"1hz6c0"}],["path",{d:"M12 21V3",key:"1lcnhd"}],["path",{d:"M19 21V9",key:"unv183"}]],u=(0,c.A)("chart-no-axes-column",p)}}]);

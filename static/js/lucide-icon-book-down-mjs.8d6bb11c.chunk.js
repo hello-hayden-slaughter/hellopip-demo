@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-book-down-mjs.8d6bb11c.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[91827],{25956:function(t,e,n){n.r(e),n.d(e,{__iconNode:function(){return a},default:function(){return k}});var p=n(88697);const a=[["path",{d:"M12 13V7",key:"h0r20n"}],["path",{d:"M4 19.5v-15A2.5 2.5 0 0 1 6.5 2H19a1 1 0 0 1 1 1v18a1 1 0 0 1-1 1H6.5a1 1 0 0 1 0-5H20",key:"k3hazp"}],["path",{d:"m9 10 3 3 3-3",key:"zt5b4y"}]],k=(0,p.A)("book-down",a)}}]);

@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-sword-mjs.3fbbd0da.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[22904],{20147:function(t,e,p){p.r(e),p.d(e,{__iconNode:function(){return k},default:function(){return d}});var n=p(88697);const k=[["path",{d:"m11 19-6-6",key:"s7kpr"}],["path",{d:"m5 21-2-2",key:"1kw20b"}],["path",{d:"m8 16-4 4",key:"1oqv8h"}],["path",{d:"M9.5 17.5 20.414 6.586A2 2 0 0021 5.172V3h-2.172a2 2 0 00-1.414.586L6.5 14.5",key:"1pjndt"}]],d=(0,n.A)("sword",k)}}]);

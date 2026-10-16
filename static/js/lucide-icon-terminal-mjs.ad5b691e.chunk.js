@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-terminal-mjs.ad5b691e.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[66335],{79404:function(e,t,n){n.r(t),n.d(t,{__iconNode:function(){return u},default:function(){return o}});var p=n(95133);const u=[["path",{d:"M12 19h8",key:"baeox8"}],["path",{d:"m4 17 6-6-6-6",key:"1yngyt"}]],o=(0,p.A)("terminal",u)}}]);

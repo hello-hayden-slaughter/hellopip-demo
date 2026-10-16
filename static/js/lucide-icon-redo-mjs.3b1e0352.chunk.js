@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-redo-mjs.3b1e0352.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[70623],{8880:function(e,t,n){n.r(t),n.d(t,{__iconNode:function(){return u},default:function(){return r}});var p=n(88697);const u=[["path",{d:"M21 7v6h-6",key:"3ptur4"}],["path",{d:"M3 17a9 9 0 0 1 9-9 9 9 0 0 1 6 2.3l3 2.7",key:"1kgawr"}]],r=(0,p.A)("redo",u)}}]);

@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-clock-arrow-left-mjs.7478a6f0.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[40615],{48260:function(e,t,p){p.r(t),p.d(t,{__iconNode:function(){return n},default:function(){return u}});var k=p(88697);const n=[["path",{d:"M12 6v6l1.5.8",key:"uc7jki"}],["path",{d:"M12.338 21.994a10 10 0 1 1 9.587-8.767",key:"1lz5pu"}],["path",{d:"M14 18h8",key:"1le3fr"}],["path",{d:"m18 22-4-4 4-4",key:"dh5o1f"}]],u=(0,k.A)("clock-arrow-left",n)}}]);

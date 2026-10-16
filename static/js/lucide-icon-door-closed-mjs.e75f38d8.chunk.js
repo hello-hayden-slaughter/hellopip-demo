@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-door-closed-mjs.e75f38d8.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[55190],{54305:function(e,t,o){o.r(t),o.d(t,{__iconNode:function(){return p},default:function(){return u}});var n=o(95133);const p=[["path",{d:"M10 12h.01",key:"1kxr2c"}],["path",{d:"M18 20V6a2 2 0 0 0-2-2H8a2 2 0 0 0-2 2v14",key:"36qu9e"}],["path",{d:"M2 20h20",key:"owomy5"}]],u=(0,n.A)("door-closed",p)}}]);

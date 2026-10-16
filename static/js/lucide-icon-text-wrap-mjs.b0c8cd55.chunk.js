@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-text-wrap-mjs.b0c8cd55.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[27661],{34350:function(t,e,p){p.r(e),p.d(e,{__iconNode:function(){return a},default:function(){return u}});var n=p(88697);const a=[["path",{d:"m16 16-3 3 3 3",key:"117b85"}],["path",{d:"M3 12h14.5a1 1 0 0 1 0 7H13",key:"18xa6z"}],["path",{d:"M3 19h6",key:"1ygdsz"}],["path",{d:"M3 5h18",key:"1u36vt"}]],u=(0,n.A)("text-wrap",a)}}]);

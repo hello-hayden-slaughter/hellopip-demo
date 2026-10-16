@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-slice-mjs.b816e1be.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[31461],{17690:function(e,n,t){t.r(n),t.d(n,{__iconNode:function(){return s},default:function(){return u}});var p=t(95133);const s=[["path",{d:"M11 16.586V19a1 1 0 0 1-1 1H2L18.37 3.63a1 1 0 1 1 3 3l-9.663 9.663a1 1 0 0 1-1.414 0L8 14",key:"1sllp5"}]],u=(0,p.A)("slice",s)}}]);

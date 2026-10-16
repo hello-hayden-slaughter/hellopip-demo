@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-laptop-2-mjs.a8c14ada.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[1702,84345],{60921:function(n,t,e){e.r(t),e.d(t,{default:function(){return i.default}});var i=e(88422)},88422:function(n,t,e){e.r(t),e.d(t,{__iconNode:function(){return u},default:function(){return r}});var i=e(88697);const u=[["rect",{width:"18",height:"12",x:"3",y:"4",rx:"2",ry:"2",key:"1qhy41"}],["line",{x1:"2",x2:"22",y1:"20",y2:"20",key:"ni3hll"}]],r=(0,i.A)("laptop-minimal",u)}}]);

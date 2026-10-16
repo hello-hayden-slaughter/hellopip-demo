@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-square-split-horizontal-mjs.ca6cbfd2.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[22348],{27575:function(t,e,a){a.r(e),a.d(e,{__iconNode:function(){return n},default:function(){return o}});var p=a(88697);const n=[["path",{d:"M12 2v20",key:"t6zp3m"}],["path",{d:"M16 3h3a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2h-3",key:"saxlbk"}],["path",{d:"M8 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h3",key:"m1vog4"}]],o=(0,p.A)("square-split-horizontal",n)}}]);

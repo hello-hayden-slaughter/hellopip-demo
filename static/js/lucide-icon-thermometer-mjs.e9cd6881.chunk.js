@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-thermometer-mjs.e9cd6881.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[49011],{14188:function(e,t,n){n.r(t),n.d(t,{__iconNode:function(){return u},default:function(){return o}});var p=n(88697);const u=[["path",{d:"M14 4v10.54a4 4 0 1 1-4 0V4a2 2 0 0 1 4 0Z",key:"17jzev"}]],o=(0,p.A)("thermometer",u)}}]);

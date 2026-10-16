@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-move-up-mjs.acbc1e87.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[50612],{61795:function(e,t,n){n.r(t),n.d(t,{__iconNode:function(){return u},default:function(){return k}});var p=n(95133);const u=[["path",{d:"M8 6L12 2L16 6",key:"1yvkyx"}],["path",{d:"M12 2V22",key:"r89rzk"}]],k=(0,p.A)("move-up",u)}}]);

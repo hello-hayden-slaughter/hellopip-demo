@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-chevron-up-circle-mjs.a926a76c.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[59331,86625],{87749:function(e,n,t){t.r(n),t.d(n,{default:function(){return c.default}});var c=t(45112)},45112:function(e,n,t){t.r(n),t.d(n,{__iconNode:function(){return u},default:function(){return r}});var c=t(88697);const u=[["circle",{cx:"12",cy:"12",r:"10",key:"1mglay"}],["path",{d:"m8 14 4-4 4 4",key:"fy2ptz"}]],r=(0,c.A)("circle-chevron-up",u)}}]);

@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-arrows-up-from-line-mjs.4f4a0d41.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[10875],{61972:function(e,t,p){p.r(t),p.d(t,{__iconNode:function(){return a},default:function(){return d}});var n=p(88697);const a=[["path",{d:"m4 6 3-3 3 3",key:"9aidw8"}],["path",{d:"M7 17V3",key:"19qxw1"}],["path",{d:"m14 6 3-3 3 3",key:"6iy689"}],["path",{d:"M17 17V3",key:"o0fmgi"}],["path",{d:"M4 21h16",key:"1h09gz"}]],d=(0,n.A)("arrows-up-from-line",a)}}]);

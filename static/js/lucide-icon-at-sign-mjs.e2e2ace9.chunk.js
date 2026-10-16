@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-at-sign-mjs.e2e2ace9.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[17384],{27651:function(e,n,t){t.r(n),t.d(n,{__iconNode:function(){return p},default:function(){return i}});var c=t(95133);const p=[["circle",{cx:"12",cy:"12",r:"4",key:"4exip2"}],["path",{d:"M16 8v5a3 3 0 0 0 6 0v-1a10 10 0 1 0-4 8",key:"7n84p3"}]],i=(0,c.A)("at-sign",p)}}]);

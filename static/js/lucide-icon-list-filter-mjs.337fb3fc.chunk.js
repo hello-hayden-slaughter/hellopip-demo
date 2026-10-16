@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-list-filter-mjs.337fb3fc.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[824],{78507:function(e,t,p){p.r(t),p.d(t,{__iconNode:function(){return s},default:function(){return u}});var n=p(95133);const s=[["path",{d:"M2 5h20",key:"1fs1ex"}],["path",{d:"M6 12h12",key:"8npq4p"}],["path",{d:"M9 19h6",key:"456am0"}]],u=(0,n.A)("list-filter",s)}}]);

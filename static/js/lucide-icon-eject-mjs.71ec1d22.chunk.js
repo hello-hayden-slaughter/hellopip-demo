@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-eject-mjs.71ec1d22.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[50824],{32407:function(e,t,n){n.r(t),n.d(t,{__iconNode:function(){return c},default:function(){return p}});var u=n(95133);const c=[["path",{d:"M4 13a1 1 0 0 1-.72-1.695l7.257-7.668a2 2 0 0 1 2.926 0l7.256 7.668A1 1 0 0 1 20 13z",key:"ua5u6w"}],["rect",{x:"3",y:"17",width:"18",height:"4",rx:"1",key:"kj6cfs"}]],p=(0,u.A)("eject",c)}}]);

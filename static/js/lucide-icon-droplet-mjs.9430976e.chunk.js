@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-droplet-mjs.9430976e.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[69893],{6654:function(e,n,t){t.r(n),t.d(n,{__iconNode:function(){return p},default:function(){return u}});var c=t(88697);const p=[["path",{d:"M12 22a7 7 0 0 0 7-7c0-2-1-3.9-3-5.5s-3.5-4-4-6.5c-.5 2.5-2 4.9-4 6.5C6 11.1 5 13 5 15a7 7 0 0 0 7 7z",key:"c7niix"}]],u=(0,c.A)("droplet",p)}}]);

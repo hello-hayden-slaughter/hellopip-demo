@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-chart-no-axes-column-increasing-mjs.2316c234.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[48776],{45363:function(e,n,t){t.r(n),t.d(n,{__iconNode:function(){return p},default:function(){return u}});var c=t(88697);const p=[["path",{d:"M5 21v-6",key:"1hz6c0"}],["path",{d:"M12 21V9",key:"uvy0l4"}],["path",{d:"M19 21V3",key:"11j9sm"}]],u=(0,c.A)("chart-no-axes-column-increasing",p)}}]);

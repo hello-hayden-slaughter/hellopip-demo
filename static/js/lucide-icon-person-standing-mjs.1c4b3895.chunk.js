@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-person-standing-mjs.1c4b3895.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[94679],{10856:function(e,n,t){t.r(n),t.d(n,{__iconNode:function(){return c},default:function(){return k}});var p=t(95133);const c=[["circle",{cx:"12",cy:"5",r:"1",key:"gxeob9"}],["path",{d:"m9 20 3-6 3 6",key:"se2kox"}],["path",{d:"m6 8 6 2 6-2",key:"4o3us4"}],["path",{d:"M12 10v4",key:"1kjpxc"}]],k=(0,p.A)("person-standing",c)}}]);

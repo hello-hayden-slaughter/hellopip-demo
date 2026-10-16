@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-turntable-mjs.b448be20.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[56928],{67767:function(e,t,c){c.r(t),c.d(t,{__iconNode:function(){return r},default:function(){return p}});var n=c(88697);const r=[["path",{d:"M10 12.01h.01",key:"7rp0yl"}],["path",{d:"M18 8v4a8 8 0 0 1-1.07 4",key:"1st48v"}],["circle",{cx:"10",cy:"12",r:"4",key:"19levz"}],["rect",{x:"2",y:"4",width:"20",height:"16",rx:"2",key:"izxlao"}]],p=(0,n.A)("turntable",r)}}]);

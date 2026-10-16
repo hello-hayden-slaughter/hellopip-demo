@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-circle-off-mjs.57a3b06e.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[18079],{48740:function(e,t,p){p.r(t),p.d(t,{__iconNode:function(){return o},default:function(){return c}});var n=p(95133);const o=[["path",{d:"m2 2 20 20",key:"1ooewy"}],["path",{d:"M8.35 2.69A10 10 0 0 1 21.3 15.65",key:"1pfsoa"}],["path",{d:"M19.08 19.08A10 10 0 1 1 4.92 4.92",key:"1ablyi"}]],c=(0,n.A)("circle-off",o)}}]);

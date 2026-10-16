@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-credit-card-plus-mjs.01150d5e.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[23824],{23251:function(e,t,p){p.r(t),p.d(t,{__iconNode:function(){return d},default:function(){return k}});var a=p(88697);const d=[["path",{d:"M16 17h6",key:"1ook5g"}],["path",{d:"M19 14v6",key:"1ckrd5"}],["path",{d:"M22 10H2",key:"jawrgs"}],["path",{d:"M22 11.354V7a2 2 0 00-2-2H4a2 2 0 00-2 2v10a2 2 0 002 2h8.536",key:"19x2x0"}]],k=(0,a.A)("credit-card-plus",d)}}]);

@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-zodiac-ophiuchus-mjs.e9d27df2.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[23307],{85495:function(e,n,p){p.r(n),p.d(n,{__iconNode:function(){return u},default:function(){return c}});var t=p(88697);const u=[["path",{d:"M3 10A6.06 6.06 0 0 1 12 10 A6.06 6.06 0 0 0 21 10",key:"13lfmc"}],["path",{d:"M6 3v12a6 6 0 0 0 12 0V3",key:"1jnivp"}]],c=(0,t.A)("zodiac-ophiuchus",u)}}]);

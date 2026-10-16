@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-panel-top-open-mjs.9c9f341c.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[17694],{10033:function(t,e,p){p.r(e),p.d(e,{__iconNode:function(){return u},default:function(){return c}});var n=p(88697);const u=[["rect",{width:"18",height:"18",x:"3",y:"3",rx:"2",key:"afitv7"}],["path",{d:"M3 9h18",key:"1pudct"}],["path",{d:"m15 14-3 3-3-3",key:"g215vf"}]],c=(0,n.A)("panel-top-open",u)}}]);

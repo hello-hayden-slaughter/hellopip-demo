@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-album-mjs.5cd447a6.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[48450],{6081:function(e,n,t){t.r(n),t.d(n,{__iconNode:function(){return p},default:function(){return u}});var i=t(95133);const p=[["rect",{width:"18",height:"18",x:"3",y:"3",rx:"2",ry:"2",key:"1m3agn"}],["polyline",{points:"11 3 11 11 14 8 17 11 17 3",key:"1wcwz3"}]],u=(0,i.A)("album",p)}}]);

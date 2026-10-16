@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-git-commit-horizontal-mjs.2d2f03db.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[34028],{92383:function(e,n,t){t.r(n),t.d(n,{__iconNode:function(){return i},default:function(){return o}});var c=t(88697);const i=[["circle",{cx:"12",cy:"12",r:"3",key:"1v7zrd"}],["line",{x1:"3",x2:"9",y1:"12",y2:"12",key:"1dyftd"}],["line",{x1:"15",x2:"21",y1:"12",y2:"12",key:"oup4p8"}]],o=(0,c.A)("git-commit-horizontal",i)}}]);

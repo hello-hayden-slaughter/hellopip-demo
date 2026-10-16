@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-flip-horizontal-mjs.708fafc7.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[50201],{89946:function(e,p,t){t.r(p),t.d(p,{default:function(){return u.default}});var u=t(94224)}}]);

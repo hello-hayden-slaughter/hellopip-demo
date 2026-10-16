@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-clock-check-mjs.7f922509.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[92030],{39749:function(e,t,c){c.r(t),c.d(t,{__iconNode:function(){return n},default:function(){return p}});var k=c(95133);const n=[["path",{d:"M21.95 13a10 10 0 1 0-8.685 8.92",key:"1ujumx"}],["path",{d:"M12 6v6l4 2",key:"mmk7yg"}],["path",{d:"m16 19 2 2 4-4",key:"1b14m6"}]],p=(0,k.A)("clock-check",n)}}]);

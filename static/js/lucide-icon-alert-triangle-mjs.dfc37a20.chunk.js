@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-alert-triangle-mjs.dfc37a20.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[57312],{71015:function(e,p,t){t.r(p),t.d(p,{default:function(){return u.default}});var u=t(48405)}}]);

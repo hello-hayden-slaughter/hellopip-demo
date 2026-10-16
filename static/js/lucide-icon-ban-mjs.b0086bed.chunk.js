@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-ban-mjs.b0086bed.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[86800],{72175:function(e,c,n){n.r(c),n.d(c,{__iconNode:function(){return p},default:function(){return u}});var t=n(95133);const p=[["circle",{cx:"12",cy:"12",r:"10",key:"1mglay"}],["path",{d:"M4.929 4.929 19.07 19.071",key:"196cmz"}]],u=(0,t.A)("ban",p)}}]);

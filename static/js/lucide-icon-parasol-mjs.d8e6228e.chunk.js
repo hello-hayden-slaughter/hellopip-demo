@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-parasol-mjs.d8e6228e.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[28787],{70024:function(e,t,n){n.r(t),n.d(t,{__iconNode:function(){return a},default:function(){return c}});var p=n(95133);const a=[["path",{d:"M12.5 11.134 18.196 21",key:"gf58kt"}],["path",{d:"M20.425 5.299a10 10 0 0 0-16.941 9.78c.183.563.843.774 1.355.478L20.16 6.711c.512-.296.66-.973.264-1.413",key:"znqfe4"}],["path",{d:"M21 21H3",key:"oafrgs"}]],c=(0,p.A)("parasol",a)}}]);

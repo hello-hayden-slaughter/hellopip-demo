@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-divide-mjs.8b9bd859.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[31576],{8547:function(e,c,n){n.r(c),n.d(c,{__iconNode:function(){return t},default:function(){return r}});var i=n(88697);const t=[["circle",{cx:"12",cy:"6",r:"1",key:"1bh7o1"}],["line",{x1:"5",x2:"19",y1:"12",y2:"12",key:"13b5wn"}],["circle",{cx:"12",cy:"18",r:"1",key:"lqb9t5"}]],r=(0,i.A)("divide",t)}}]);

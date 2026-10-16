@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-dollar-sign-mjs.5b8ffe7e.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[55263],{64636:function(e,n,t){t.r(n),t.d(n,{__iconNode:function(){return s},default:function(){return u}});var p=t(95133);const s=[["line",{x1:"12",x2:"12",y1:"2",y2:"22",key:"7eqyqh"}],["path",{d:"M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6",key:"1b0p4s"}]],u=(0,p.A)("dollar-sign",s)}}]);

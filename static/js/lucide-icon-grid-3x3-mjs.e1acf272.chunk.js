@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-grid-3x3-mjs.e1acf272.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[78580],{48631:function(t,e,p){p.r(e),p.d(e,{__iconNode:function(){return n},default:function(){return d}});var h=p(95133);const n=[["rect",{width:"18",height:"18",x:"3",y:"3",rx:"2",key:"afitv7"}],["path",{d:"M3 9h18",key:"1pudct"}],["path",{d:"M3 15h18",key:"5xshup"}],["path",{d:"M9 3v18",key:"fh3hqa"}],["path",{d:"M15 3v18",key:"14nvp0"}]],d=(0,h.A)("grid-3x3",n)}}]);

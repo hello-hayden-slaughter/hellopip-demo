@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-minus-square-mjs.7b830849.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[87103,96341],{32516:function(t,e,n){n.r(e),n.d(e,{default:function(){return u.default}});var u=n(44590)},44590:function(t,e,n){n.r(e),n.d(e,{__iconNode:function(){return r},default:function(){return i}});var u=n(95133);const r=[["rect",{width:"18",height:"18",x:"3",y:"3",rx:"2",key:"afitv7"}],["path",{d:"M8 12h8",key:"1wcyev"}]],i=(0,u.A)("square-minus",r)}}]);

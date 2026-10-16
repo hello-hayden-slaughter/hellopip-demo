@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-chevrons-up-mjs.acce4b0f.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[75653],{31126:function(e,n,t){t.r(n),t.d(n,{__iconNode:function(){return u},default:function(){return c}});var p=t(88697);const u=[["path",{d:"m17 11-5-5-5 5",key:"e8nh98"}],["path",{d:"m17 18-5-5-5 5",key:"2avn1x"}]],c=(0,p.A)("chevrons-up",u)}}]);

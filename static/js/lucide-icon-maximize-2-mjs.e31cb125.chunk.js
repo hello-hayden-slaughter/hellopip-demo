@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-maximize-2-mjs.e31cb125.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[52012],{62027:function(t,e,p){p.r(e),p.d(e,{__iconNode:function(){return a},default:function(){return k}});var n=p(88697);const a=[["path",{d:"M15 3h6v6",key:"1q9fwt"}],["path",{d:"m21 3-7 7",key:"1l2asr"}],["path",{d:"m3 21 7-7",key:"tjx5ai"}],["path",{d:"M9 21H3v-6",key:"wtvkvv"}]],k=(0,n.A)("maximize-2",a)}}]);

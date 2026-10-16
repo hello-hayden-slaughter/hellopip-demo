@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-battery-full-mjs.893e3d6e.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[25708],{85947:function(t,e,n){n.r(e),n.d(e,{__iconNode:function(){return d},default:function(){return k}});var p=n(95133);const d=[["path",{d:"M10 10v4",key:"1mb2ec"}],["path",{d:"M14 10v4",key:"1nt88p"}],["path",{d:"M22 14v-4",key:"14q9d5"}],["path",{d:"M6 10v4",key:"1n77qd"}],["rect",{x:"2",y:"6",width:"16",height:"12",rx:"2",key:"13zb55"}]],k=(0,p.A)("battery-full",d)}}]);

@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-ungroup-mjs.5b0827c3.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[30765],{64942:function(e,t,n){n.r(t),n.d(t,{__iconNode:function(){return u},default:function(){return i}});var r=n(88697);const u=[["rect",{x:"11",y:"14",width:"10",height:"7",rx:"2",key:"nfm8rk"}],["rect",{x:"3",y:"3",width:"10",height:"7",rx:"2",key:"1ljebb"}]],i=(0,r.A)("ungroup",u)}}]);

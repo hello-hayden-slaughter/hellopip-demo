@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-mirror-round-mjs.582c9457.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[86045],{27414:function(e,r,t){t.r(r),t.d(r,{__iconNode:function(){return p},default:function(){return c}});var n=t(88697);const p=[["path",{d:"M10 6.6 8.6 8",key:"itrr7k"}],["path",{d:"M12 18v4",key:"jadmvz"}],["path",{d:"M15 7.5 9.5 13",key:"1vyrsv"}],["path",{d:"M7 22h10",key:"10w4w3"}],["circle",{cx:"12",cy:"10",r:"8",key:"1gshiw"}]],c=(0,n.A)("mirror-round",p)}}]);

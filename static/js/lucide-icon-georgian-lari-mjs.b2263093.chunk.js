@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-georgian-lari-mjs.b2263093.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[76838],{31693:function(e,t,n){n.r(t),n.d(t,{__iconNode:function(){return a},default:function(){return u}});var p=n(88697);const a=[["path",{d:"M11.5 21a7.5 7.5 0 1 1 7.35-9",key:"1gyj8k"}],["path",{d:"M13 12V3",key:"18om2a"}],["path",{d:"M4 21h16",key:"1h09gz"}],["path",{d:"M9 12V3",key:"geutu0"}]],u=(0,p.A)("georgian-lari",a)}}]);

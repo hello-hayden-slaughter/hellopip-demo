@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-non-binary-mjs.58475476.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[12998],{41897:function(e,n,t){t.r(n),t.d(n,{__iconNode:function(){return p},default:function(){return k}});var c=t(88697);const p=[["path",{d:"M12 2v10",key:"mnfbl"}],["path",{d:"m8.5 4 7 4",key:"m1xjk3"}],["path",{d:"m8.5 8 7-4",key:"t0m5j6"}],["circle",{cx:"12",cy:"17",r:"5",key:"qbz8iq"}]],k=(0,c.A)("non-binary",p)}}]);

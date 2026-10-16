@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-lock-keyhole-open-mjs.a0e3c7b4.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[20445],{23786:function(e,t,c){c.r(t),c.d(t,{__iconNode:function(){return r},default:function(){return u}});var n=c(88697);const r=[["circle",{cx:"12",cy:"16",r:"1",key:"1au0dj"}],["rect",{width:"18",height:"12",x:"3",y:"10",rx:"2",key:"l0tzu3"}],["path",{d:"M7 10V7a5 5 0 0 1 9.33-2.5",key:"car5b7"}]],u=(0,n.A)("lock-keyhole-open",r)}}]);

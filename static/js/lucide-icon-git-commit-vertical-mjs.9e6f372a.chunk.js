@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-git-commit-vertical-mjs.9e6f372a.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[5538],{62173:function(e,t,c){c.r(t),c.d(t,{__iconNode:function(){return i},default:function(){return o}});var n=c(95133);const i=[["path",{d:"M12 3v6",key:"1holv5"}],["circle",{cx:"12",cy:"12",r:"3",key:"1v7zrd"}],["path",{d:"M12 15v6",key:"a9ows0"}]],o=(0,n.A)("git-commit-vertical",i)}}]);

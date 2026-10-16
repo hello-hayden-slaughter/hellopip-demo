@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-whistle-mjs.ef9df153.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[7925],{73278:function(e,t,n){n.r(t),n.d(t,{__iconNode:function(){return u},default:function(){return s}});var p=n(88697);const u=[["path",{d:"M10 6v4",key:"1sdd75"}],["path",{d:"M21 6a1 1 0 0 1 1 1v2a1 1 0 0 1-1 1h-5.675A7 7 0 1 1 9 6z",key:"kuzxl1"}]],s=(0,p.A)("whistle",u)}}]);

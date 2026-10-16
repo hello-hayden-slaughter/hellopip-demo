@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-laptop-minimal-check-mjs.fd47cc3f.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[94758],{43573:function(e,t,n){n.r(t),n.d(t,{__iconNode:function(){return c},default:function(){return i}});var p=n(88697);const c=[["path",{d:"M2 20h20",key:"owomy5"}],["path",{d:"m9 10 2 2 4-4",key:"1gnqz4"}],["rect",{x:"3",y:"4",width:"18",height:"12",rx:"2",key:"8ur36m"}]],i=(0,p.A)("laptop-minimal-check",c)}}]);

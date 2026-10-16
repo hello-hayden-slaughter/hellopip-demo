@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-square-slash-mjs.a3a0fef2.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[74774],{13301:function(e,t,n){n.r(t),n.d(t,{__iconNode:function(){return i},default:function(){return s}});var u=n(95133);const i=[["rect",{width:"18",height:"18",x:"3",y:"3",rx:"2",key:"afitv7"}],["line",{x1:"9",x2:"15",y1:"15",y2:"9",key:"1dfufj"}]],s=(0,u.A)("square-slash",i)}}]);

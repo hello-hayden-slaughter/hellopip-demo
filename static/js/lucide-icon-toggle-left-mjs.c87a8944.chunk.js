@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-toggle-left-mjs.c87a8944.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[64941],{91510:function(e,t,c){c.r(t),c.d(t,{__iconNode:function(){return r},default:function(){return u}});var n=c(88697);const r=[["circle",{cx:"9",cy:"12",r:"3",key:"u3jwor"}],["rect",{width:"20",height:"14",x:"2",y:"5",rx:"7",key:"g7kal2"}]],u=(0,n.A)("toggle-left",r)}}]);

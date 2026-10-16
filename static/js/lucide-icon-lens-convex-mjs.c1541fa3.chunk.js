@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-lens-convex-mjs.c1541fa3.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[14583],{46524:function(e,n,t){t.r(n),t.d(n,{__iconNode:function(){return o},default:function(){return p}});var c=t(88697);const o=[["path",{d:"M13.433 2a1 1 0 0 1 .824.448 18 18 0 0 1 0 19.104 1 1 0 0 1-.824.448h-2.866a1 1 0 0 1-.824-.448 18 18 0 0 1 0-19.104A1 1 0 0 1 10.567 2z",key:"cq67go"}]],p=(0,c.A)("lens-convex",o)}}]);

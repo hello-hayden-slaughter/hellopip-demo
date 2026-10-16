@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-face-expressionless-mjs.291829e3.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[55298],{24521:function(e,t,c){c.r(t),c.d(t,{__iconNode:function(){return p},default:function(){return s}});var n=c(95133);const p=[["path",{d:"M14 10h2",key:"1lstlu"}],["path",{d:"M8 10h2",key:"66od0"}],["path",{d:"M8 16h8",key:"10ke2u"}],["circle",{cx:"12",cy:"12",r:"10",key:"1mglay"}]],s=(0,n.A)("face-expressionless",p)}}]);

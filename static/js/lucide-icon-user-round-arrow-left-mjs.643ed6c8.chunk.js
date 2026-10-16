@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-user-round-arrow-left-mjs.643ed6c8.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[7451],{91432:function(e,t,n){n.r(t),n.d(t,{__iconNode:function(){return r},default:function(){return c}});var p=n(88697);const r=[["path",{d:"m19 16-3 3",key:"lp3y45"}],["path",{d:"M2 21a8 8 0 0 1 12.664-6.5",key:"1ap0vn"}],["path",{d:"M22 19h-6l3 3",key:"13fjle"}],["circle",{cx:"10",cy:"8",r:"5",key:"o932ke"}]],c=(0,p.A)("user-round-arrow-left",r)}}]);

@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-align-horizontal-space-around-mjs.99c207f9.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[14146],{35217:function(t,e,n){n.r(e),n.d(e,{__iconNode:function(){return r},default:function(){return i}});var p=n(88697);const r=[["rect",{width:"6",height:"10",x:"9",y:"7",rx:"2",key:"yn7j0q"}],["path",{d:"M4 22V2",key:"tsjzd3"}],["path",{d:"M20 22V2",key:"1bnhr8"}]],i=(0,p.A)("align-horizontal-space-around",r)}}]);

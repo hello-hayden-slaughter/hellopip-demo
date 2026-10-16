@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-align-horizontal-justify-start-mjs.a2c47869.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[24503],{24336:function(t,e,i){i.r(e),i.d(e,{__iconNode:function(){return r},default:function(){return h}});var n=i(88697);const r=[["rect",{width:"6",height:"14",x:"6",y:"5",rx:"2",key:"hsirpf"}],["rect",{width:"6",height:"10",x:"16",y:"7",rx:"2",key:"13zkjt"}],["path",{d:"M2 2v20",key:"1ivd8o"}]],h=(0,n.A)("align-horizontal-justify-start",r)}}]);

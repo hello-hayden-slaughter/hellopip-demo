@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-contrast-mjs.1fde47d2.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[45637],{48230:function(e,t,c){c.r(t),c.d(t,{__iconNode:function(){return p},default:function(){return r}});var n=c(88697);const p=[["circle",{cx:"12",cy:"12",r:"10",key:"1mglay"}],["path",{d:"M12 18a6 6 0 0 0 0-12v12z",key:"j4l70d"}]],r=(0,n.A)("contrast",p)}}]);

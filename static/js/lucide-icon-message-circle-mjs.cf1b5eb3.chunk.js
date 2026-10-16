@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-message-circle-mjs.cf1b5eb3.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[24609],{80402:function(e,n,s){s.r(n),s.d(n,{__iconNode:function(){return c},default:function(){return p}});var t=s(95133);const c=[["path",{d:"M2.992 16.342a2 2 0 0 1 .094 1.167l-1.065 3.29a1 1 0 0 0 1.236 1.168l3.413-.998a2 2 0 0 1 1.099.092 10 10 0 1 0-4.777-4.719",key:"1sd12s"}]],p=(0,t.A)("message-circle",c)}}]);

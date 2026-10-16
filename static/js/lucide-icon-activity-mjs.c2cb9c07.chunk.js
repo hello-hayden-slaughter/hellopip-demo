@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-activity-mjs.c2cb9c07.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[27204],{36899:function(t,e,n){n.r(e),n.d(e,{__iconNode:function(){return u},default:function(){return a}});var p=n(88697);const u=[["path",{d:"M22 12h-2.48a2 2 0 0 0-1.93 1.46l-2.35 8.36a.25.25 0 0 1-.48 0L9.24 2.18a.25.25 0 0 0-.48 0l-2.35 8.36A2 2 0 0 1 4.49 12H2",key:"169zse"}]],a=(0,p.A)("activity",u)}}]);

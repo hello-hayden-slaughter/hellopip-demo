@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-tally-3-mjs.5b4b4d07.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[59989],{73766:function(e,t,n){n.r(t),n.d(t,{__iconNode:function(){return k},default:function(){return u}});var p=n(95133);const k=[["path",{d:"M4 4v16",key:"6qkkli"}],["path",{d:"M9 4v16",key:"81ygyz"}],["path",{d:"M14 4v16",key:"12vmem"}]],u=(0,p.A)("tally-3",k)}}]);

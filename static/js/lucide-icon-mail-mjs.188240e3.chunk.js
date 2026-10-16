@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-mail-mjs.188240e3.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[65978],{44685:function(e,t,n){n.r(t),n.d(t,{__iconNode:function(){return p},default:function(){return u}});var i=n(88697);const p=[["path",{d:"m22 7-8.991 5.727a2 2 0 0 1-2.009 0L2 7",key:"132q7q"}],["rect",{x:"2",y:"4",width:"20",height:"16",rx:"2",key:"izxlao"}]],u=(0,i.A)("mail",p)}}]);

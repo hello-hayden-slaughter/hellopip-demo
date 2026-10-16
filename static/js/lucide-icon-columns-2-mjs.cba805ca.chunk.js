@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-columns-2-mjs.cba805ca.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[33607],{27436:function(t,e,n){n.r(e),n.d(e,{__iconNode:function(){return c},default:function(){return i}});var u=n(95133);const c=[["rect",{width:"18",height:"18",x:"3",y:"3",rx:"2",key:"afitv7"}],["path",{d:"M12 3v18",key:"108xh3"}]],i=(0,u.A)("columns-2",c)}}]);

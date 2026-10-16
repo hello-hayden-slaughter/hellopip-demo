@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-power-mjs.edb5d836.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[9912],{62031:function(e,n,t){t.r(n),t.d(n,{__iconNode:function(){return o},default:function(){return u}});var p=t(88697);const o=[["path",{d:"M12 2v10",key:"mnfbl"}],["path",{d:"M18.4 6.6a9 9 0 1 1-12.77.04",key:"obofu9"}]],u=(0,p.A)("power",o)}}]);

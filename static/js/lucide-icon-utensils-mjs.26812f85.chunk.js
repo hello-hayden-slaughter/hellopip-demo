@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-utensils-mjs.26812f85.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[75238],{25501:function(e,t,n){n.r(t),n.d(t,{__iconNode:function(){return c},default:function(){return u}});var p=n(88697);const c=[["path",{d:"M3 2v7c0 1.1.9 2 2 2h4a2 2 0 0 0 2-2V2",key:"cjf0a3"}],["path",{d:"M7 2v20",key:"1473qp"}],["path",{d:"M21 15V2a5 5 0 0 0-5 5v6c0 1.1.9 2 2 2h3Zm0 0v7",key:"j28e5"}]],u=(0,p.A)("utensils",c)}}]);

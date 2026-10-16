@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-russian-ruble-mjs.101f3430.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[32785],{34530:function(e,t,n){n.r(t),n.d(t,{__iconNode:function(){return p},default:function(){return s}});var u=n(88697);const p=[["path",{d:"M6 11h8a4 4 0 0 0 0-8H9v18",key:"18ai8t"}],["path",{d:"M6 15h8",key:"1y8f6l"}]],s=(0,u.A)("russian-ruble",p)}}]);

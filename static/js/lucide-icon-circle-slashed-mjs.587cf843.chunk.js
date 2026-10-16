@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-circle-slashed-mjs.587cf843.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[5828,14414],{66617:function(e,n,t){t.r(n),t.d(n,{__iconNode:function(){return u},default:function(){return r}});var c=t(88697);const u=[["circle",{cx:"12",cy:"12",r:"10",key:"1mglay"}],["path",{d:"M22 2 2 22",key:"y4kqgn"}]],r=(0,c.A)("circle-slash-2",u)},16023:function(e,n,t){t.r(n),t.d(n,{default:function(){return c.default}});var c=t(66617)}}]);

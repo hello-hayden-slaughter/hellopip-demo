@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-chef-hat-mjs.e60c92e2.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[90971],{96056:function(e,t,n){n.r(t),n.d(t,{__iconNode:function(){return p},default:function(){return a}});var c=n(95133);const p=[["path",{d:"M17 21a1 1 0 0 0 1-1v-5.35c0-.457.316-.844.727-1.041a4 4 0 0 0-2.134-7.589 5 5 0 0 0-9.186 0 4 4 0 0 0-2.134 7.588c.411.198.727.585.727 1.041V20a1 1 0 0 0 1 1Z",key:"1qvrer"}],["path",{d:"M6 17h12",key:"1jwigz"}]],a=(0,c.A)("chef-hat",p)}}]);

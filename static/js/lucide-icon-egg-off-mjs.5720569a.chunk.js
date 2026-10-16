@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-egg-off-mjs.5720569a.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[14460],{43995:function(e,t,n){n.r(t),n.d(t,{__iconNode:function(){return o},default:function(){return u}});var p=n(88697);const o=[["path",{d:"m2 2 20 20",key:"1ooewy"}],["path",{d:"M20 14.347V14c0-6-4-12-8-12-1.078 0-2.157.436-3.157 1.19",key:"13g2jy"}],["path",{d:"M6.206 6.21C4.871 8.4 4 11.2 4 14a8 8 0 0 0 14.568 4.568",key:"1581id"}]],u=(0,p.A)("egg-off",o)}}]);

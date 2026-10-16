@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-panels-right-bottom-mjs.1b3042f2.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[5379],{41884:function(t,e,n){n.r(e),n.d(e,{__iconNode:function(){return i},default:function(){return h}});var p=n(88697);const i=[["rect",{width:"18",height:"18",x:"3",y:"3",rx:"2",key:"afitv7"}],["path",{d:"M3 15h12",key:"1wkqb3"}],["path",{d:"M15 3v18",key:"14nvp0"}]],h=(0,p.A)("panels-right-bottom",i)}}]);

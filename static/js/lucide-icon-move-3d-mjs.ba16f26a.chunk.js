@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-move-3d-mjs.ba16f26a.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[55978],{80425:function(t,e,p){p.r(e),p.d(e,{__iconNode:function(){return d},default:function(){return k}});var n=p(95133);const d=[["path",{d:"M5 3v16h16",key:"1mqmf9"}],["path",{d:"m5 19 6-6",key:"jh6hbb"}],["path",{d:"m2 6 3-3 3 3",key:"tkyvxa"}],["path",{d:"m18 16 3 3-3 3",key:"1d4glt"}]],k=(0,n.A)("move-3d",d)}}]);

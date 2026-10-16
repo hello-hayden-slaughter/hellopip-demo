@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-corner-right-down-mjs.9ac6cfaa.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[40340],{98875:function(n,t,e){e.r(t),e.d(t,{__iconNode:function(){return c},default:function(){return r}});var p=e(95133);const c=[["path",{d:"m10 15 5 5 5-5",key:"1hpjnr"}],["path",{d:"M4 4h7a4 4 0 0 1 4 4v12",key:"wcbgct"}]],r=(0,p.A)("corner-right-down",c)}}]);

@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-cloud-check-mjs.19b9d63d.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[38315],{91816:function(e,t,n){n.r(t),n.d(t,{__iconNode:function(){return p},default:function(){return u}});var c=n(95133);const p=[["path",{d:"m17 15-5.5 5.5L9 18",key:"15q87x"}],["path",{d:"M5.516 16.07A7 7 0 1 1 15.71 8h1.79a4.5 4.5 0 0 1 3.501 7.327",key:"1xtj56"}]],u=(0,c.A)("cloud-check",p)}}]);

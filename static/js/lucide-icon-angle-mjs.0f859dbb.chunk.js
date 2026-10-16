@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-angle-mjs.0f859dbb.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[61518],{3049:function(e,n,t){t.r(n),t.d(n,{__iconNode:function(){return u},default:function(){return a}});var p=t(95133);const u=[["path",{d:"M3 3v16a2 2 0 0 0 2 2h16",key:"c24i48"}],["path",{d:"M3 11a10 10 0 0 1 10 10",key:"jhvw44"}]],a=(0,p.A)("angle",u)}}]);

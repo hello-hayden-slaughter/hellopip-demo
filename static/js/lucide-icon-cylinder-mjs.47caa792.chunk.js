@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-cylinder-mjs.47caa792.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[18089],{70958:function(e,n,t){t.r(n),t.d(n,{__iconNode:function(){return p},default:function(){return r}});var c=t(95133);const p=[["ellipse",{cx:"12",cy:"5",rx:"9",ry:"3",key:"msslwz"}],["path",{d:"M3 5v14a9 3 0 0 0 18 0V5",key:"aqi0yr"}]],r=(0,c.A)("cylinder",p)}}]);

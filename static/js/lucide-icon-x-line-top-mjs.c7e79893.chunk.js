@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-x-line-top-mjs.c7e79893.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[94470],{52753:function(e,t,n){n.r(t),n.d(t,{__iconNode:function(){return s},default:function(){return u}});var p=n(88697);const s=[["path",{d:"M18 4H6",key:"1hsngl"}],["path",{d:"M18 8 6 20",key:"xspwia"}],["path",{d:"m6 8 12 12",key:"qb1veh"}]],u=(0,p.A)("x-line-top",s)}}]);

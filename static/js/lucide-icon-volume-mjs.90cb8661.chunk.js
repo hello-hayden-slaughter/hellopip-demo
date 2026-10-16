@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-volume-mjs.90cb8661.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[28693],{46002:function(e,u,n){n.r(u),n.d(u,{__iconNode:function(){return p},default:function(){return a}});var t=n(88697);const p=[["path",{d:"M11 4.702a.705.705 0 0 0-1.203-.498L6.413 7.587A1.4 1.4 0 0 1 5.416 8H3a1 1 0 0 0-1 1v6a1 1 0 0 0 1 1h2.416a1.4 1.4 0 0 1 .997.413l3.383 3.384A.705.705 0 0 0 11 19.298z",key:"uqj9uw"}]],a=(0,t.A)("volume",p)}}]);

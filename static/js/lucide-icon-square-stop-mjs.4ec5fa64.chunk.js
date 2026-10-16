@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-square-stop-mjs.4ec5fa64.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[15753],{80586:function(t,e,i){i.r(e),i.d(e,{__iconNode:function(){return r},default:function(){return s}});var n=i(88697);const r=[["rect",{width:"18",height:"18",x:"3",y:"3",rx:"2",key:"afitv7"}],["rect",{x:"9",y:"9",width:"6",height:"6",rx:"1",key:"1ssd4o"}]],s=(0,n.A)("square-stop",r)}}]);

@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-square-dot-mjs.b5a95e28.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[36676],{72951:function(e,t,c){c.r(t),c.d(t,{__iconNode:function(){return n},default:function(){return r}});var i=c(88697);const n=[["rect",{width:"18",height:"18",x:"3",y:"3",rx:"2",key:"afitv7"}],["circle",{cx:"12",cy:"12",r:"1",key:"41hilf"}]],r=(0,i.A)("square-dot",n)}}]);
