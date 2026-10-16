@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-id-card-mjs.e08875bb.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[55673],{43542:function(e,t,n){n.r(t),n.d(t,{__iconNode:function(){return p},default:function(){return d}});var c=n(95133);const p=[["path",{d:"M16 10h2",key:"8sgtl7"}],["path",{d:"M16 14h2",key:"epxaof"}],["path",{d:"M6.17 15a3 3 0 0 1 5.66 0",key:"n6f512"}],["circle",{cx:"9",cy:"11",r:"2",key:"yxgjnd"}],["rect",{x:"2",y:"5",width:"20",height:"14",rx:"2",key:"qneu4z"}]],d=(0,c.A)("id-card",p)}}]);

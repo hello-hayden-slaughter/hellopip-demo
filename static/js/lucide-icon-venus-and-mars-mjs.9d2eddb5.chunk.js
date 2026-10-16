@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-venus-and-mars-mjs.9d2eddb5.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[34372],{49528:function(e,n,t){t.r(n),t.d(n,{__iconNode:function(){return p},default:function(){return a}});var c=t(97040);const p=[["path",{d:"M10 20h4",key:"ni2waw"}],["path",{d:"M12 16v6",key:"c8a4gj"}],["path",{d:"M17 2h4v4",key:"vhe59"}],["path",{d:"m21 2-5.46 5.46",key:"19kypf"}],["circle",{cx:"12",cy:"11",r:"5",key:"16gxyc"}]],a=(0,c.A)("venus-and-mars",p)}}]);

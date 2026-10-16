@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-rainbow-mjs.6eab445e.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[14453],{27167:function(e,t,n){n.r(t),n.d(t,{__iconNode:function(){return a},default:function(){return k}});var p=n(97040);const a=[["path",{d:"M22 17a10 10 0 0 0-20 0",key:"ozegv"}],["path",{d:"M6 17a6 6 0 0 1 12 0",key:"5giftw"}],["path",{d:"M10 17a2 2 0 0 1 4 0",key:"gnsikk"}]],k=(0,p.A)("rainbow",a)}}]);

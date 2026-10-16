@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-clock-9-mjs.a87ab02d.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[51935],{72960:function(c,e,n){n.r(e),n.d(e,{__iconNode:function(){return u},default:function(){return p}});var t=n(95133);const u=[["circle",{cx:"12",cy:"12",r:"10",key:"1mglay"}],["path",{d:"M12 6v6H8",key:"u39vzm"}]],p=(0,t.A)("clock-9",u)}}]);

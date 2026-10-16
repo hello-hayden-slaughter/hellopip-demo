@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-move-horizontal-mjs.af9c0015.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[20823],{95521:function(e,t,n){n.r(t),n.d(t,{__iconNode:function(){return k},default:function(){return o}});var p=n(97040);const k=[["path",{d:"m18 8 4 4-4 4",key:"1ak13k"}],["path",{d:"M2 12h20",key:"9i4pu4"}],["path",{d:"m6 8-4 4 4 4",key:"15zrgr"}]],o=(0,p.A)("move-horizontal",k)}}]);

@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-braces-mjs.b1cbe09b.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[30527],{7780:function(e,a,n){n.r(a),n.d(a,{__iconNode:function(){return c},default:function(){return p}});var t=n(95133);const c=[["path",{d:"M8 3H7a2 2 0 0 0-2 2v5a2 2 0 0 1-2 2 2 2 0 0 1 2 2v5c0 1.1.9 2 2 2h1",key:"ezmyqa"}],["path",{d:"M16 21h1a2 2 0 0 0 2-2v-5c0-1.1.9-2 2-2a2 2 0 0 1-2-2V5a2 2 0 0 0-2-2h-1",key:"e1hn23"}]],p=(0,t.A)("braces",c)}}]);

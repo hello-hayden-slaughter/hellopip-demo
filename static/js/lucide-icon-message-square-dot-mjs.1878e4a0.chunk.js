@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-message-square-dot-mjs.1878e4a0.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[72442],{44774:function(e,t,c){c.r(t),c.d(t,{__iconNode:function(){return a},default:function(){return s}});var n=c(97040);const a=[["path",{d:"M12.7 3H4a2 2 0 0 0-2 2v16.286a.71.71 0 0 0 1.212.502l2.202-2.202A2 2 0 0 1 6.828 19H20a2 2 0 0 0 2-2v-4.7",key:"wjb7ig"}],["circle",{cx:"19",cy:"6",r:"3",key:"108a5v"}]],s=(0,n.A)("message-square-dot",a)}}]);

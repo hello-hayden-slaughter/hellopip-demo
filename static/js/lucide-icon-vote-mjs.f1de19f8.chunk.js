@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-vote-mjs.f1de19f8.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[40515],{28587:function(e,t,n){n.r(t),n.d(t,{__iconNode:function(){return u},default:function(){return o}});var p=n(97040);const u=[["path",{d:"m9 12 2 2 4-4",key:"dzmm74"}],["path",{d:"M5 7c0-1.1.9-2 2-2h10a2 2 0 0 1 2 2v12H5V7Z",key:"1ezoue"}],["path",{d:"M22 19H2",key:"nuriw5"}]],o=(0,p.A)("vote",u)}}]);

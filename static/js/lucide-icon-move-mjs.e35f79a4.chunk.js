@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-move-mjs.e35f79a4.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[77460],{76884:function(e,t,p){p.r(t),p.d(t,{__iconNode:function(){return d},default:function(){return n}});var k=p(97040);const d=[["path",{d:"M12 2v20",key:"t6zp3m"}],["path",{d:"m15 19-3 3-3-3",key:"11eu04"}],["path",{d:"m19 9 3 3-3 3",key:"1mg7y2"}],["path",{d:"M2 12h20",key:"9i4pu4"}],["path",{d:"m5 9-3 3 3 3",key:"j64kie"}],["path",{d:"m9 5 3-3 3 3",key:"l8vdw6"}]],n=(0,k.A)("move",d)}}]);

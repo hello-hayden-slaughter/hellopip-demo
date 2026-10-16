@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-slash-mjs.d5a11f50.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[9496],{6998:function(n,e,t){t.r(e),t.d(e,{__iconNode:function(){return s},default:function(){return u}});var p=t(97040);const s=[["path",{d:"M22 2 2 22",key:"y4kqgn"}]],u=(0,p.A)("slash",s)}}]);

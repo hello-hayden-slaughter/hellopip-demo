@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-blend-mjs.f4980f42.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[72630],{64068:function(c,e,n){n.r(e),n.d(e,{__iconNode:function(){return t},default:function(){return i}});var r=n(97040);const t=[["circle",{cx:"15",cy:"9",r:"7",key:"1i12rt"}],["circle",{cx:"9",cy:"15",r:"7",key:"19bs8k"}]],i=(0,r.A)("blend",t)}}]);

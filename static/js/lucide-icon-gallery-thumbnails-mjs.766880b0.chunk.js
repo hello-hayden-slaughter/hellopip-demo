@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-gallery-thumbnails-mjs.766880b0.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[33279],{77504:function(e,t,h){h.r(t),h.d(t,{__iconNode:function(){return p},default:function(){return d}});var n=h(95133);const p=[["rect",{width:"18",height:"14",x:"3",y:"3",rx:"2",key:"74y24f"}],["path",{d:"M4 21h1",key:"16zlid"}],["path",{d:"M9 21h1",key:"15o7lz"}],["path",{d:"M14 21h1",key:"v9vybs"}],["path",{d:"M19 21h1",key:"edywat"}]],d=(0,n.A)("gallery-thumbnails",p)}}]);

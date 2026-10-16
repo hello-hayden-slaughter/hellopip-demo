@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-waves-horizontal-mjs.43ea4e76.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[56756],{77376:function(t,e,n){n.r(e),n.d(e,{__iconNode:function(){return s},default:function(){return u}});var p=n(97040);const s=[["path",{d:"M2 12q2.5 2 5 0t5 0 5 0 5 0",key:"8ddzzs"}],["path",{d:"M2 19q2.5 2 5 0t5 0 5 0 5 0",key:"1wj4st"}],["path",{d:"M2 5q2.5 2 5 0t5 0 5 0 5 0",key:"69x50u"}]],u=(0,p.A)("waves-horizontal",s)}}]);

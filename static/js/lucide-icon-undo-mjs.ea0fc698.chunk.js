@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-undo-mjs.ea0fc698.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[377],{43786:function(e,n,t){t.r(n),t.d(n,{__iconNode:function(){return p},default:function(){return o}});var u=t(95133);const p=[["path",{d:"M3 7v6h6",key:"1v2h90"}],["path",{d:"M21 17a9 9 0 0 0-9-9 9 9 0 0 0-6 2.3L3 13",key:"1r6uu6"}]],o=(0,u.A)("undo",p)}}]);

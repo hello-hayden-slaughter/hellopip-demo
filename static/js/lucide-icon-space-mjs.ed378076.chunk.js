@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-space-mjs.ed378076.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[70785],{74686:function(e,t,n){n.r(t),n.d(t,{__iconNode:function(){return p},default:function(){return u}});var c=n(95133);const p=[["path",{d:"M22 17v1c0 .5-.5 1-1 1H3c-.5 0-1-.5-1-1v-1",key:"lt2kga"}]],u=(0,c.A)("space",p)}}]);

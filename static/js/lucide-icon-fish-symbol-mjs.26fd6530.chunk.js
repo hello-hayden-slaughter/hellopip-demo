@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-fish-symbol-mjs.26fd6530.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[26912],{21947:function(e,n,t){t.r(n),t.d(n,{__iconNode:function(){return s},default:function(){return p}});var o=t(95133);const s=[["path",{d:"M2 16s9-15 20-4C11 23 2 8 2 8",key:"h4oh4o"}]],p=(0,o.A)("fish-symbol",s)}}]);

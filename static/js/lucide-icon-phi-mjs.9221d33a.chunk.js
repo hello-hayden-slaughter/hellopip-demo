@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-phi-mjs.9221d33a.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[83662],{14913:function(e,n,p){p.r(n),p.d(n,{__iconNode:function(){return c},default:function(){return i}});var t=p(95133);const c=[["path",{d:"M12 2v20",key:"t6zp3m"}],["circle",{cx:"12",cy:"12",r:"7",key:"fim9np"}]],i=(0,t.A)("phi",c)}}]);

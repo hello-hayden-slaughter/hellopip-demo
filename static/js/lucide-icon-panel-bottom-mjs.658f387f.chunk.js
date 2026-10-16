@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-panel-bottom-mjs.658f387f.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[20737],{3657:function(t,e,n){n.r(e),n.d(e,{__iconNode:function(){return u},default:function(){return i}});var p=n(97040);const u=[["rect",{width:"18",height:"18",x:"3",y:"3",rx:"2",key:"afitv7"}],["path",{d:"M3 15h18",key:"5xshup"}]],i=(0,p.A)("panel-bottom",u)}}]);

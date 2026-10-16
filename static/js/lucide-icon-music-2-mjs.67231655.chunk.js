@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-music-2-mjs.67231655.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[81791],{35585:function(e,c,n){n.r(c),n.d(c,{__iconNode:function(){return u},default:function(){return p}});var t=n(97040);const u=[["circle",{cx:"8",cy:"18",r:"4",key:"1fc0mg"}],["path",{d:"M12 18V2l7 4",key:"g04rme"}]],p=(0,t.A)("music-2",u)}}]);

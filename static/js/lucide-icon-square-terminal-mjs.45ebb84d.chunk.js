@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-square-terminal-mjs.45ebb84d.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[61774],{68174:function(e,t,n){n.r(t),n.d(t,{__iconNode:function(){return r},default:function(){return u}});var p=n(95133);const r=[["path",{d:"m7 11 2-2-2-2",key:"1lz0vl"}],["path",{d:"M11 13h4",key:"1p7l4v"}],["rect",{width:"18",height:"18",x:"3",y:"3",rx:"2",ry:"2",key:"1m3agn"}]],u=(0,p.A)("square-terminal",r)}}]);

@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-check-circle-mjs.1ec25de0.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[33450,78121],{16001:function(t,e,n){n.r(e),n.d(e,{default:function(){return c.default}});var c=n(46314)},46314:function(t,e,n){n.r(e),n.d(e,{__iconNode:function(){return u},default:function(){return p}});var c=n(95133);const u=[["path",{d:"M21.801 10A10 10 0 1 1 17 3.335",key:"yps3ct"}],["path",{d:"m9 11 3 3L22 4",key:"1pflzl"}]],p=(0,c.A)("circle-check-big",u)}}]);

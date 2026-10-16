@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-circle-slash-2-mjs.af3a432c.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[14414],{10638:function(e,c,n){n.r(c),n.d(c,{__iconNode:function(){return p},default:function(){return r}});var t=n(97040);const p=[["circle",{cx:"12",cy:"12",r:"10",key:"1mglay"}],["path",{d:"M22 2 2 22",key:"y4kqgn"}]],r=(0,t.A)("circle-slash-2",p)}}]);

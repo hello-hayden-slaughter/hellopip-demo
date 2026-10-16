@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-chart-bar-increasing-mjs.142460df.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[92567],{27379:function(e,t,n){n.r(t),n.d(t,{__iconNode:function(){return a},default:function(){return h}});var p=n(97040);const a=[["path",{d:"M3 3v16a2 2 0 0 0 2 2h16",key:"c24i48"}],["path",{d:"M7 11h8",key:"1feolt"}],["path",{d:"M7 16h12",key:"wsnu98"}],["path",{d:"M7 6h3",key:"w9rmul"}]],h=(0,p.A)("chart-bar-increasing",a)}}]);

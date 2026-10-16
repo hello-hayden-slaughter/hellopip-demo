@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-route-mjs.6625ef6c.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[39828],{26955:function(c,e,t){t.r(e),t.d(e,{__iconNode:function(){return r},default:function(){return u}});var n=t(95133);const r=[["circle",{cx:"6",cy:"19",r:"3",key:"1kj8tv"}],["path",{d:"M9 19h8.5a3.5 3.5 0 0 0 0-7h-11a3.5 3.5 0 0 1 0-7H15",key:"1d8sl"}],["circle",{cx:"18",cy:"5",r:"3",key:"gq8acd"}]],u=(0,n.A)("route",r)}}]);

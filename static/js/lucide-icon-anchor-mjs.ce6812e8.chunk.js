@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-anchor-mjs.ce6812e8.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[93552],{26836:function(e,n,t){t.r(n),t.d(n,{__iconNode:function(){return p},default:function(){return u}});var c=t(97040);const p=[["path",{d:"M12 6v16",key:"nqf5sj"}],["path",{d:"m19 13 2-1a9 9 0 0 1-18 0l2 1",key:"y7qv08"}],["path",{d:"M9 11h6",key:"1fldmi"}],["circle",{cx:"12",cy:"4",r:"2",key:"muu5ef"}]],u=(0,c.A)("anchor",p)}}]);

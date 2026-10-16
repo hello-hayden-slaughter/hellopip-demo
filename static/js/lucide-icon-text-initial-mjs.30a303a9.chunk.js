@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-text-initial-mjs.30a303a9.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[59581],{64337:function(t,e,p){p.r(e),p.d(e,{__iconNode:function(){return a},default:function(){return h}});var n=p(97040);const a=[["path",{d:"M15 5h6",key:"1pr8yx"}],["path",{d:"M15 12h6",key:"upa0zy"}],["path",{d:"M3 19h18",key:"awlh7x"}],["path",{d:"m3 12 3.553-7.724a.5.5 0 0 1 .894 0L11 12",key:"6lvno8"}],["path",{d:"M3.92 10h6.16",key:"1tl8ex"}]],h=(0,n.A)("text-initial",a)}}]);

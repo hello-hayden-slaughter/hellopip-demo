@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-equal-mjs.427d981a.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[97999],{89225:function(e,n,t){t.r(n),t.d(n,{__iconNode:function(){return p},default:function(){return i}});var u=t(97040);const p=[["line",{x1:"5",x2:"19",y1:"9",y2:"9",key:"1nwqeh"}],["line",{x1:"5",x2:"19",y1:"15",y2:"15",key:"g8yjpy"}]],i=(0,u.A)("equal",p)}}]);

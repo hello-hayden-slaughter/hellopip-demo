@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-between-vertical-start-mjs.0bc3428d.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[61383],{8084:function(e,t,r){r.r(t),r.d(t,{__iconNode:function(){return i},default:function(){return c}});var n=r(95133);const i=[["rect",{width:"7",height:"13",x:"3",y:"8",rx:"1",key:"1fjrkv"}],["path",{d:"m15 2-3 3-3-3",key:"1uh6eb"}],["rect",{width:"7",height:"13",x:"14",y:"8",rx:"1",key:"w3fjg8"}]],c=(0,n.A)("between-vertical-start",i)}}]);

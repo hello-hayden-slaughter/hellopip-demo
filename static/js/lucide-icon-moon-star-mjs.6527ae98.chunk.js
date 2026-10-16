@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-moon-star-mjs.6527ae98.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[24555],{74080:function(t,e,n){n.r(e),n.d(e,{__iconNode:function(){return o},default:function(){return a}});var p=n(95133);const o=[["path",{d:"M18 5h4",key:"1lhgn2"}],["path",{d:"M20 3v4",key:"1olli1"}],["path",{d:"M20.985 12.486a9 9 0 1 1-9.473-9.472c.405-.022.617.46.402.803a6 6 0 0 0 8.268 8.268c.344-.215.825-.004.803.401",key:"kfwtm"}]],a=(0,p.A)("moon-star",o)}}]);

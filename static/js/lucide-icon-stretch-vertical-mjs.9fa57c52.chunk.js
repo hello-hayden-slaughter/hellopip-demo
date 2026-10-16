@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-stretch-vertical-mjs.9fa57c52.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[22301],{66985:function(t,e,n){n.r(e),n.d(e,{__iconNode:function(){return c},default:function(){return i}});var r=n(97040);const c=[["rect",{width:"6",height:"20",x:"4",y:"2",rx:"2",key:"19qu7m"}],["rect",{width:"6",height:"20",x:"14",y:"2",rx:"2",key:"24v0nk"}]],i=(0,r.A)("stretch-vertical",c)}}]);

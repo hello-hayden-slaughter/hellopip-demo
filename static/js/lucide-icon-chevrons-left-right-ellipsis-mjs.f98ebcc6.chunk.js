@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-chevrons-left-right-ellipsis-mjs.f98ebcc6.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[53138],{83270:function(e,t,p){p.r(t),p.d(t,{__iconNode:function(){return h},default:function(){return c}});var n=p(97040);const h=[["path",{d:"M12 12h.01",key:"1mp3jc"}],["path",{d:"M16 12h.01",key:"1l6xoz"}],["path",{d:"m17 7 5 5-5 5",key:"1xlxn0"}],["path",{d:"m7 7-5 5 5 5",key:"19njba"}],["path",{d:"M8 12h.01",key:"czm47f"}]],c=(0,n.A)("chevrons-left-right-ellipsis",h)}}]);

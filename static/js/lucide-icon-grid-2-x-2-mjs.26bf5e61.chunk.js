@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-grid-2-x-2-mjs.26bf5e61.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[1676],{28956:function(e,p,t){t.r(p),t.d(p,{default:function(){return u.default}});var u=t(48420)}}]);

@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-computer-mjs.a9f958c4.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[67968],{13791:function(t,e,h){h.r(e),h.d(e,{__iconNode:function(){return c},default:function(){return i}});var r=h(95133);const c=[["rect",{width:"14",height:"8",x:"5",y:"2",rx:"2",key:"wc9tft"}],["rect",{width:"20",height:"8",x:"2",y:"14",rx:"2",key:"w68u3i"}],["path",{d:"M6 18h2",key:"rwmk9e"}],["path",{d:"M12 18h6",key:"aqd8w3"}]],i=(0,r.A)("computer",c)}}]);

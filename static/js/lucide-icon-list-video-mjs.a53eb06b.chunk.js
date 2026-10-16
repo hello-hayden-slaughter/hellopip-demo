@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-list-video-mjs.a53eb06b.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[8197],{67889:function(e,t,n){n.r(t),n.d(t,{__iconNode:function(){return k},default:function(){return a}});var p=n(97040);const k=[["path",{d:"M21 5H3",key:"1fi0y6"}],["path",{d:"M10 12H3",key:"1ulcyk"}],["path",{d:"M10 19H3",key:"108z41"}],["path",{d:"M15 12.003a1 1 0 0 1 1.517-.859l4.997 2.997a1 1 0 0 1 0 1.718l-4.997 2.997a1 1 0 0 1-1.517-.86z",key:"ms4nik"}]],a=(0,p.A)("list-video",k)}}]);

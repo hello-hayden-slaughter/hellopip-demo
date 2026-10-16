@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-airplay-mjs.5c3b2109.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[34921],{95035:function(n,e,t){t.r(e),t.d(e,{__iconNode:function(){return p},default:function(){return u}});var a=t(97040);const p=[["path",{d:"M5 17H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v10a2 2 0 0 1-2 2h-1",key:"ns4c3b"}],["path",{d:"m12 15 5 6H7Z",key:"14qnn2"}]],u=(0,a.A)("airplay",p)}}]);

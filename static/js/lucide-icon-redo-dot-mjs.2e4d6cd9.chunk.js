@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-redo-dot-mjs.2e4d6cd9.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[57821],{74930:function(e,t,n){n.r(t),n.d(t,{__iconNode:function(){return p},default:function(){return r}});var c=n(95133);const p=[["circle",{cx:"12",cy:"17",r:"1",key:"1ixnty"}],["path",{d:"M21 7v6h-6",key:"3ptur4"}],["path",{d:"M3 17a9 9 0 0 1 9-9 9 9 0 0 1 6 2.3l3 2.7",key:"1kgawr"}]],r=(0,c.A)("redo-dot",p)}}]);

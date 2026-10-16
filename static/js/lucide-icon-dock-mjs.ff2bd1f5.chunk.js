@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-dock-mjs.ff2bd1f5.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[13458],{84406:function(t,e,n){n.r(e),n.d(e,{__iconNode:function(){return c},default:function(){return p}});var k=n(97040);const c=[["path",{d:"M2 8h20",key:"d11cs7"}],["rect",{width:"20",height:"16",x:"2",y:"4",rx:"2",key:"18n3k1"}],["path",{d:"M6 16h12",key:"u522kt"}]],p=(0,k.A)("dock",c)}}]);

@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-square-round-corner-mjs.a9b7188e.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[19499],{62545:function(e,n,t){t.r(n),t.d(n,{__iconNode:function(){return a},default:function(){return o}});var u=t(97040);const a=[["path",{d:"M21 11a8 8 0 0 0-8-8",key:"1lxwo5"}],["path",{d:"M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h4",key:"1dv2y5"}]],o=(0,u.A)("square-round-corner",a)}}]);

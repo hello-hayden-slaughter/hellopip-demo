@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-arrow-up-to-line-mjs.e81b61c4.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[53853],{30574:function(t,e,n){n.r(e),n.d(e,{__iconNode:function(){return u},default:function(){return k}});var p=n(95133);const u=[["path",{d:"M5 3h14",key:"7usisc"}],["path",{d:"m18 13-6-6-6 6",key:"1kf1n9"}],["path",{d:"M12 7v14",key:"1akyts"}]],k=(0,p.A)("arrow-up-to-line",u)}}]);

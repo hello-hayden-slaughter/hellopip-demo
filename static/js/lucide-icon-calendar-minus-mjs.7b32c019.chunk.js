@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-calendar-minus-mjs.7b32c019.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[34870],{57153:function(e,t,n){n.r(t),n.d(t,{__iconNode:function(){return a},default:function(){return d}});var p=n(95133);const a=[["path",{d:"M16 18h6",key:"987eiv"}],["path",{d:"M16 2v3",key:"otl347"}],["path",{d:"M21 14V5a2 2 0 00-2-2H5a2 2 0 00-2 2v14a2 2 0 002 2h8.3",key:"gcu0od"}],["path",{d:"M3 9h18",key:"1pudct"}],["path",{d:"M8 2v3",key:"1ioesn"}]],d=(0,p.A)("calendar-minus",a)}}]);

@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-map-pin-minus-inside-mjs.eb99c449.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[83363],{77091:function(n,e,p){p.r(e),p.d(e,{__iconNode:function(){return i},default:function(){return s}});var t=p(97040);const i=[["path",{d:"M20 10c0 4.993-5.539 10.193-7.399 11.799a1 1 0 0 1-1.202 0C9.539 20.193 4 14.993 4 10a8 8 0 0 1 16 0",key:"1r0f0z"}],["path",{d:"M9 10h6",key:"9gxzsh"}]],s=(0,t.A)("map-pin-minus-inside",i)}}]);

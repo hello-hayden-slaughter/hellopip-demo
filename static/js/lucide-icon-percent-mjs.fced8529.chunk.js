@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-percent-mjs.fced8529.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[31664],{83234:function(e,c,n){n.r(c),n.d(c,{__iconNode:function(){return t},default:function(){return i}});var r=n(97040);const t=[["line",{x1:"19",x2:"5",y1:"5",y2:"19",key:"1x9vlm"}],["circle",{cx:"6.5",cy:"6.5",r:"2.5",key:"4mh3h7"}],["circle",{cx:"17.5",cy:"17.5",r:"2.5",key:"1mdrzq"}]],i=(0,r.A)("percent",t)}}]);

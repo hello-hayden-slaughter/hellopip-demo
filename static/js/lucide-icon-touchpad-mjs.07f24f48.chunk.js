@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-touchpad-mjs.07f24f48.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[17535],{91380:function(t,e,n){n.r(e),n.d(e,{__iconNode:function(){return r},default:function(){return u}});var p=n(95133);const r=[["rect",{width:"20",height:"16",x:"2",y:"4",rx:"2",key:"18n3k1"}],["path",{d:"M2 14h20",key:"myj16y"}],["path",{d:"M12 20v-6",key:"1rm09r"}]],u=(0,p.A)("touchpad",r)}}]);

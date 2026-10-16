@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-ice-cream-cone-mjs.ed24a43c.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[94167],{44383:function(e,t,n){n.r(t),n.d(t,{__iconNode:function(){return a},default:function(){return c}});var p=n(97040);const a=[["path",{d:"m7 11 4.08 10.35a1 1 0 0 0 1.84 0L17 11",key:"1v6356"}],["path",{d:"M17 7A5 5 0 0 0 7 7",key:"151p3v"}],["path",{d:"M17 7a2 2 0 0 1 0 4H7a2 2 0 0 1 0-4",key:"1sdaij"}]],c=(0,p.A)("ice-cream-cone",a)}}]);

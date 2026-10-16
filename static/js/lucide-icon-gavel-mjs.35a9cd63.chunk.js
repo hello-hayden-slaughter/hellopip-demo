@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-gavel-mjs.35a9cd63.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[21946],{86157:function(e,p,t){t.r(p),t.d(p,{__iconNode:function(){return n},default:function(){return d}});var a=t(95133);const n=[["path",{d:"m14 13-8.381 8.38a1 1 0 0 1-3.001-3l8.384-8.381",key:"pgg06f"}],["path",{d:"m16 16 6-6",key:"vzrcl6"}],["path",{d:"m21.5 10.5-8-8",key:"a17d9x"}],["path",{d:"m8 8 6-6",key:"18bi4p"}],["path",{d:"m8.5 7.5 8 8",key:"1oyaui"}]],d=(0,a.A)("gavel",n)}}]);

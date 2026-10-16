@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-minus-circle-mjs.58dc13d3.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[42842,45136],{36048:function(e,n,c){c.r(n),c.d(n,{__iconNode:function(){return u},default:function(){return r}});var t=c(97040);const u=[["circle",{cx:"12",cy:"12",r:"10",key:"1mglay"}],["path",{d:"M8 12h8",key:"1wcyev"}]],r=(0,t.A)("circle-minus",u)},730:function(e,n,c){c.r(n),c.d(n,{default:function(){return t.default}});var t=c(36048)}}]);

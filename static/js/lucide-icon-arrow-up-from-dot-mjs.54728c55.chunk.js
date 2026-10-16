@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-arrow-up-from-dot-mjs.54728c55.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[81433],{84367:function(e,t,c){c.r(t),c.d(t,{__iconNode:function(){return n},default:function(){return p}});var o=c(97040);const n=[["path",{d:"m5 9 7-7 7 7",key:"1hw5ic"}],["path",{d:"M12 16V2",key:"ywoabb"}],["circle",{cx:"12",cy:"21",r:"1",key:"o0uj5v"}]],p=(0,o.A)("arrow-up-from-dot",n)}}]);

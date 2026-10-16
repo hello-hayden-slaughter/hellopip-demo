@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-square-pilcrow-mjs.b7f0460f.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[87311],{62844:function(e,t,p){p.r(t),p.d(t,{__iconNode:function(){return r},default:function(){return a}});var n=p(95133);const r=[["rect",{width:"18",height:"18",x:"3",y:"3",rx:"2",key:"afitv7"}],["path",{d:"M12 12H9.5a2.5 2.5 0 0 1 0-5H17",key:"1l9586"}],["path",{d:"M12 7v10",key:"jspqdw"}],["path",{d:"M16 7v10",key:"lavkr4"}]],a=(0,n.A)("square-pilcrow",r)}}]);

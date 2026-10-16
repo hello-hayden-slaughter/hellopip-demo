@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-cloud-off-mjs.6008ad64.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[37528],{28451:function(e,t,n){n.r(t),n.d(t,{__iconNode:function(){return p},default:function(){return u}});var o=n(95133);const p=[["path",{d:"M10.94 5.274A7 7 0 0 1 15.71 10h1.79a4.5 4.5 0 0 1 4.222 6.057",key:"1uxyv8"}],["path",{d:"M18.796 18.81A4.5 4.5 0 0 1 17.5 19H9A7 7 0 0 1 5.79 5.78",key:"99tcn7"}],["path",{d:"m2 2 20 20",key:"1ooewy"}]],u=(0,o.A)("cloud-off",p)}}]);

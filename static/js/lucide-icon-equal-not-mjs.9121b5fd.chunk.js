@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-equal-not-mjs.9121b5fd.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[49399],{86504:function(e,n,t){t.r(n),t.d(n,{__iconNode:function(){return y},default:function(){return i}});var u=t(95133);const y=[["line",{x1:"5",x2:"19",y1:"9",y2:"9",key:"1nwqeh"}],["line",{x1:"5",x2:"19",y1:"15",y2:"15",key:"g8yjpy"}],["line",{x1:"19",x2:"5",y1:"5",y2:"19",key:"1x9vlm"}]],i=(0,u.A)("equal-not",y)}}]);

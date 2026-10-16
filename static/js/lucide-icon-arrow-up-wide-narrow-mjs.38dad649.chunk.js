@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-arrow-up-wide-narrow-mjs.38dad649.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[57212],{89940:function(e,t,p){p.r(t),p.d(t,{__iconNode:function(){return u},default:function(){return k}});var n=p(97040);const u=[["path",{d:"m3 8 4-4 4 4",key:"11wl7u"}],["path",{d:"M7 4v16",key:"1glfcx"}],["path",{d:"M11 12h10",key:"1438ji"}],["path",{d:"M11 16h7",key:"uosisv"}],["path",{d:"M11 20h4",key:"1krc32"}]],k=(0,n.A)("arrow-up-wide-narrow",u)}}]);

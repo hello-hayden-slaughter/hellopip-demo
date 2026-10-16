@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-hdmi-port-mjs.c54ef4d3.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[2277],{1147:function(e,t,a){a.r(t),a.d(t,{__iconNode:function(){return p},default:function(){return h}});var n=a(97040);const p=[["path",{d:"M22 9a1 1 0 00-1-1H3a1 1 0 00-1 1v4a1 1 0 001 1h.5a2 2 0 011.6.8l.3.4A2 2 0 007 16h10a2 2 0 001.6-.8l.3-.4a2 2 0 011.6-.8h.5a1 1 0 001-1z",key:"1kwg9h"}],["path",{d:"M8 12h8",key:"1wcyev"}]],h=(0,n.A)("hdmi-port",p)}}]);

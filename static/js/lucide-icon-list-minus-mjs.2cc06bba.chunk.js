@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-list-minus-mjs.2cc06bba.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[33020],{17104:function(e,t,n){n.r(t),n.d(t,{__iconNode:function(){return u},default:function(){return s}});var p=n(97040);const u=[["path",{d:"M16 5H3",key:"m91uny"}],["path",{d:"M11 12H3",key:"51ecnj"}],["path",{d:"M16 19H3",key:"zzsher"}],["path",{d:"M21 12h-6",key:"bt1uis"}]],s=(0,p.A)("list-minus",u)}}]);

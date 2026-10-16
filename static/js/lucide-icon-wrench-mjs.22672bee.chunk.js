@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-wrench-mjs.22672bee.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[13336],{93491:function(n,e,t){t.r(e),t.d(e,{__iconNode:function(){return a},default:function(){return p}});var c=t(95133);const a=[["path",{d:"M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.106-3.105c.32-.322.863-.22.983.218a6 6 0 0 1-8.259 7.057l-7.91 7.91a1 1 0 0 1-2.999-3l7.91-7.91a6 6 0 0 1 7.057-8.259c.438.12.54.662.219.984z",key:"1ngwbx"}]],p=(0,c.A)("wrench",a)}}]);

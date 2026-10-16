@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-move-down-left-mjs.751d4db1.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[54413],{92553:function(e,t,n){n.r(t),n.d(t,{__iconNode:function(){return u},default:function(){return o}});var p=n(97040);const u=[["path",{d:"M11 19H5V13",key:"1akmht"}],["path",{d:"M19 5L5 19",key:"72u4yj"}]],o=(0,p.A)("move-down-left",u)}}]);

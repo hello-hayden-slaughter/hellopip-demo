@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-chart-bar-decreasing-mjs.10338f23.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[90911],{44439:function(e,t,n){n.r(t),n.d(t,{__iconNode:function(){return a},default:function(){return h}});var p=n(97040);const a=[["path",{d:"M3 3v16a2 2 0 0 0 2 2h16",key:"c24i48"}],["path",{d:"M7 11h8",key:"1feolt"}],["path",{d:"M7 16h3",key:"ur6vzw"}],["path",{d:"M7 6h12",key:"sz5b0d"}]],h=(0,p.A)("chart-bar-decreasing",a)}}]);

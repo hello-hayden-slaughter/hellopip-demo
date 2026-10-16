@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-usb-c-port-mjs.5d4db7c0.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[25409],{60781:function(t,e,p){p.r(e),p.d(e,{__iconNode:function(){return u},default:function(){return c}});var n=p(97040);const u=[["path",{d:"M6 12h12",key:"8npq4p"}],["rect",{x:"2",y:"8",width:"20",height:"8",rx:"4",key:"86l77p"}]],c=(0,n.A)("usb-c-port",u)}}]);

@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-move-diagonal-2-mjs.fc797b2c.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[32459],{69575:function(e,n,t){t.r(n),t.d(n,{__iconNode:function(){return u},default:function(){return a}});var p=t(95133);const u=[["path",{d:"M19 13v6h-6",key:"1hxl6d"}],["path",{d:"M5 11V5h6",key:"12e2xe"}],["path",{d:"m5 5 14 14",key:"11anup"}]],a=(0,p.A)("move-diagonal-2",u)}}]);

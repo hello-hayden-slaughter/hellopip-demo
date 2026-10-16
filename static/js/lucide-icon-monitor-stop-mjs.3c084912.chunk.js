@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-monitor-stop-mjs.3c084912.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[12160],{5107:function(t,e,h){h.r(e),h.d(e,{__iconNode:function(){return n},default:function(){return o}});var i=h(95133);const n=[["path",{d:"M12 17v4",key:"1riwvh"}],["path",{d:"M8 21h8",key:"1ev6f3"}],["rect",{x:"2",y:"3",width:"20",height:"14",rx:"2",key:"x3v2xh"}],["rect",{x:"9",y:"7",width:"6",height:"6",rx:"1",key:"5m2oou"}]],o=(0,i.A)("monitor-stop",n)}}]);

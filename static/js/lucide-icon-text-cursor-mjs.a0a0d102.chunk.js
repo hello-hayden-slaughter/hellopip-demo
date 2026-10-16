@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-text-cursor-mjs.a0a0d102.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[3067],{70625:function(t,e,a){a.r(e),a.d(e,{__iconNode:function(){return p},default:function(){return u}});var n=a(97040);const p=[["path",{d:"M17 22h-1a4 4 0 0 1-4-4V6a4 4 0 0 1 4-4h1",key:"uvaxm9"}],["path",{d:"M7 22h1a4 4 0 0 0 4-4",key:"1l7xii"}],["path",{d:"M7 2h1a4 4 0 0 1 4 4",key:"1vrvvh"}]],u=(0,n.A)("text-cursor",p)}}]);

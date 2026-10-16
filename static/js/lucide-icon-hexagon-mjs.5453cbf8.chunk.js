@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-hexagon-mjs.5453cbf8.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[1171],{70385:function(n,e,t){t.r(e),t.d(e,{__iconNode:function(){return p},default:function(){return u}});var a=t(97040);const p=[["path",{d:"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z",key:"yt0hxn"}]],u=(0,a.A)("hexagon",p)}}]);

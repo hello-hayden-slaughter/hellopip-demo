@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-squircle-mjs.05c2ecfa.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[47281],{86417:function(e,n,t){t.r(n),t.d(n,{__iconNode:function(){return u},default:function(){return p}});var c=t(95133);const u=[["path",{d:"M12 3c7.2 0 9 1.8 9 9s-1.8 9-9 9-9-1.8-9-9 1.8-9 9-9",key:"garfkc"}]],p=(0,c.A)("squircle",u)}}]);

@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-infinity-mjs.0d5627c1.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[45123],{40460:function(n,e,t){t.r(e),t.d(e,{__iconNode:function(){return i},default:function(){return p}});var c=t(95133);const i=[["path",{d:"M6 16c5 0 7-8 12-8a4 4 0 0 1 0 8c-5 0-7-8-12-8a4 4 0 1 0 0 8",key:"18ogeb"}]],p=(0,c.A)("infinity",i)}}]);

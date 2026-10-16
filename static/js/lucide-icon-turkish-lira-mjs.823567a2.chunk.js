@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-turkish-lira-mjs.823567a2.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[68100],{19664:function(t,e,n){n.r(e),n.d(e,{__iconNode:function(){return s},default:function(){return k}});var p=n(97040);const s=[["path",{d:"M15 4 5 9",key:"14bkc9"}],["path",{d:"m15 8.5-10 5",key:"1grtsx"}],["path",{d:"M18 12a9 9 0 0 1-9 9V3",key:"1sst7f"}]],k=(0,p.A)("turkish-lira",s)}}]);

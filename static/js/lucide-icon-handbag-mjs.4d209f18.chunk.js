@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-handbag-mjs.4d209f18.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[29076],{42095:function(t,e,n){n.r(e),n.d(e,{__iconNode:function(){return p},default:function(){return u}});var a=n(95133);const p=[["path",{d:"M2.048 18.566A2 2 0 0 0 4 21h16a2 2 0 0 0 1.952-2.434l-2-9A2 2 0 0 0 18 8H6a2 2 0 0 0-1.952 1.566z",key:"1qbui5"}],["path",{d:"M8 11V6a4 4 0 0 1 8 0v5",key:"tcht90"}]],u=(0,a.A)("handbag",p)}}]);

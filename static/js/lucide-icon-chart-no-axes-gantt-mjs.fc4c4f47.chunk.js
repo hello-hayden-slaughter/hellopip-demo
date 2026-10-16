@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-chart-no-axes-gantt-mjs.fc4c4f47.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[8680],{93306:function(t,e,n){n.r(e),n.d(e,{__iconNode:function(){return a},default:function(){return o}});var p=n(97040);const a=[["path",{d:"M6 5h12",key:"fvfigv"}],["path",{d:"M4 12h10",key:"oujl3d"}],["path",{d:"M12 19h8",key:"baeox8"}]],o=(0,p.A)("chart-no-axes-gantt",a)}}]);

@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-bluetooth-mjs.88588f0f.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[69365],{14694:function(t,e,n){n.r(e),n.d(e,{__iconNode:function(){return o},default:function(){return p}});var u=n(95133);const o=[["path",{d:"m7 7 10 10-5 5V2l5 5L7 17",key:"1q5490"}]],p=(0,u.A)("bluetooth",o)}}]);

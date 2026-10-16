@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-fishing-rod-mjs.8e474f94.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[437],{44407:function(e,c,n){n.r(c),n.d(c,{__iconNode:function(){return i},default:function(){return p}});var t=n(97040);const i=[["path",{d:"M4 11h1",key:"13eipc"}],["path",{d:"M8 15a2 2 0 0 1-4 0V3a1 1 0 0 1 1-1h.5C14 2 20 9 20 18v4",key:"1hs3im"}],["circle",{cx:"18",cy:"18",r:"2",key:"1emm8v"}]],p=(0,t.A)("fishing-rod",i)}}]);

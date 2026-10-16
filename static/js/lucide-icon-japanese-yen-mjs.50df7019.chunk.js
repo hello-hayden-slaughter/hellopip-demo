@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-japanese-yen-mjs.50df7019.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[25957],{82334:function(e,t,n){n.r(t),n.d(t,{__iconNode:function(){return u},default:function(){return a}});var p=n(95133);const u=[["path",{d:"M12 9.5V21m0-11.5L6 3m6 6.5L18 3",key:"2ej80x"}],["path",{d:"M6 15h12",key:"1hwgt5"}],["path",{d:"M6 11h12",key:"wf4gp6"}]],a=(0,p.A)("japanese-yen",u)}}]);

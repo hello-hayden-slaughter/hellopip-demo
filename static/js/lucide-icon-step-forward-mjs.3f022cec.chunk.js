@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-step-forward-mjs.3f022cec.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[18293],{40593:function(t,e,n){n.r(e),n.d(e,{__iconNode:function(){return s},default:function(){return u}});var p=n(97040);const s=[["path",{d:"M10.029 4.285A2 2 0 0 0 7 6v12a2 2 0 0 0 3.029 1.715l9.997-5.998a2 2 0 0 0 .003-3.432z",key:"1ystz2"}],["path",{d:"M3 4v16",key:"1ph11n"}]],u=(0,p.A)("step-forward",s)}}]);

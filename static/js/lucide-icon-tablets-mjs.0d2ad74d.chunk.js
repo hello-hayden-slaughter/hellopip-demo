@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-tablets-mjs.0d2ad74d.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[97272],{84754:function(e,c,t){t.r(c),t.d(c,{__iconNode:function(){return p},default:function(){return r}});var n=t(97040);const p=[["circle",{cx:"7",cy:"7",r:"5",key:"x29byf"}],["circle",{cx:"17",cy:"17",r:"5",key:"1op1d2"}],["path",{d:"M12 17h10",key:"ls21zv"}],["path",{d:"m3.46 10.54 7.08-7.08",key:"1rehiu"}]],r=(0,n.A)("tablets",p)}}]);

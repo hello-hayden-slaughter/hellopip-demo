@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-trending-up-mjs.b3435eb4.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[19048],{97983:function(t,e,n){n.r(e),n.d(e,{__iconNode:function(){return u},default:function(){return o}});var p=n(95133);const u=[["path",{d:"M16 7h6v6",key:"box55l"}],["path",{d:"m22 7-8.5 8.5-5-5L2 17",key:"1t1m79"}]],o=(0,p.A)("trending-up",u)}}]);

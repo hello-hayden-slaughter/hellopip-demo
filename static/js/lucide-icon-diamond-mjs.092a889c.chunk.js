@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-diamond-mjs.092a889c.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[26139],{74721:function(n,e,t){t.r(e),t.d(e,{__iconNode:function(){return p},default:function(){return u}});var a=t(97040);const p=[["path",{d:"M2.7 10.3a2.41 2.41 0 0 0 0 3.41l7.59 7.59a2.41 2.41 0 0 0 3.41 0l7.59-7.59a2.41 2.41 0 0 0 0-3.41l-7.59-7.59a2.41 2.41 0 0 0-3.41 0Z",key:"1f1r0c"}]],u=(0,a.A)("diamond",p)}}]);

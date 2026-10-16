@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-wallet-mjs.0b54eba2.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[87087],{92563:function(a,e,t){t.r(e),t.d(e,{__iconNode:function(){return p},default:function(){return u}});var n=t(95133);const p=[["path",{d:"M19 7V4a1 1 0 0 0-1-1H5a2 2 0 0 0 0 4h15a1 1 0 0 1 1 1v4h-3a2 2 0 0 0 0 4h3a1 1 0 0 0 1-1v-2a1 1 0 0 0-1-1",key:"18etb6"}],["path",{d:"M3 5v14a2 2 0 0 0 2 2h15a1 1 0 0 0 1-1v-4",key:"xoc0q4"}]],u=(0,n.A)("wallet",p)}}]);

@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-rectangle-horizontal-mjs.aead6cc6.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[82111],{99096:function(e,t,n){n.r(t),n.d(t,{__iconNode:function(){return u},default:function(){return c}});var r=n(95133);const u=[["rect",{width:"20",height:"12",x:"2",y:"6",rx:"2",key:"9lu3g6"}]],c=(0,r.A)("rectangle-horizontal",u)}}]);

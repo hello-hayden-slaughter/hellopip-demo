@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-zodiac-gemini-mjs.c03350a5.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[35987],{9989:function(e,o,t){t.r(o),t.d(o,{__iconNode:function(){return p},default:function(){return d}});var n=t(97040);const p=[["path",{d:"M16 4.525v14.948",key:"bgoxo0"}],["path",{d:"M20 3A17 17 0 0 1 4 3",key:"1djemw"}],["path",{d:"M4 21a17 17 0 0 1 16 0",key:"onoyo7"}],["path",{d:"M8 4.525v14.948",key:"u5iyof"}]],d=(0,n.A)("zodiac-gemini",p)}}]);

@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-zodiac-leo-mjs.03607b4f.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[53700],{94020:function(c,e,n){n.r(e),n.d(e,{__iconNode:function(){return o},default:function(){return p}});var t=n(97040);const o=[["path",{d:"M10 16c0-4-3-4.5-3-8a5 5 0 0 1 10 0c0 3.466-3 6.196-3 10a3 3 0 0 0 6 0",key:"1qj6nb"}],["circle",{cx:"7",cy:"16",r:"3",key:"yyv3zl"}]],p=(0,t.A)("zodiac-leo",o)}}]);

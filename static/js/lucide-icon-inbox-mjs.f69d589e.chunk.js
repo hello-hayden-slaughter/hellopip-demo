@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-inbox-mjs.f69d589e.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[1815],{23649:function(n,t,e){e.r(t),e.d(t,{__iconNode:function(){return p},default:function(){return i}});var o=e(97040);const p=[["polyline",{points:"22 12 16 12 14 15 10 15 8 12 2 12",key:"o97t9d"}],["path",{d:"M5.45 5.11 2 12v6a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2v-6l-3.45-6.89A2 2 0 0 0 16.76 4H7.24a2 2 0 0 0-1.79 1.11z",key:"oot6mr"}]],i=(0,o.A)("inbox",p)}}]);

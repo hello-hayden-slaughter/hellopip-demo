@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-list-todo-mjs.857444c6.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[4066],{10577:function(t,e,h){h.r(e),h.d(e,{__iconNode:function(){return c},default:function(){return n}});var p=h(95133);const c=[["path",{d:"M13 5h8",key:"a7qcls"}],["path",{d:"M13 12h8",key:"h98zly"}],["path",{d:"M13 19h8",key:"c3s6r1"}],["path",{d:"m3 17 2 2 4-4",key:"1jhpwq"}],["rect",{x:"3",y:"4",width:"6",height:"6",rx:"1",key:"cif1o7"}]],n=(0,p.A)("list-todo",c)}}]);

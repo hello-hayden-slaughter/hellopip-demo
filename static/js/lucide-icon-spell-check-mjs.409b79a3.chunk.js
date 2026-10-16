@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-spell-check-mjs.409b79a3.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[79418],{14040:function(e,t,n){n.r(t),n.d(t,{__iconNode:function(){return k},default:function(){return u}});var p=n(97040);const k=[["path",{d:"m20 15-5.5 5.5L12 18",key:"6ytzne"}],["path",{d:"m4 16 6-12 5.115 10.23",key:"fyukjg"}],["path",{d:"M6 12h8",key:"1hdiqa"}]],u=(0,p.A)("spell-check",k)}}]);

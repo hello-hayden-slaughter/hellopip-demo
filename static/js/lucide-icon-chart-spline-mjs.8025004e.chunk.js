@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-chart-spline-mjs.8025004e.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[4697],{13666:function(e,t,n){n.r(t),n.d(t,{__iconNode:function(){return c},default:function(){return u}});var p=n(95133);const c=[["path",{d:"M3 3v16a2 2 0 0 0 2 2h16",key:"c24i48"}],["path",{d:"M7 16c.5-2 1.5-7 4-7 2 0 2 3 4 3 2.5 0 4.5-5 5-7",key:"lw07rv"}]],u=(0,p.A)("chart-spline",c)}}]);

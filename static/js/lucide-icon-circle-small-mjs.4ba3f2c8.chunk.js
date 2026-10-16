@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-circle-small-mjs.4ba3f2c8.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[80397],{18689:function(c,e,n){n.r(e),n.d(e,{__iconNode:function(){return t},default:function(){return u}});var r=n(97040);const t=[["circle",{cx:"12",cy:"12",r:"6",key:"1vlfrh"}]],u=(0,r.A)("circle-small",t)}}]);

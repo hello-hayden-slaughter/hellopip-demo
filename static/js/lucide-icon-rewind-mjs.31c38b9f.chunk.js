@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-rewind-mjs.31c38b9f.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[52526],{92410:function(e,n,t){t.r(n),t.d(n,{__iconNode:function(){return p},default:function(){return u}});var a=t(97040);const p=[["path",{d:"M12 6a2 2 0 0 0-3.414-1.414l-6 6a2 2 0 0 0 0 2.828l6 6A2 2 0 0 0 12 18z",key:"2a1g8i"}],["path",{d:"M22 6a2 2 0 0 0-3.414-1.414l-6 6a2 2 0 0 0 0 2.828l6 6A2 2 0 0 0 22 18z",key:"rg3s36"}]],u=(0,a.A)("rewind",p)}}]);

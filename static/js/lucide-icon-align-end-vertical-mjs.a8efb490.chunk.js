@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-align-end-vertical-mjs.a8efb490.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[19301],{72525:function(e,t,i){i.r(t),i.d(t,{__iconNode:function(){return c},default:function(){return p}});var n=i(97040);const c=[["rect",{width:"16",height:"6",x:"2",y:"4",rx:"2",key:"10wcwx"}],["rect",{width:"9",height:"6",x:"9",y:"14",rx:"2",key:"4p5bwg"}],["path",{d:"M22 22V2",key:"12ipfv"}]],p=(0,n.A)("align-end-vertical",c)}}]);

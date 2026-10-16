@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-case-upper-mjs.e603327e.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[87900],{57684:function(e,n,p){p.r(n),p.d(n,{__iconNode:function(){return a},default:function(){return u}});var t=p(97040);const a=[["path",{d:"M15 11h4.5a1 1 0 0 1 0 5h-4a.5.5 0 0 1-.5-.5v-9a.5.5 0 0 1 .5-.5h3a1 1 0 0 1 0 5",key:"nxs35"}],["path",{d:"m2 16 4.039-9.69a.5.5 0 0 1 .923 0L11 16",key:"d5nyq2"}],["path",{d:"M3.304 13h6.392",key:"1q3zxz"}]],u=(0,t.A)("case-upper",a)}}]);

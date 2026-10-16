@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-ratio-mjs.9c7b4015.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[53806],{51977:function(t,e,i){i.r(e),i.d(e,{__iconNode:function(){return r},default:function(){return u}});var n=i(95133);const r=[["rect",{width:"12",height:"20",x:"6",y:"2",rx:"2",key:"1oxtiu"}],["rect",{width:"20",height:"12",x:"2",y:"6",rx:"2",key:"9lu3g6"}]],u=(0,n.A)("ratio",r)}}]);

@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-text-search-mjs.d4f83ca2.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[29769],{79210:function(e,t,p){p.r(t),p.d(t,{__iconNode:function(){return k},default:function(){return n}});var c=p(95133);const k=[["path",{d:"M21 5H3",key:"1fi0y6"}],["path",{d:"M10 12H3",key:"1ulcyk"}],["path",{d:"M10 19H3",key:"108z41"}],["circle",{cx:"17",cy:"15",r:"3",key:"1upz2a"}],["path",{d:"m21 19-1.9-1.9",key:"dwi7p8"}]],n=(0,c.A)("text-search",k)}}]);

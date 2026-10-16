@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-circle-percent-mjs.92852993.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[22063],{24588:function(e,c,t){t.r(c),t.d(c,{__iconNode:function(){return n},default:function(){return r}});var p=t(95133);const n=[["circle",{cx:"12",cy:"12",r:"10",key:"1mglay"}],["path",{d:"m15 9-6 6",key:"1uzhvr"}],["path",{d:"M9 9h.01",key:"1q5me6"}],["path",{d:"M15 15h.01",key:"lqbp3k"}]],r=(0,p.A)("circle-percent",n)}}]);

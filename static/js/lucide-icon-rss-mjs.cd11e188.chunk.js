@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-rss-mjs.cd11e188.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[31475],{55905:function(e,t,c){c.r(t),c.d(t,{__iconNode:function(){return p},default:function(){return k}});var n=c(97040);const p=[["path",{d:"M4 11a9 9 0 0 1 9 9",key:"pv89mb"}],["path",{d:"M4 4a16 16 0 0 1 16 16",key:"k0647b"}],["circle",{cx:"5",cy:"19",r:"1",key:"bfqh0e"}]],k=(0,n.A)("rss",p)}}]);

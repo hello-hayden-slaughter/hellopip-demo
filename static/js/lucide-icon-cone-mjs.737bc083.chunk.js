@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-cone-mjs.737bc083.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[44558],{638:function(e,n,t){t.r(n),t.d(n,{__iconNode:function(){return c},default:function(){return u}});var p=t(97040);const c=[["path",{d:"m20.9 18.55-8-15.98a1 1 0 0 0-1.8 0l-8 15.98",key:"53pte7"}],["ellipse",{cx:"12",cy:"19",rx:"9",ry:"3",key:"1ji25f"}]],u=(0,p.A)("cone",c)}}]);

@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-carrot-mjs.5df5a403.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[30626],{66305:function(t,e,n){n.r(e),n.d(e,{__iconNode:function(){return a},default:function(){return r}});var p=n(95133);const a=[["path",{d:"M15 16a1 1 0 0 0-7-7q-4 4-5.987 12.385a.5.5 0 0 0 .602.602Q11 20 15 16l-3-3",key:"1ta62j"}],["path",{d:"M15 9q4 4 7 0-3-4-7 0 4-4 0-7-4 3 0 7",key:"1svf7i"}],["path",{d:"m8 15-2.58-2.58",key:"7t238r"}]],r=(0,p.A)("carrot",a)}}]);

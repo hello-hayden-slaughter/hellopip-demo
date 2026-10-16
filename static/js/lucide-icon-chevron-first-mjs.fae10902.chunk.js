@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-chevron-first-mjs.fae10902.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[3191],{15104:function(e,t,n){n.r(t),n.d(t,{__iconNode:function(){return r},default:function(){return u}});var p=n(95133);const r=[["path",{d:"m17 18-6-6 6-6",key:"1yerx2"}],["path",{d:"M7 6v12",key:"1p53r6"}]],u=(0,p.A)("chevron-first",r)}}]);

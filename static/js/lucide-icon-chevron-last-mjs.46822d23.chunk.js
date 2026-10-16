@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-chevron-last-mjs.46822d23.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[42025],{82066:function(e,t,n){n.r(t),n.d(t,{__iconNode:function(){return p},default:function(){return u}});var o=n(95133);const p=[["path",{d:"m7 18 6-6-6-6",key:"lwmzdw"}],["path",{d:"M17 6v12",key:"1o0aio"}]],u=(0,o.A)("chevron-last",p)}}]);

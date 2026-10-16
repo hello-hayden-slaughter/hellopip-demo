@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-book-alert-mjs.2cfc42e8.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[48321],{46014:function(t,e,p){p.r(e),p.d(e,{__iconNode:function(){return n},default:function(){return u}});var a=p(95133);const n=[["path",{d:"M12 13h.01",key:"y0uutt"}],["path",{d:"M12 6v3",key:"1m4b9j"}],["path",{d:"M4 19.5v-15A2.5 2.5 0 0 1 6.5 2H19a1 1 0 0 1 1 1v18a1 1 0 0 1-1 1H6.5a1 1 0 0 1 0-5H20",key:"k3hazp"}]],u=(0,a.A)("book-alert",n)}}]);

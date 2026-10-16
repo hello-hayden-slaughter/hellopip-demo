@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-link-2-off-mjs.fbd0c747.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[12286],{87514:function(e,n,t){t.r(n),t.d(n,{__iconNode:function(){return k},default:function(){return u}});var p=t(97040);const k=[["path",{d:"M9 17H7A5 5 0 0 1 7 7",key:"10o201"}],["path",{d:"M15 7h2a5 5 0 0 1 4 8",key:"1d3206"}],["line",{x1:"8",x2:"12",y1:"12",y2:"12",key:"rvw6j4"}],["line",{x1:"2",x2:"22",y1:"2",y2:"22",key:"a6p6uj"}]],u=(0,p.A)("link-2-off",k)}}]);

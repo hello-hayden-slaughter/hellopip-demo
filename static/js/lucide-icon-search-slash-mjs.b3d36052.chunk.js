@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-search-slash-mjs.b3d36052.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[40208],{93015:function(e,c,t){t.r(c),t.d(c,{__iconNode:function(){return s},default:function(){return p}});var n=t(97040);const s=[["path",{d:"m13.5 8.5-5 5",key:"1cs55j"}],["circle",{cx:"11",cy:"11",r:"8",key:"4ej97u"}],["path",{d:"m21 21-4.3-4.3",key:"1qie3q"}]],p=(0,n.A)("search-slash",s)}}]);

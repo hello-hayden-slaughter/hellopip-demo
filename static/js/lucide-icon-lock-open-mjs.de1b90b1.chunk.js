@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-lock-open-mjs.de1b90b1.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[73],{20431:function(e,t,n){n.r(t),n.d(t,{__iconNode:function(){return c},default:function(){return o}});var p=n(97040);const c=[["rect",{width:"18",height:"11",x:"3",y:"11",rx:"2",ry:"2",key:"1w4ew1"}],["path",{d:"M7 11V7a5 5 0 0 1 9.9-1",key:"1mm8w8"}]],o=(0,p.A)("lock-open",c)}}]);

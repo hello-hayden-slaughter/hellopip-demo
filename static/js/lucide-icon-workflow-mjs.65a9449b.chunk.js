@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-workflow-mjs.65a9449b.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[17732],{132:function(e,t,n){n.r(t),n.d(t,{__iconNode:function(){return c},default:function(){return h}});var r=n(97040);const c=[["rect",{width:"8",height:"8",x:"3",y:"3",rx:"2",key:"by2w9f"}],["path",{d:"M7 11v4a2 2 0 0 0 2 2h4",key:"xkn7yn"}],["rect",{width:"8",height:"8",x:"13",y:"13",rx:"2",key:"1cgmvn"}]],h=(0,r.A)("workflow",c)}}]);

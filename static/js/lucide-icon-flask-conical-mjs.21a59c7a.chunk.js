@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-flask-conical-mjs.21a59c7a.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[29430],{17989:function(e,n,t){t.r(n),t.d(n,{__iconNode:function(){return a},default:function(){return c}});var p=t(95133);const a=[["path",{d:"M14 2v6a2 2 0 0 0 .245.96l5.51 10.08A2 2 0 0 1 18 22H6a2 2 0 0 1-1.755-2.96l5.51-10.08A2 2 0 0 0 10 8V2",key:"18mbvz"}],["path",{d:"M6.453 15h11.094",key:"3shlmq"}],["path",{d:"M8.5 2h7",key:"csnxdl"}]],c=(0,p.A)("flask-conical",a)}}]);

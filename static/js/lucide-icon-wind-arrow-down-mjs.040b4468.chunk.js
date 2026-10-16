@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-wind-arrow-down-mjs.040b4468.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[67172],{66490:function(e,n,p){p.r(n),p.d(n,{__iconNode:function(){return d},default:function(){return k}});var t=p(97040);const d=[["path",{d:"M10 2v8",key:"d4bbey"}],["path",{d:"M12.8 21.6A2 2 0 1 0 14 18H2",key:"19kp1d"}],["path",{d:"M17.5 10a2.5 2.5 0 1 1 2 4H2",key:"19kpjc"}],["path",{d:"m6 6 4 4 4-4",key:"k13n16"}]],k=(0,t.A)("wind-arrow-down",d)}}]);

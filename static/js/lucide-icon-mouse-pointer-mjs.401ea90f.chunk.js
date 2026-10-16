@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-mouse-pointer-mjs.401ea90f.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[85758],{77056:function(e,t,n){n.r(t),n.d(t,{__iconNode:function(){return u},default:function(){return a}});var p=n(97040);const u=[["path",{d:"M12.586 12.586 19 19",key:"ea5xo7"}],["path",{d:"M3.688 3.037a.497.497 0 0 0-.651.651l6.5 15.999a.501.501 0 0 0 .947-.062l1.569-6.083a2 2 0 0 1 1.448-1.479l6.124-1.579a.5.5 0 0 0 .063-.947z",key:"277e5u"}]],a=(0,p.A)("mouse-pointer",u)}}]);

@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-cloud-upload-mjs.390bee1e.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[55580],{44315:function(p,t,e){e.r(t),e.d(t,{__iconNode:function(){return u},default:function(){return a}});var n=e(95133);const u=[["path",{d:"M12 13v8",key:"1l5pq0"}],["path",{d:"M4 14.899A7 7 0 1 1 15.71 8h1.79a4.5 4.5 0 0 1 2.5 8.242",key:"1pljnt"}],["path",{d:"m8 17 4-4 4 4",key:"1quai1"}]],a=(0,n.A)("cloud-upload",u)}}]);

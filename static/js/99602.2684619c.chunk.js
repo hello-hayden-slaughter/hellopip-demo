@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[99602],{99602:function(e,t,c){c.d(t,{createArchitectureServices:function(){return p.S}});var p=c(68629);c(68380)}}]);

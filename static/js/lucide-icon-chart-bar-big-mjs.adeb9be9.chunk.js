@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-chart-bar-big-mjs.adeb9be9.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[45298],{85264:function(t,e,i){i.r(e),i.d(e,{__iconNode:function(){return r},default:function(){return c}});var n=i(97040);const r=[["path",{d:"M3 3v16a2 2 0 0 0 2 2h16",key:"c24i48"}],["rect",{x:"7",y:"13",width:"9",height:"4",rx:"1",key:"1iip1u"}],["rect",{x:"7",y:"5",width:"12",height:"4",rx:"1",key:"1anskk"}]],c=(0,n.A)("chart-bar-big",r)}}]);

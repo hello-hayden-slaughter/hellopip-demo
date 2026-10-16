@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-webcam-mjs.8d156601.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[492],{28699:function(e,c,t){t.r(c),t.d(c,{__iconNode:function(){return r},default:function(){return i}});var n=t(95133);const r=[["circle",{cx:"12",cy:"10",r:"8",key:"1gshiw"}],["circle",{cx:"12",cy:"10",r:"3",key:"ilqhr7"}],["path",{d:"M7 22h10",key:"10w4w3"}],["path",{d:"M12 22v-4",key:"1utk9m"}]],i=(0,n.A)("webcam",r)}}]);

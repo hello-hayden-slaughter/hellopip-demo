@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-circle-dollar-sign-mjs.2daaddea.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[87224],{99427:function(e,c,t){t.r(c),t.d(c,{__iconNode:function(){return p},default:function(){return r}});var n=t(95133);const p=[["circle",{cx:"12",cy:"12",r:"10",key:"1mglay"}],["path",{d:"M16 8h-6a2 2 0 1 0 0 4h4a2 2 0 1 1 0 4H8",key:"1h4pet"}],["path",{d:"M12 18V6",key:"zqpxq5"}]],r=(0,n.A)("circle-dollar-sign",p)}}]);

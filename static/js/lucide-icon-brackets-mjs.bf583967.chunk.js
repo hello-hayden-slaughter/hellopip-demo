@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-brackets-mjs.bf583967.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[36612],{46907:function(t,e,n){n.r(e),n.d(e,{__iconNode:function(){return p},default:function(){return u}});var a=n(95133);const p=[["path",{d:"M16 3h3a1 1 0 0 1 1 1v16a1 1 0 0 1-1 1h-3",key:"1kt8lf"}],["path",{d:"M8 21H5a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1h3",key:"gduv9"}]],u=(0,a.A)("brackets",p)}}]);

@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-dice-2-mjs.f76295aa.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[42463],{13887:function(e,t,n){n.r(t),n.d(t,{__iconNode:function(){return d},default:function(){return c}});var p=n(97040);const d=[["rect",{width:"18",height:"18",x:"3",y:"3",rx:"2",ry:"2",key:"1m3agn"}],["path",{d:"M15 9h.01",key:"x1ddxp"}],["path",{d:"M9 15h.01",key:"fzyn71"}]],c=(0,p.A)("dice-2",d)}}]);

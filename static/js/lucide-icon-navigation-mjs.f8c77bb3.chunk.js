@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-navigation-mjs.f8c77bb3.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[93061],{88162:function(n,t,e){e.r(t),e.d(t,{__iconNode:function(){return p},default:function(){return i}});var o=e(95133);const p=[["polygon",{points:"3 11 22 2 13 21 11 13 3 11",key:"1ltx0t"}]],i=(0,o.A)("navigation",p)}}]);

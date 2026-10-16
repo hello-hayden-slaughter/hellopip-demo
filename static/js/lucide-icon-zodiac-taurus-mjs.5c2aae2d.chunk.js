@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-zodiac-taurus-mjs.5c2aae2d.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[85534],{33576:function(e,c,t){t.r(c),t.d(c,{__iconNode:function(){return u},default:function(){return p}});var n=t(97040);const u=[["circle",{cx:"12",cy:"15",r:"6",key:"lhqcmb"}],["path",{d:"M18 3A6 6 0 0 1 6 3",key:"1p399e"}]],p=(0,n.A)("zodiac-taurus",u)}}]);

@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-list-indent-increase-mjs.f96aaa78.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[39943],{98408:function(e,t,n){n.r(t),n.d(t,{__iconNode:function(){return a},default:function(){return s}});var p=n(95133);const a=[["path",{d:"M21 5H11",key:"us1j55"}],["path",{d:"M21 12H11",key:"wd7e0v"}],["path",{d:"M21 19H11",key:"saa85w"}],["path",{d:"m3 8 4 4-4 4",key:"1a3j6y"}]],s=(0,p.A)("list-indent-increase",a)}}]);

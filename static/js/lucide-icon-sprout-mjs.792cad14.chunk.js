@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-sprout-mjs.792cad14.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[53028],{47724:function(t,e,p){p.r(e),p.d(e,{__iconNode:function(){return n},default:function(){return u}});var a=p(97040);const n=[["path",{d:"M14 9.536V7a4 4 0 0 1 4-4h1.5a.5.5 0 0 1 .5.5V5a4 4 0 0 1-4 4 4 4 0 0 0-4 4c0 2 1 3 1 5a5 5 0 0 1-1 3",key:"139s4v"}],["path",{d:"M4 9a5 5 0 0 1 8 4 5 5 0 0 1-8-4",key:"1dlkgp"}],["path",{d:"M5 21h14",key:"11awu3"}]],u=(0,a.A)("sprout",n)}}]);

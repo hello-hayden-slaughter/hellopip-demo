@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-shrub-mjs.367a6035.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[63047],{85465:function(e,t,p){p.r(t),p.d(t,{__iconNode:function(){return u},default:function(){return a}});var n=p(97040);const u=[["path",{d:"M12 22v-5.172a2 2 0 0 0-.586-1.414L9.5 13.5",key:"1p17fm"}],["path",{d:"M14.5 14.5 12 17",key:"dy5w4y"}],["path",{d:"M17 8.8A6 6 0 0 1 13.8 20H10A6.5 6.5 0 0 1 7 8a5 5 0 0 1 10 0z",key:"6z7b3o"}]],a=(0,n.A)("shrub",u)}}]);

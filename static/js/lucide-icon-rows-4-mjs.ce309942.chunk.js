@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-rows-4-mjs.ce309942.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[11939],{98335:function(t,e,n){n.r(e),n.d(e,{__iconNode:function(){return k},default:function(){return h}});var p=n(97040);const k=[["rect",{width:"18",height:"18",x:"3",y:"3",rx:"2",key:"afitv7"}],["path",{d:"M21 7.5H3",key:"1hm9pq"}],["path",{d:"M21 12H3",key:"2avoz0"}],["path",{d:"M21 16.5H3",key:"n7jzkj"}]],h=(0,p.A)("rows-4",k)}}]);

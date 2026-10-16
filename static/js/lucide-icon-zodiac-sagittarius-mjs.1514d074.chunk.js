@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-zodiac-sagittarius-mjs.1514d074.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[45334],{12721:function(t,e,n){n.r(e),n.d(e,{__iconNode:function(){return i},default:function(){return u}});var p=n(95133);const i=[["path",{d:"M15 3h6v6",key:"1q9fwt"}],["path",{d:"M21 3 3 21",key:"1011np"}],["path",{d:"m9 9 6 6",key:"z0biqf"}]],u=(0,p.A)("zodiac-sagittarius",i)}}]);

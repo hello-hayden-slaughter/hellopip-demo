@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-barcode-mjs.134620db.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[81779],{73492:function(e,t,n){n.r(t),n.d(t,{__iconNode:function(){return k},default:function(){return d}});var p=n(95133);const k=[["path",{d:"M3 5v14",key:"1nt18q"}],["path",{d:"M8 5v14",key:"1ybrkv"}],["path",{d:"M12 5v14",key:"s699le"}],["path",{d:"M17 5v14",key:"ycjyhj"}],["path",{d:"M21 5v14",key:"nzette"}]],d=(0,p.A)("barcode",k)}}]);

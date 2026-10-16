@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-eye-mjs.d9a4c788.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[87196],{89158:function(e,c,n){n.r(c),n.d(c,{__iconNode:function(){return p},default:function(){return r}});var t=n(97040);const p=[["path",{d:"M2.062 12.348a1 1 0 0 1 0-.696 10.75 10.75 0 0 1 19.876 0 1 1 0 0 1 0 .696 10.75 10.75 0 0 1-19.876 0",key:"1nclc0"}],["circle",{cx:"12",cy:"12",r:"3",key:"1v7zrd"}]],r=(0,t.A)("eye",p)}}]);

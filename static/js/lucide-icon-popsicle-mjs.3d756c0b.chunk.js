@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-popsicle-mjs.3d756c0b.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[88986],{31178:function(e,p,t){t.r(p),t.d(p,{__iconNode:function(){return c},default:function(){return o}});var n=t(97040);const c=[["path",{d:"M18.6 14.4c.8-.8.8-2 0-2.8l-8.1-8.1a4.95 4.95 0 1 0-7.1 7.1l8.1 8.1c.9.7 2.1.7 2.9-.1Z",key:"1o68ps"}],["path",{d:"m22 22-5.5-5.5",key:"17o70y"}]],o=(0,n.A)("popsicle",c)}}]);

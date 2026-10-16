@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-square-chevron-down-mjs.9008cbb6.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[26239],{16536:function(e,t,n){n.r(t),n.d(t,{__iconNode:function(){return u},default:function(){return c}});var r=n(95133);const u=[["rect",{width:"18",height:"18",x:"3",y:"3",rx:"2",key:"afitv7"}],["path",{d:"m16 10-4 4-4-4",key:"894hmk"}]],c=(0,r.A)("square-chevron-down",u)}}]);

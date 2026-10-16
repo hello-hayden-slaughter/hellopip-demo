@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-list-check-mjs.76501b43.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[96560],{52459:function(e,t,n){n.r(t),n.d(t,{__iconNode:function(){return k},default:function(){return u}});var p=n(95133);const k=[["path",{d:"M16 5H3",key:"m91uny"}],["path",{d:"M16 12H3",key:"1a2rj7"}],["path",{d:"M11 19H3",key:"zflm78"}],["path",{d:"m15 18 2 2 4-4",key:"1szwhi"}]],u=(0,p.A)("list-check",k)}}]);

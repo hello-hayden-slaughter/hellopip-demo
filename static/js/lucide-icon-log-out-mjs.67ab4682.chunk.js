@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-log-out-mjs.67ab4682.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[7626],{57873:function(t,e,n){n.r(e),n.d(e,{__iconNode:function(){return u},default:function(){return o}});var p=n(95133);const u=[["path",{d:"m16 17 5-5-5-5",key:"1bji2h"}],["path",{d:"M21 12H9",key:"dn1m92"}],["path",{d:"M9 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h4",key:"1uf3rs"}]],o=(0,p.A)("log-out",u)}}]);

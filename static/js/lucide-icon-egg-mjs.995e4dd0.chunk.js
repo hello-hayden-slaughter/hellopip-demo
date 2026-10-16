@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-egg-mjs.995e4dd0.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[6212],{68898:function(e,n,t){t.r(n),t.d(n,{__iconNode:function(){return u},default:function(){return c}});var p=t(97040);const u=[["path",{d:"M12 2C8 2 4 8 4 14a8 8 0 0 0 16 0c0-6-4-12-8-12",key:"1le142"}]],c=(0,p.A)("egg",u)}}]);

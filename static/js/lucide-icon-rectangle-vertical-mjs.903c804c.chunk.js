@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-rectangle-vertical-mjs.903c804c.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[73189],{5154:function(e,t,n){n.r(t),n.d(t,{__iconNode:function(){return i},default:function(){return r}});var c=n(95133);const i=[["rect",{width:"12",height:"20",x:"6",y:"2",rx:"2",key:"1oxtiu"}]],r=(0,c.A)("rectangle-vertical",i)}}]);

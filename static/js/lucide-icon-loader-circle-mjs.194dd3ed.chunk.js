@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-loader-circle-mjs.194dd3ed.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[45274],{98471:function(e,n,t){t.r(n),t.d(n,{__iconNode:function(){return p},default:function(){return u}});var c=t(97040);const p=[["path",{d:"M21 12a9 9 0 1 1-6.219-8.56",key:"13zald"}]],u=(0,c.A)("loader-circle",p)}}]);

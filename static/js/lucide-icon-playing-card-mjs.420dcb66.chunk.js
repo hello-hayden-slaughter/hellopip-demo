@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-playing-card-mjs.420dcb66.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[51046],{10358:function(e,t,n){n.r(t),n.d(t,{__iconNode:function(){return c},default:function(){return p}});var a=n(97040);const c=[["path",{d:"M12.832 8.445a1 1 0 00-1.589-.098l-2.075 3.098a1 1 0 000 1.11l2 3a1 1 0 001.664 0l2-3a1 1 0 000-1.11z",key:"r2cm5y"}],["rect",{x:"5",y:"2",width:"14",height:"20",rx:"2",key:"1k0ky4"}]],p=(0,a.A)("playing-card",c)}}]);

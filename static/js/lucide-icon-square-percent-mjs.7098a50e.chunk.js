@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-square-percent-mjs.7098a50e.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[78082],{29757:function(e,t,p){p.r(t),p.d(t,{__iconNode:function(){return h},default:function(){return r}});var n=p(95133);const h=[["rect",{width:"18",height:"18",x:"3",y:"3",rx:"2",key:"afitv7"}],["path",{d:"m15 9-6 6",key:"1uzhvr"}],["path",{d:"M9 9h.01",key:"1q5me6"}],["path",{d:"M15 15h.01",key:"lqbp3k"}]],r=(0,n.A)("square-percent",h)}}]);

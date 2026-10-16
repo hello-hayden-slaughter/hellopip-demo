@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-glass-water-mjs.bace6c3f.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[56597],{20262:function(t,e,n){n.r(e),n.d(e,{__iconNode:function(){return a},default:function(){return s}});var p=n(95133);const a=[["path",{d:"M5.116 4.104A1 1 0 0 1 6.11 3h11.78a1 1 0 0 1 .994 1.105L17.19 20.21A2 2 0 0 1 15.2 22H8.8a2 2 0 0 1-2-1.79z",key:"p55z4y"}],["path",{d:"M6 12a5 5 0 0 1 6 0 5 5 0 0 0 6 0",key:"mjntcy"}]],s=(0,p.A)("glass-water",a)}}]);

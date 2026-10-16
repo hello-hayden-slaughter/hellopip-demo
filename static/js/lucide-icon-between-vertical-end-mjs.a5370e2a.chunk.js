@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-between-vertical-end-mjs.a5370e2a.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[98544],{70332:function(e,t,n){n.r(t),n.d(t,{__iconNode:function(){return r},default:function(){return u}});var i=n(97040);const r=[["rect",{width:"7",height:"13",x:"3",y:"3",rx:"1",key:"1fdu0f"}],["path",{d:"m9 22 3-3 3 3",key:"17z65a"}],["rect",{width:"7",height:"13",x:"14",y:"3",rx:"1",key:"1squn4"}]],u=(0,i.A)("between-vertical-end",r)}}]);

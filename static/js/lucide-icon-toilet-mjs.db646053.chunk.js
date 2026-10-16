@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-toilet-mjs.db646053.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[88332],{69579:function(t,e,a){a.r(e),a.d(e,{__iconNode:function(){return p},default:function(){return k}});var n=a(95133);const p=[["path",{d:"M7 12h13a1 1 0 0 1 1 1 5 5 0 0 1-5 5h-.598a.5.5 0 0 0-.424.765l1.544 2.47a.5.5 0 0 1-.424.765H5.402a.5.5 0 0 1-.424-.765L7 18",key:"kc4kqr"}],["path",{d:"M8 18a5 5 0 0 1-5-5V4a2 2 0 0 1 2-2h8a2 2 0 0 1 2 2v8",key:"1tqs57"}]],k=(0,n.A)("toilet",p)}}]);

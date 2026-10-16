@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-globe-check-mjs.b96771e3.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[47583],{43504:function(e,t,n){n.r(t),n.d(t,{__iconNode:function(){return c},default:function(){return o}});var p=n(95133);const c=[["path",{d:"m15 6 2 2 4-4",key:"levio8"}],["path",{d:"M2 12h20A10 10 0 1 1 12 2a14.5 14.5 0 0 0 0 20 14.5 14.5 0 0 0 4-10",key:"46evmv"}]],o=(0,p.A)("globe-check",c)}}]);

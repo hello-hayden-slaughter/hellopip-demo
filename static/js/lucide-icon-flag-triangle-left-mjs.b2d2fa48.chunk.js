@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-flag-triangle-left-mjs.b2d2fa48.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[3568],{16211:function(t,e,n){n.r(e),n.d(e,{__iconNode:function(){return u},default:function(){return a}});var p=n(95133);const u=[["path",{d:"M18 22V2.8a.8.8 0 0 0-1.17-.71L5.45 7.78a.8.8 0 0 0 0 1.44L18 15.5",key:"rbbtmw"}]],a=(0,p.A)("flag-triangle-left",u)}}]);

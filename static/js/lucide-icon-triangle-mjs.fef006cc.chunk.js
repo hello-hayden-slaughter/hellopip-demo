@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-triangle-mjs.fef006cc.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[15715],{47103:function(e,n,t){t.r(n),t.d(n,{__iconNode:function(){return u},default:function(){return a}});var p=t(97040);const u=[["path",{d:"M13.73 4a2 2 0 0 0-3.46 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z",key:"14u9p9"}]],a=(0,p.A)("triangle",u)}}]);

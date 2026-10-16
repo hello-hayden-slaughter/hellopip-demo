@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-folder-clock-mjs.1bac8281.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[65538],{98682:function(e,c,o){o.r(c),o.d(c,{__iconNode:function(){return n},default:function(){return u}});var t=o(97040);const n=[["path",{d:"M16 14v2.2l1.6 1",key:"fo4ql5"}],["path",{d:"M7 20H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h3.9a2 2 0 0 1 1.69.9l.81 1.2a2 2 0 0 0 1.67.9H20a2 2 0 0 1 2 2",key:"1urifu"}],["circle",{cx:"16",cy:"16",r:"6",key:"qoo3c4"}]],u=(0,t.A)("folder-clock",n)}}]);

@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-wind-mjs.13248e6b.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[64777],{32050:function(e,t,n){n.r(t),n.d(t,{__iconNode:function(){return u},default:function(){return d}});var p=n(95133);const u=[["path",{d:"M12.8 19.6A2 2 0 1 0 14 16H2",key:"148xed"}],["path",{d:"M17.5 8a2.5 2.5 0 1 1 2 4H2",key:"1u4tom"}],["path",{d:"M9.8 4.4A2 2 0 1 1 11 8H2",key:"75valh"}]],d=(0,p.A)("wind",u)}}]);

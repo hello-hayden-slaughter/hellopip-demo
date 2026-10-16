@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-lasso-mjs.7e5c68dd.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[53145],{79591:function(e,c,p){p.r(c),p.d(c,{__iconNode:function(){return n},default:function(){return s}});var t=p(97040);const n=[["path",{d:"M3.704 14.467a10 8 0 1 1 3.115 2.375",key:"wxgc5m"}],["path",{d:"M7 22a5 5 0 0 1-2-3.994",key:"1xp6a4"}],["circle",{cx:"5",cy:"16",r:"2",key:"18csp3"}]],s=(0,t.A)("lasso",n)}}]);

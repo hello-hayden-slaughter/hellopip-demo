@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-form-mjs.11daa192.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[21265],{58062:function(e,t,h){h.r(t),h.d(t,{__iconNode:function(){return r},default:function(){return c}});var n=h(95133);const r=[["path",{d:"M4 14h6",key:"77gv2w"}],["path",{d:"M4 2h10",key:"a2b314"}],["rect",{x:"4",y:"18",width:"16",height:"4",rx:"1",key:"sybzq6"}],["rect",{x:"4",y:"6",width:"16",height:"4",rx:"1",key:"1osc9e"}]],c=(0,n.A)("form",r)}}]);

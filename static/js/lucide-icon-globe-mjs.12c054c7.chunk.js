@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-globe-mjs.12c054c7.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[95012],{42367:function(e,t,c){c.r(t),c.d(t,{__iconNode:function(){return p},default:function(){return u}});var n=c(95133);const p=[["circle",{cx:"12",cy:"12",r:"10",key:"1mglay"}],["path",{d:"M12 2a14.5 14.5 0 0 0 0 20 14.5 14.5 0 0 0 0-20",key:"13o1zl"}],["path",{d:"M2 12h20",key:"9i4pu4"}]],u=(0,n.A)("globe",p)}}]);

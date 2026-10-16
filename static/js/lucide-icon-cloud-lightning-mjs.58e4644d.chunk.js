@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-cloud-lightning-mjs.58e4644d.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[7049],{71755:function(e,t,n){n.r(t),n.d(t,{__iconNode:function(){return u},default:function(){return c}});var p=n(97040);const u=[["path",{d:"M6 16.326A7 7 0 1 1 15.71 8h1.79a4.5 4.5 0 0 1 .5 8.973",key:"1cez44"}],["path",{d:"m13 12-3 5h4l-3 5",key:"1t22er"}]],c=(0,p.A)("cloud-lightning",u)}}]);

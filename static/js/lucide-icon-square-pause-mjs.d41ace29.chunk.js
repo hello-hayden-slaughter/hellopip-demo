@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-square-pause-mjs.d41ace29.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[48023],{20915:function(e,n,t){t.r(n),t.d(n,{__iconNode:function(){return u},default:function(){return s}});var i=t(97040);const u=[["rect",{width:"18",height:"18",x:"3",y:"3",rx:"2",key:"afitv7"}],["line",{x1:"10",x2:"10",y1:"15",y2:"9",key:"c1nkhi"}],["line",{x1:"14",x2:"14",y1:"15",y2:"9",key:"h65svq"}]],s=(0,i.A)("square-pause",u)}}]);

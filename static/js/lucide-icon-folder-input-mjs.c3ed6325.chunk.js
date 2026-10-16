@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-folder-input-mjs.c3ed6325.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[96472],{57443:function(t,e,p){p.r(e),p.d(e,{__iconNode:function(){return n},default:function(){return u}});var a=p(95133);const n=[["path",{d:"M2 9V5a2 2 0 0 1 2-2h3.9a2 2 0 0 1 1.69.9l.81 1.2a2 2 0 0 0 1.67.9H20a2 2 0 0 1 2 2v10a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2v-1",key:"fm4g5t"}],["path",{d:"M2 13h10",key:"pgb2dq"}],["path",{d:"m9 16 3-3-3-3",key:"6m91ic"}]],u=(0,a.A)("folder-input",n)}}]);

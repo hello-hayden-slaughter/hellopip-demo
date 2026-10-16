@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-fuel-mjs.ff89d9aa.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[44723],{80959:function(e,t,p){p.r(t),p.d(t,{__iconNode:function(){return n},default:function(){return u}});var a=p(97040);const n=[["path",{d:"M14 13h2a2 2 0 0 1 2 2v2a2 2 0 0 0 4 0v-6.998a2 2 0 0 0-.59-1.42L18 5",key:"1wtuz0"}],["path",{d:"M14 21V5a2 2 0 0 0-2-2H5a2 2 0 0 0-2 2v16",key:"e09ifn"}],["path",{d:"M2 21h13",key:"1x0fut"}],["path",{d:"M3 9h11",key:"1p7c0w"}]],u=(0,a.A)("fuel",n)}}]);

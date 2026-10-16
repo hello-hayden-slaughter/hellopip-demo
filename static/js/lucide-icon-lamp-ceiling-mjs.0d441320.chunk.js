@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-lamp-ceiling-mjs.0d441320.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[79279],{43363:function(e,n,p){p.r(n),p.d(n,{__iconNode:function(){return a},default:function(){return i}});var t=p(97040);const a=[["path",{d:"M12 2v5",key:"nd4vlx"}],["path",{d:"M14.829 15.998a3 3 0 1 1-5.658 0",key:"1pybiy"}],["path",{d:"M20.92 14.606A1 1 0 0 1 20 16H4a1 1 0 0 1-.92-1.394l3-7A1 1 0 0 1 7 7h10a1 1 0 0 1 .92.606z",key:"ma1wor"}]],i=(0,t.A)("lamp-ceiling",a)}}]);

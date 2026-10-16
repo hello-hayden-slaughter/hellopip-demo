@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-alert-circle-mjs.314fc780.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[18612],{8360:function(e,p,t){t.r(p),t.d(p,{default:function(){return u.default}});var u=t(42810)}}]);

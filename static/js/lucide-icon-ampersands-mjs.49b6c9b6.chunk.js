@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-ampersands-mjs.49b6c9b6.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[99419],{70899:function(e,c,n){n.r(c),n.d(c,{__iconNode:function(){return p},default:function(){return a}});var t=n(97040);const p=[["path",{d:"M10 17c-5-3-7-7-7-9a2 2 0 0 1 4 0c0 2.5-5 2.5-5 6 0 1.7 1.3 3 3 3 2.8 0 5-2.2 5-5",key:"12lh1k"}],["path",{d:"M22 17c-5-3-7-7-7-9a2 2 0 0 1 4 0c0 2.5-5 2.5-5 6 0 1.7 1.3 3 3 3 2.8 0 5-2.2 5-5",key:"173c68"}]],a=(0,t.A)("ampersands",p)}}]);

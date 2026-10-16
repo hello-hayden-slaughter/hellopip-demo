@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-circle-gauge-mjs.ea05c168.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[40797],{68809:function(e,c,t){t.r(c),t.d(c,{__iconNode:function(){return n},default:function(){return r}});var p=t(97040);const n=[["path",{d:"M15.6 2.7a10 10 0 1 0 5.7 5.7",key:"1e0p6d"}],["circle",{cx:"12",cy:"12",r:"2",key:"1c9p78"}],["path",{d:"M13.4 10.6 19 5",key:"1kr7tw"}]],r=(0,p.A)("circle-gauge",n)}}]);

@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-square-power-mjs.2c827dca.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[80090],{13125:function(e,t,p){p.r(t),p.d(t,{__iconNode:function(){return o},default:function(){return r}});var n=p(95133);const o=[["path",{d:"M12 7v4",key:"xawao1"}],["path",{d:"M7.998 9.003a5 5 0 1 0 8-.005",key:"1pek45"}],["rect",{x:"3",y:"3",width:"18",height:"18",rx:"2",key:"h1oib"}]],r=(0,n.A)("square-power",o)}}]);

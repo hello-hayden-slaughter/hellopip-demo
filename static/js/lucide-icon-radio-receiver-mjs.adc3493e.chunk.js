@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-radio-receiver-mjs.adc3493e.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[66122],{62121:function(e,t,n){n.r(t),n.d(t,{__iconNode:function(){return i},default:function(){return p}});var r=n(95133);const i=[["path",{d:"M5 16v2",key:"g5qcv5"}],["path",{d:"M19 16v2",key:"1gbaio"}],["rect",{width:"20",height:"8",x:"2",y:"8",rx:"2",key:"vjsjur"}],["path",{d:"M18 12h.01",key:"yjnet6"}]],p=(0,r.A)("radio-receiver",i)}}]);

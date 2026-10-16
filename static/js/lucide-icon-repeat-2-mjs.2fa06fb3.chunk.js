@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-repeat-2-mjs.2fa06fb3.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[2443],{96888:function(t,e,n){n.r(e),n.d(e,{__iconNode:function(){return a},default:function(){return k}});var p=n(95133);const a=[["path",{d:"m2 9 3-3 3 3",key:"1ltn5i"}],["path",{d:"M13 18H7a2 2 0 0 1-2-2V6",key:"1r6tfw"}],["path",{d:"m22 15-3 3-3-3",key:"4rnwn2"}],["path",{d:"M11 6h6a2 2 0 0 1 2 2v10",key:"2f72bc"}]],k=(0,p.A)("repeat-2",a)}}]);

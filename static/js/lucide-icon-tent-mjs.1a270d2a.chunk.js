@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-tent-mjs.1a270d2a.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[41472],{42964:function(t,e,n){n.r(e),n.d(e,{__iconNode:function(){return d},default:function(){return k}});var p=n(97040);const d=[["path",{d:"M3.5 21 14 3",key:"1szst5"}],["path",{d:"M20.5 21 10 3",key:"1310c3"}],["path",{d:"M15.5 21 12 15l-3.5 6",key:"1ddtfw"}],["path",{d:"M2 21h20",key:"1nyx9w"}]],k=(0,p.A)("tent",d)}}]);

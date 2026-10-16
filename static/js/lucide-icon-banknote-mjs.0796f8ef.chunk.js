@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-banknote-mjs.0796f8ef.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[9389],{73282:function(e,t,c){c.r(t),c.d(t,{__iconNode:function(){return k},default:function(){return p}});var n=c(95133);const k=[["rect",{width:"20",height:"12",x:"2",y:"6",rx:"2",key:"9lu3g6"}],["circle",{cx:"12",cy:"12",r:"2",key:"1c9p78"}],["path",{d:"M6 12h.01M18 12h.01",key:"113zkx"}]],p=(0,n.A)("banknote",k)}}]);

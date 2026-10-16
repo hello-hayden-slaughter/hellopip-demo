@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-book-up-mjs.9d2eef5c.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[76716],{7254:function(e,p,t){t.r(p),t.d(p,{__iconNode:function(){return a},default:function(){return k}});var n=t(97040);const a=[["path",{d:"M12 13V7",key:"h0r20n"}],["path",{d:"M4 19.5v-15A2.5 2.5 0 0 1 6.5 2H19a1 1 0 0 1 1 1v18a1 1 0 0 1-1 1H6.5a1 1 0 0 1 0-5H20",key:"k3hazp"}],["path",{d:"m9 10 3-3 3 3",key:"11gsxs"}]],k=(0,n.A)("book-up",a)}}]);

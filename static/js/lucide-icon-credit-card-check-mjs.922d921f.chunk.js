@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-credit-card-check-mjs.922d921f.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[44382],{27208:function(e,t,p){p.r(t),p.d(t,{__iconNode:function(){return c},default:function(){return n}});var a=p(97040);const c=[["path",{d:"M12.5 19H4a2 2 0 01-2-2V7a2 2 0 012-2h16a2 2 0 012 2v4",key:"1pfaq2"}],["path",{d:"m16 17 2 2 4-4",key:"uh5qu3"}],["path",{d:"M2 10h20",key:"1ir3d8"}]],n=(0,a.A)("credit-card-check",c)}}]);

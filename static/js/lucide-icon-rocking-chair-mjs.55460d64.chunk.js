@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-rocking-chair-mjs.55460d64.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[24066],{19989:function(e,t,p){p.r(t),p.d(t,{__iconNode:function(){return d},default:function(){return a}});var n=p(95133);const d=[["path",{d:"m15 13 3.708 7.416",key:"1edxn9"}],["path",{d:"M3 19a15 15 0 0 0 18 0",key:"d0d1c4"}],["path",{d:"m3 2 3.21 9.633A2 2 0 0 0 8.109 13H18",key:"tpa4et"}],["path",{d:"m9 13-3.708 7.416",key:"1oplxx"}]],a=(0,n.A)("rocking-chair",d)}}]);

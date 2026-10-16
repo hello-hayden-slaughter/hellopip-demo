@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-case-lower-mjs.785f25c3.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[94487],{40059:function(e,c,r){r.r(c),r.d(c,{__iconNode:function(){return n},default:function(){return p}});var t=r(97040);const n=[["path",{d:"M10 9v7",key:"ylp826"}],["path",{d:"M14 6v10",key:"1jy4vg"}],["circle",{cx:"17.5",cy:"12.5",r:"3.5",key:"1a9481"}],["circle",{cx:"6.5",cy:"12.5",r:"3.5",key:"2jlv1r"}]],p=(0,t.A)("case-lower",n)}}]);

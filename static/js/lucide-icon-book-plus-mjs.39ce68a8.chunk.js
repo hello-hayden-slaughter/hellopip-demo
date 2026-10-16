@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-book-plus-mjs.39ce68a8.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[83263],{77100:function(e,p,t){t.r(p),t.d(p,{__iconNode:function(){return a},default:function(){return k}});var n=t(95133);const a=[["path",{d:"M12 7v6",key:"lw1j43"}],["path",{d:"M4 19.5v-15A2.5 2.5 0 0 1 6.5 2H19a1 1 0 0 1 1 1v18a1 1 0 0 1-1 1H6.5a1 1 0 0 1 0-5H20",key:"k3hazp"}],["path",{d:"M9 10h6",key:"9gxzsh"}]],k=(0,n.A)("book-plus",a)}}]);

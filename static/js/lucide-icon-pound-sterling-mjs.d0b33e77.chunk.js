@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-pound-sterling-mjs.d0b33e77.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[56684],{68519:function(t,e,n){n.r(e),n.d(e,{__iconNode:function(){return d},default:function(){return k}});var p=n(95133);const d=[["path",{d:"M18 7c0-5.333-8-5.333-8 0",key:"1prm2n"}],["path",{d:"M10 7v14",key:"18tmcs"}],["path",{d:"M6 21h12",key:"4dkmi1"}],["path",{d:"M6 13h10",key:"ybwr4a"}]],k=(0,p.A)("pound-sterling",d)}}]);

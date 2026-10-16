@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-signal-zero-mjs.30f792fd.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[66804],{22067:function(e,n,t){t.r(n),t.d(n,{__iconNode:function(){return p},default:function(){return u}});var o=t(95133);const p=[["path",{d:"M2 20h.01",key:"4haj6o"}]],u=(0,o.A)("signal-zero",p)}}]);

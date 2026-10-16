@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-philippine-peso-mjs.7ec2626b.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[64983],{25989:function(e,p,t){t.r(p),t.d(p,{__iconNode:function(){return a},default:function(){return i}});var n=t(97040);const a=[["path",{d:"M20 11H4",key:"6ut86h"}],["path",{d:"M20 7H4",key:"zbl0bi"}],["path",{d:"M7 21V4a1 1 0 0 1 1-1h4a1 1 0 0 1 0 12H7",key:"1ana5r"}]],i=(0,n.A)("philippine-peso",a)}}]);

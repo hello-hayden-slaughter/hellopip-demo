@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-kanban-mjs.e6af643a.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[11282],{88753:function(n,e,t){t.r(e),t.d(e,{__iconNode:function(){return k},default:function(){return s}});var p=t(95133);const k=[["path",{d:"M5 3v14",key:"9nsxs2"}],["path",{d:"M12 3v8",key:"1h2ygw"}],["path",{d:"M19 3v18",key:"1sk56x"}]],s=(0,p.A)("kanban",k)}}]);

@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-git-merge-mjs.2e2351ff.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[28164],{1479:function(e,c,t){t.r(c),t.d(c,{__iconNode:function(){return n},default:function(){return k}});var r=t(95133);const n=[["circle",{cx:"18",cy:"18",r:"3",key:"1xkwt0"}],["circle",{cx:"6",cy:"6",r:"3",key:"1lh9wr"}],["path",{d:"M6 21V9a9 9 0 0 0 9 9",key:"7kw0sc"}]],k=(0,r.A)("git-merge",n)}}]);

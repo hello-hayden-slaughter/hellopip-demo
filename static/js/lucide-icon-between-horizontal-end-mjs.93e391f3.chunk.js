@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-between-horizontal-end-mjs.93e391f3.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[64678],{21329:function(e,t,n){n.r(t),n.d(t,{__iconNode:function(){return i},default:function(){return r}});var h=n(95133);const i=[["rect",{width:"13",height:"7",x:"3",y:"3",rx:"1",key:"11xb64"}],["path",{d:"m22 15-3-3 3-3",key:"26chmm"}],["rect",{width:"13",height:"7",x:"3",y:"14",rx:"1",key:"k6ky7n"}]],r=(0,h.A)("between-horizontal-end",i)}}]);

@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-parentheses-mjs.259f648d.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[67343],{64776:function(e,t,n){n.r(t),n.d(t,{__iconNode:function(){return p},default:function(){return u}});var s=n(95133);const p=[["path",{d:"M8 21s-4-3-4-9 4-9 4-9",key:"uto9ud"}],["path",{d:"M16 3s4 3 4 9-4 9-4 9",key:"4w2vsq"}]],u=(0,s.A)("parentheses",p)}}]);

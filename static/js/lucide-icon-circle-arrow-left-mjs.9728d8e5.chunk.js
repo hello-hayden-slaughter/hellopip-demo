@@ -1,2 +1,0 @@
-/*! For license information please see lucide-icon-circle-arrow-left-mjs.9728d8e5.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[23273],{21435:function(e,c,t){t.r(c),t.d(c,{__iconNode:function(){return n},default:function(){return p}});var r=t(97040);const n=[["circle",{cx:"12",cy:"12",r:"10",key:"1mglay"}],["path",{d:"m12 8-4 4 4 4",key:"15vm53"}],["path",{d:"M16 12H8",key:"1fr5h0"}]],p=(0,r.A)("circle-arrow-left",n)}}]);

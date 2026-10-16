@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-circle-ellipsis-mjs.105a1541.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[29223],{85668:function(e,c,t){t.r(c),t.d(c,{__iconNode:function(){return n},default:function(){return d}});var p=t(95133);const n=[["circle",{cx:"12",cy:"12",r:"10",key:"1mglay"}],["path",{d:"M17 12h.01",key:"1m0b6t"}],["path",{d:"M12 12h.01",key:"1mp3jc"}],["path",{d:"M7 12h.01",key:"eqddd0"}]],d=(0,p.A)("circle-ellipsis",n)}}]);

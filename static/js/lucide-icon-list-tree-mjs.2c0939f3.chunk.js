@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-list-tree-mjs.2c0939f3.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[41982],{56745:function(e,t,p){p.r(t),p.d(t,{__iconNode:function(){return n},default:function(){return a}});var h=p(95133);const n=[["path",{d:"M8 5h13",key:"1pao27"}],["path",{d:"M13 12h8",key:"h98zly"}],["path",{d:"M13 19h8",key:"c3s6r1"}],["path",{d:"M3 10a2 2 0 0 0 2 2h3",key:"1npucw"}],["path",{d:"M3 5v12a2 2 0 0 0 2 2h3",key:"x1gjn2"}]],a=(0,h.A)("list-tree",n)}}]);

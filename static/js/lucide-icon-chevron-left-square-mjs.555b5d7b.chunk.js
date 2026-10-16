@@ -1,0 +1,2 @@
+/*! For license information please see lucide-icon-chevron-left-square-mjs.555b5d7b.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkpip_desktop=self.webpackChunkpip_desktop||[]).push([[33348,74292],{65371:function(t,e,n){n.r(e),n.d(e,{default:function(){return u.default}});var u=n(62491)},62491:function(t,e,n){n.r(e),n.d(e,{__iconNode:function(){return r},default:function(){return c}});var u=n(95133);const r=[["rect",{width:"18",height:"18",x:"3",y:"3",rx:"2",key:"afitv7"}],["path",{d:"m14 16-4-4 4-4",key:"ojs7w8"}]],c=(0,u.A)("square-chevron-left",r)}}]);
